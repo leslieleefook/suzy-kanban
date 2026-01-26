@@ -1,0 +1,95 @@
+{
+  "updatedAt": "2026-01-26T15:47:00Z",
+  "tasks": [
+    {
+      "id": "d0765e14-bd16-4188-b311-99c94b4948fb",
+      "name": "💅 HIRA Spa Social Media Management",
+      "status": "in-progress",
+      "description": "<p><strong>Priority:</strong> High</p><p>Daily social media posts for Crystal's spa. Instagram + Facebook. Content: nail art, before/after, tips, testimonials, promotions. Late API connected.</p>"
+    },
+    {
+      "id": "f26fc43d-b180-450d-aef4-3b639074b6b8",
+      "name": "🚀 Talent Multi-tenant SaaS",
+      "status": "in-progress",
+      "description": "<p><strong>Priority:</strong> Critical</p><p>Talent AI platform multi-tenant SaaS. Phase 1 (Code Cleanup) DONE. Currently working on Phase 2 UI/UX Polish. Next: Supabase Integration, then Stripe billing.</p>"
+    },
+    {
+      "id": "9f6c3f15-daab-4d34-8b2f-240cbefde3f9",
+      "name": "📱 Daily social media scouring",
+      "status": "in-progress",
+      "description": "<p><strong>Priority:</strong> Medium</p><p>Scan Twitter/LinkedIn for: data analytics trends, Caribbean tech news, AI business applications, competitor insights.</p>"
+    },
+    {
+      "id": "85e858d8-6274-4a22-8352-a83d6f9edfa0",
+      "name": "🔧 Fix playwright-bot-tests CI",
+      "status": "in-progress",
+      "description": "<p><strong>Priority:</strong> High</p><p>Analyze and fix failing CI on the Playwright test suite. This is blocking other development work.</p>"
+    },
+    {
+      "id": "019bf911-0684-777f-a716-79720a119659",
+      "name": "🎨 Talent SaaS - UI/UX Polish (Phase 2)",
+      "status": "in-progress",
+      "description": "<p><strong>Priority:</strong> Critical</p><p>Phase 1 (Code Cleanup) DONE. Currently adding loading states, error handling, and polish to all components.</p>"
+    },
+    {
+      "id": "db7073e1-030c-4d27-af8d-f7899c942074",
+      "name": "🤖 HeartCap-Recruiter Multi-tenant SaaS",
+      "status": "todo",
+      "description": "<p><strong>Priority:</strong> Critical</p><p>AI Recruiter platform. Full multi-tenant SaaS with Supabase backend, candidate matching, job boards, ATS features.</p>"
+    },
+    {
+      "id": "972aa3e2-178e-4b11-9c22-83c524aa997c",
+      "name": "📊 Alygn-V2 Multi-tenant SaaS",
+      "status": "todo",
+      "description": "<p><strong>Priority:</strong> Critical</p><p>Enterprise Performance Intelligence platform. Full multi-tenant SaaS with Supabase backend, auth, billing, dashboards.</p>"
+    },
+    {
+      "id": "24a5990c-044b-4155-9f93-42083bcb5897",
+      "name": "🎬 CineSynth Multi-tenant SaaS",
+      "status": "todo",
+      "description": "<p><strong>Priority:</strong> High</p><p>Long-form video creation platform. Full multi-tenant SaaS with video generation, editing, templates.</p>"
+    },
+    {
+      "id": "056b5bcd-af32-4fb6-b042-6a35660818ef",
+      "name": "🎤 OratorFlow-Sass Multi-tenant SaaS",
+      "status": "todo",
+      "description": "<p><strong>Priority:</strong> High</p><p>Speaker coaching platform. Full multi-tenant SaaS with speech analysis, coaching feedback, progress tracking.</p>"
+    },
+    {
+      "id": "d09b4fa4-ecf6-4fcf-90ce-d9cf2effeba8",
+      "name": "⚡ Dare Multi-tenant SaaS",
+      "status": "todo",
+      "description": "<p><strong>Priority:</strong> High</p><p>AI Framework platform. Full multi-tenant SaaS - could be an AI agent builder/marketplace.</p>"
+    },
+    {
+      "id": "43549ff8-7090-47f3-99f6-6a12bb6ae799",
+      "name": "🧠 Second Brain web UI",
+      "status": "todo",
+      "description": "<p><strong>Priority:</strong> High</p><p>Build browsable interface with search, backlinks, and tree navigation for the Second Brain knowledge base.</p>"
+    },
+    {
+      "id": "f2fc4378-4d14-42bc-a6b5-fc28b361d024",
+      "name": "📈 AI-Align Multi-tenant SaaS",
+      "status": "todo",
+      "description": "<p><strong>Priority:</strong> Medium</p><p>Enterprise Performance Management. Full multi-tenant SaaS - may overlap with Alygn-V2, assess consolidation.</p>"
+    },
+    {
+      "id": "21145e42-ba7a-4881-a0e3-58667c39e398",
+      "name": "🚀 Deploy Kanban to GitHub Pages",
+      "status": "todo",
+      "description": "<p><strong>Priority:</strong> Medium</p><p>Host Kanban board publicly so Leslie can access from anywhere.</p>"
+    },
+    {
+      "id": "cf7587da-ac18-40bf-8d9b-266776438b9f",
+      "name": "📧 Set up Gmail integration",
+      "status": "todo",
+      "description": "<p><strong>Priority:</strong> Medium</p><p>Configure email for sending/receiving programmatically.</p>"
+    },
+    {
+      "id": "ba5a8e0b-cac7-4774-ba18-c987c0f7ebed",
+      "name": "✨ Kanban v2 improvements",
+      "status": "todo",
+      "description": "<p><strong>Priority:</strong> Low</p><p>Add: priority badges, due dates, progress notes, filters, auto-refresh to the Kanban board.</p>"
+    }
+  ]
+}

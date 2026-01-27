@@ -1,6 +1,125 @@
 {
-  "updatedAt": "2026-01-27T19:49:27.840Z",
+  "updatedAt": "2026-01-27T20:25:28.109Z",
   "tasks": [
+    {
+      "id": "f4bbd3bd-4043-4b87-a366-53ba7f3b8a37",
+      "name": "Build Kanban board v1",
+      "status": "completed",
+      "description": "[01/27/2026 16:25] 📥 Task created\n\nInitial Kanban with Infinity API. Deployed to GitHub Pages.",
+      "created": "2026-01-27T20:25:01.000000Z"
+    },
+    {
+      "id": "22c8a6ba-233d-4a8a-9235-1abc75640d8c",
+      "name": "Talent SaaS - Phase 2 UI/UX Complete",
+      "status": "completed",
+      "description": "[01/27/2026 16:24] 📥 Task created\n\nToast notifications, error boundaries, loading states, keyboard shortcuts, page transitions. DONE.",
+      "created": "2026-01-27T20:24:59.000000Z"
+    },
+    {
+      "id": "f1214f29-63a7-4378-9ce5-d99e0278a684",
+      "name": "HIRA Spa Social Media Management",
+      "status": "in-progress",
+      "description": "[01/27/2026 16:24] 📥 Task created\n\nCrystal's spa. Late API connected for FB/IG. Post regularly.",
+      "created": "2026-01-27T20:24:57.000000Z"
+    },
+    {
+      "id": "58ba53b6-e404-4671-9229-8d7bb8be19d0",
+      "name": "Research project ideas",
+      "status": "in-progress",
+      "description": "[01/27/2026 16:24] 📥 Task created\n\nCaribbean AI/tech ecosystem research. BlueNAP.AI, Crystal Evans Fthen, Swarm Intelligia competitors identified.",
+      "created": "2026-01-27T20:24:48.000000Z"
+    },
+    {
+      "id": "08380c8c-4ed6-49cb-8d42-f13142172e15",
+      "name": "Daily social media scouring",
+      "status": "in-progress",
+      "description": "[01/27/2026 16:24] 📥 Task created\n\nIndustry research scans via Exa. Results saved to brain/inbox/",
+      "created": "2026-01-27T20:24:47.000000Z"
+    },
+    {
+      "id": "a7cf7efb-2a9a-4cea-aa19-89668811befd",
+      "name": "Set up aggressive automation",
+      "status": "completed",
+      "description": "[01/27/2026 16:24] 📥 Task created\n\n24/7 mode, proactive heartbeats, usage tracking. Active in cron jobs.",
+      "created": "2026-01-27T20:24:45.000000Z"
+    },
+    {
+      "id": "47554526-9ded-4fa9-b8eb-52f773e56b77",
+      "name": "Kanban v2 improvements",
+      "status": "in-progress",
+      "description": "[01/27/2026 16:24] 📥 Task created\n\nPriority filters, auto-refresh added. Still need: due dates, progress notes (requires Infinity schema changes)",
+      "created": "2026-01-27T20:24:35.000000Z"
+    },
+    {
+      "id": "8efd4572-27b1-4e6f-96e4-9237e76fc581",
+      "name": "Deploy Kanban to GitHub Pages",
+      "status": "completed",
+      "description": "[01/27/2026 16:24] 📥 Task created\n\nSuzy Kanban deployed. URL: https://leslieleefook.github.io/suzy-kanban/",
+      "created": "2026-01-27T20:24:34.000000Z"
+    },
+    {
+      "id": "ec80de46-4ff5-44a6-8440-e908dd7535d3",
+      "name": "Morning briefing system",
+      "status": "completed",
+      "description": "[01/27/2026 16:24] 📥 Task created\n\n6am daily cron job with calendar, email, priorities. Active in HEARTBEAT.md",
+      "created": "2026-01-27T20:24:22.000000Z"
+    },
+    {
+      "id": "13f4779f-b37f-408a-8eeb-e0c0ce3066be",
+      "name": "Build Second Brain foundation",
+      "status": "completed",
+      "description": "[01/27/2026 16:24] 📥 Task created\n\nKnowledge base structure in P:\\\\Clawdbot\\\\brain with backlinks, tags",
+      "created": "2026-01-27T20:24:21.000000Z"
+    },
+    {
+      "id": "cf92fa2b-8fe1-427c-8fea-5baaa2cbe22c",
+      "name": "Second Brain web UI",
+      "status": "completed",
+      "description": "[01/27/2026 16:24] 📥 Task created\n\nBrowsable web interface for P:\\\\Clawdbot\\\\brain. Repo: github.com/leslieleefook/second-brain-ui",
+      "created": "2026-01-27T20:24:19.000000Z"
+    },
+    {
+      "id": "873b0079-7b2c-4ba7-98e9-4cb5cc0ac513",
+      "name": "Set up Gmail integration",
+      "status": "todo",
+      "description": "[01/27/2026 16:24] 📥 Task created\n\nConnect Gmail for email automation. Requires OAuth consent from Leslie.",
+      "created": "2026-01-27T20:24:11.000000Z"
+    },
+    {
+      "id": "d1bb62ba-3f0e-426b-a0d9-79c1607f523d",
+      "name": "AI-Align Multi-tenant SaaS",
+      "status": "todo",
+      "description": "[01/27/2026 16:24] 📥 Task created\n\nStrategic alignment platform - multi-tenant architecture",
+      "created": "2026-01-27T20:24:09.000000Z"
+    },
+    {
+      "id": "3c554ee7-77c8-48b0-8e2a-c47960ac574e",
+      "name": "Dare Multi-tenant SaaS",
+      "status": "todo",
+      "description": "[01/27/2026 16:24] 📥 Task created\n\nAI Framework - add multi-tenant architecture",
+      "created": "2026-01-27T20:24:08.000000Z"
+    },
+    {
+      "id": "f2bed292-0ae0-43a2-b281-55c36950a77f",
+      "name": "OratorFlow-Sass Multi-tenant SaaS",
+      "status": "todo",
+      "description": "[01/27/2026 16:23] 📥 Task created\n\nSpeaker coaching platform - add multi-tenant architecture",
+      "created": "2026-01-27T20:24:00.000000Z"
+    },
+    {
+      "id": "7e321f16-4c9d-447b-b0de-b5869801f607",
+      "name": "Talent SaaS - Phase 3 Supabase",
+      "status": "todo",
+      "description": "[01/27/2026 16:23] 📥 Task created\n\nIntegrate Supabase backend. Credentials needed: SUPABASE_URL, SUPABASE_ANON_KEY. Schema scaffolded in specs/04-supabase-integration.md",
+      "created": "2026-01-27T20:23:58.000000Z"
+    },
+    {
+      "id": "762af9bd-526d-4343-b0d8-0462a474f998",
+      "name": "Alygn-V2 Multi-tenant SaaS",
+      "status": "todo",
+      "description": "[01/27/2026 16:23] 📥 Task created\n\nEnterprise Performance Intelligence platform - add multi-tenant architecture, auth, billing",
+      "created": "2026-01-27T20:23:56.000000Z"
+    },
     {
       "id": "b10909be-3ec1-4e76-a3e6-3afd0a958517",
       "name": "CineSynth: Connect Database",

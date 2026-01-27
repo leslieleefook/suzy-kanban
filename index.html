@@ -104,6 +104,58 @@
         .stats span { display: flex; align-items: center; gap: 5px; }
         .loading { text-align: center; padding: 50px; color: #888; }
         .error { text-align: center; padding: 50px; color: #ff6b6b; }
+        .filters {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+        .filter-btn {
+            background: rgba(255,255,255,0.08);
+            border: 1px solid rgba(255,255,255,0.1);
+            color: #aaa;
+            padding: 8px 16px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 0.85rem;
+            transition: all 0.2s;
+        }
+        .filter-btn:hover {
+            background: rgba(255,255,255,0.15);
+            color: #fff;
+        }
+        .filter-btn.active {
+            background: linear-gradient(90deg, #ff6b9d, #c44569);
+            border-color: transparent;
+            color: #fff;
+        }
+        .card.filtered-out { display: none; }
+        .auto-refresh {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            margin-top: 10px;
+            color: #666;
+            font-size: 0.8rem;
+        }
+        .auto-refresh input[type="checkbox"] {
+            cursor: pointer;
+        }
+        .refresh-indicator {
+            display: inline-block;
+            width: 8px;
+            height: 8px;
+            background: #6bcb77;
+            border-radius: 50%;
+            margin-left: 5px;
+            animation: pulse 2s infinite;
+        }
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.3; }
+        }
         @media (max-width: 768px) {
             .board { grid-template-columns: 1fr; }
             header h1 { font-size: 1.5rem; }
@@ -122,11 +174,24 @@
         <span>✅ Completed: <strong id="completed-count">-</strong></span>
     </div>
     
+    <div class="filters">
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="critical">🔴 Critical</button>
+        <button class="filter-btn" data-filter="high">🟠 High</button>
+        <button class="filter-btn" data-filter="medium">🟡 Medium</button>
+        <button class="filter-btn" data-filter="low">⚪ Low</button>
+    </div>
+    
     <div class="board" id="board">
         <div class="loading">Loading tasks...</div>
     </div>
     
     <p class="refresh-note">Last updated: <span id="last-update">-</span></p>
+    <div class="auto-refresh">
+        <input type="checkbox" id="auto-refresh" checked>
+        <label for="auto-refresh">Auto-refresh every 60s</label>
+        <span class="refresh-indicator" id="refresh-indicator"></span>
+    </div>
 
     <script>
         async function loadTasks() {
@@ -219,7 +284,62 @@
             document.getElementById('last-update').textContent = data.updatedAt || new Date().toLocaleString();
         }
         
+        // Initial load
         loadTasks();
+        
+        // Filter functionality
+        let currentFilter = 'all';
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                currentFilter = btn.dataset.filter;
+                applyFilter();
+            });
+        });
+        
+        function applyFilter() {
+            document.querySelectorAll('.card').forEach(card => {
+                const priority = card.querySelector('.priority')?.textContent?.toLowerCase() || '';
+                if (currentFilter === 'all' || priority === currentFilter) {
+                    card.classList.remove('filtered-out');
+                } else {
+                    card.classList.add('filtered-out');
+                }
+            });
+        }
+        
+        // Auto-refresh functionality
+        let refreshInterval = null;
+        const autoRefreshCheckbox = document.getElementById('auto-refresh');
+        const refreshIndicator = document.getElementById('refresh-indicator');
+        
+        function startAutoRefresh() {
+            if (refreshInterval) clearInterval(refreshInterval);
+            refreshInterval = setInterval(() => {
+                loadTasks().then(() => applyFilter());
+            }, 60000);
+            refreshIndicator.style.display = 'inline-block';
+        }
+        
+        function stopAutoRefresh() {
+            if (refreshInterval) {
+                clearInterval(refreshInterval);
+                refreshInterval = null;
+            }
+            refreshIndicator.style.display = 'none';
+        }
+        
+        autoRefreshCheckbox.addEventListener('change', () => {
+            if (autoRefreshCheckbox.checked) {
+                startAutoRefresh();
+            } else {
+                stopAutoRefresh();
+            }
+        });
+        
+        // Start auto-refresh by default
+        startAutoRefresh();
     </script>
 </body>
 </html>

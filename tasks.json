@@ -1,95 +1,257 @@
 {
-  "updatedAt": "2026-01-26T15:47:00Z",
+  "updatedAt": "2026-01-27T01:35:01.893Z",
   "tasks": [
     {
+      "id": "007abdee-7855-4ceb-886c-2f44b07e7001",
+      "name": "007abdee-7855-4ceb-886c-2f44b07e7001",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "02c276ad-a3a9-4f4b-bd27-3594ab1cae8b",
+      "name": "02c276ad-a3a9-4f4b-bd27-3594ab1cae8b",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "ae2a75de-94f3-4d80-a703-2a46804492b3",
+      "name": "ae2a75de-94f3-4d80-a703-2a46804492b3",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "bca40efd-0c6a-4e0e-9054-f97255fe6290",
+      "name": "bca40efd-0c6a-4e0e-9054-f97255fe6290",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "1d58e0e9-2ee2-467c-b66b-316420f9a172",
+      "name": "1d58e0e9-2ee2-467c-b66b-316420f9a172",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "49e163d0-8d0e-4ebb-a70d-f364702bf662",
+      "name": "49e163d0-8d0e-4ebb-a70d-f364702bf662",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "d89416cb-8978-4e7b-92c5-ab6c8756593d",
+      "name": "d89416cb-8978-4e7b-92c5-ab6c8756593d",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "52b03dc2-92f0-4b1a-b957-74bb05e6ff63",
+      "name": "52b03dc2-92f0-4b1a-b957-74bb05e6ff63",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "22d3308d-5d8d-4aff-80c4-cd3c5e4fa518",
+      "name": "22d3308d-5d8d-4aff-80c4-cd3c5e4fa518",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "86a5b45a-275b-4dbd-914c-4e1e106d8a86",
+      "name": "86a5b45a-275b-4dbd-914c-4e1e106d8a86",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "237218b7-a190-4546-8fa5-ce0f728c490e",
+      "name": "237218b7-a190-4546-8fa5-ce0f728c490e",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "fe13c6dc-a79c-4b84-9821-3cd3eb9cc2a1",
+      "name": "fe13c6dc-a79c-4b84-9821-3cd3eb9cc2a1",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "cfdd052b-b932-41d7-8782-1c462a649def",
+      "name": "cfdd052b-b932-41d7-8782-1c462a649def",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "3d37831f-1ef9-47e5-ab2d-22917184e17b",
+      "name": "3d37831f-1ef9-47e5-ab2d-22917184e17b",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "ee4fd5d7-57a6-4adf-8816-53ce14a53b6f",
+      "name": "ee4fd5d7-57a6-4adf-8816-53ce14a53b6f",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "ef7db1e6-7632-47c0-afc8-480be9fbac9a",
+      "name": "ef7db1e6-7632-47c0-afc8-480be9fbac9a",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "4ff80e48-39b1-4752-a094-cf8cd86c3cf7",
+      "name": "4ff80e48-39b1-4752-a094-cf8cd86c3cf7",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "e1e78fe7-c551-4b87-9be7-33415e975cb2",
+      "name": "e1e78fe7-c551-4b87-9be7-33415e975cb2",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "8cf82f3b-e1be-4759-b220-7ac1d87a7f80",
+      "name": "8cf82f3b-e1be-4759-b220-7ac1d87a7f80",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "f2ee78be-3388-4dc1-9dc8-b2614d769c76",
+      "name": "f2ee78be-3388-4dc1-9dc8-b2614d769c76",
+      "status": "todo",
+      "description": ""
+    },
+    {
       "id": "d0765e14-bd16-4188-b311-99c94b4948fb",
-      "name": "💅 HIRA Spa Social Media Management",
-      "status": "in-progress",
-      "description": "<p><strong>Priority:</strong> High</p><p>Daily social media posts for Crystal's spa. Instagram + Facebook. Content: nail art, before/after, tips, testimonials, promotions. Late API connected.</p>"
-    },
-    {
-      "id": "f26fc43d-b180-450d-aef4-3b639074b6b8",
-      "name": "🚀 Talent Multi-tenant SaaS",
-      "status": "in-progress",
-      "description": "<p><strong>Priority:</strong> Critical</p><p>Talent AI platform multi-tenant SaaS. Phase 1 (Code Cleanup) DONE. Currently working on Phase 2 UI/UX Polish. Next: Supabase Integration, then Stripe billing.</p>"
-    },
-    {
-      "id": "9f6c3f15-daab-4d34-8b2f-240cbefde3f9",
-      "name": "📱 Daily social media scouring",
-      "status": "in-progress",
-      "description": "<p><strong>Priority:</strong> Medium</p><p>Scan Twitter/LinkedIn for: data analytics trends, Caribbean tech news, AI business applications, competitor insights.</p>"
-    },
-    {
-      "id": "85e858d8-6274-4a22-8352-a83d6f9edfa0",
-      "name": "🔧 Fix playwright-bot-tests CI",
-      "status": "in-progress",
-      "description": "<p><strong>Priority:</strong> High</p><p>Analyze and fix failing CI on the Playwright test suite. This is blocking other development work.</p>"
-    },
-    {
-      "id": "019bf911-0684-777f-a716-79720a119659",
-      "name": "🎨 Talent SaaS - UI/UX Polish (Phase 2)",
-      "status": "in-progress",
-      "description": "<p><strong>Priority:</strong> Critical</p><p>Phase 1 (Code Cleanup) DONE. Currently adding loading states, error handling, and polish to all components.</p>"
-    },
-    {
-      "id": "db7073e1-030c-4d27-af8d-f7899c942074",
-      "name": "🤖 HeartCap-Recruiter Multi-tenant SaaS",
+      "name": "d0765e14-bd16-4188-b311-99c94b4948fb",
       "status": "todo",
-      "description": "<p><strong>Priority:</strong> Critical</p><p>AI Recruiter platform. Full multi-tenant SaaS with Supabase backend, candidate matching, job boards, ATS features.</p>"
-    },
-    {
-      "id": "972aa3e2-178e-4b11-9c22-83c524aa997c",
-      "name": "📊 Alygn-V2 Multi-tenant SaaS",
-      "status": "todo",
-      "description": "<p><strong>Priority:</strong> Critical</p><p>Enterprise Performance Intelligence platform. Full multi-tenant SaaS with Supabase backend, auth, billing, dashboards.</p>"
-    },
-    {
-      "id": "24a5990c-044b-4155-9f93-42083bcb5897",
-      "name": "🎬 CineSynth Multi-tenant SaaS",
-      "status": "todo",
-      "description": "<p><strong>Priority:</strong> High</p><p>Long-form video creation platform. Full multi-tenant SaaS with video generation, editing, templates.</p>"
-    },
-    {
-      "id": "056b5bcd-af32-4fb6-b042-6a35660818ef",
-      "name": "🎤 OratorFlow-Sass Multi-tenant SaaS",
-      "status": "todo",
-      "description": "<p><strong>Priority:</strong> High</p><p>Speaker coaching platform. Full multi-tenant SaaS with speech analysis, coaching feedback, progress tracking.</p>"
-    },
-    {
-      "id": "d09b4fa4-ecf6-4fcf-90ce-d9cf2effeba8",
-      "name": "⚡ Dare Multi-tenant SaaS",
-      "status": "todo",
-      "description": "<p><strong>Priority:</strong> High</p><p>AI Framework platform. Full multi-tenant SaaS - could be an AI agent builder/marketplace.</p>"
-    },
-    {
-      "id": "43549ff8-7090-47f3-99f6-6a12bb6ae799",
-      "name": "🧠 Second Brain web UI",
-      "status": "todo",
-      "description": "<p><strong>Priority:</strong> High</p><p>Build browsable interface with search, backlinks, and tree navigation for the Second Brain knowledge base.</p>"
+      "description": ""
     },
     {
       "id": "f2fc4378-4d14-42bc-a6b5-fc28b361d024",
-      "name": "📈 AI-Align Multi-tenant SaaS",
+      "name": "f2fc4378-4d14-42bc-a6b5-fc28b361d024",
       "status": "todo",
-      "description": "<p><strong>Priority:</strong> Medium</p><p>Enterprise Performance Management. Full multi-tenant SaaS - may overlap with Alygn-V2, assess consolidation.</p>"
+      "description": ""
+    },
+    {
+      "id": "f26fc43d-b180-450d-aef4-3b639074b6b8",
+      "name": "f26fc43d-b180-450d-aef4-3b639074b6b8",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "24a5990c-044b-4155-9f93-42083bcb5897",
+      "name": "24a5990c-044b-4155-9f93-42083bcb5897",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "056b5bcd-af32-4fb6-b042-6a35660818ef",
+      "name": "056b5bcd-af32-4fb6-b042-6a35660818ef",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "d09b4fa4-ecf6-4fcf-90ce-d9cf2effeba8",
+      "name": "d09b4fa4-ecf6-4fcf-90ce-d9cf2effeba8",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "db7073e1-030c-4d27-af8d-f7899c942074",
+      "name": "db7073e1-030c-4d27-af8d-f7899c942074",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "972aa3e2-178e-4b11-9c22-83c524aa997c",
+      "name": "972aa3e2-178e-4b11-9c22-83c524aa997c",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "3cb90ec3-8eb4-4696-b759-11e90d04515c",
+      "name": "3cb90ec3-8eb4-4696-b759-11e90d04515c",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "9f6c3f15-daab-4d34-8b2f-240cbefde3f9",
+      "name": "9f6c3f15-daab-4d34-8b2f-240cbefde3f9",
+      "status": "todo",
+      "description": ""
     },
     {
       "id": "21145e42-ba7a-4881-a0e3-58667c39e398",
-      "name": "🚀 Deploy Kanban to GitHub Pages",
+      "name": "21145e42-ba7a-4881-a0e3-58667c39e398",
       "status": "todo",
-      "description": "<p><strong>Priority:</strong> Medium</p><p>Host Kanban board publicly so Leslie can access from anywhere.</p>"
-    },
-    {
-      "id": "cf7587da-ac18-40bf-8d9b-266776438b9f",
-      "name": "📧 Set up Gmail integration",
-      "status": "todo",
-      "description": "<p><strong>Priority:</strong> Medium</p><p>Configure email for sending/receiving programmatically.</p>"
+      "description": ""
     },
     {
       "id": "ba5a8e0b-cac7-4774-ba18-c987c0f7ebed",
-      "name": "✨ Kanban v2 improvements",
+      "name": "ba5a8e0b-cac7-4774-ba18-c987c0f7ebed",
       "status": "todo",
-      "description": "<p><strong>Priority:</strong> Low</p><p>Add: priority badges, due dates, progress notes, filters, auto-refresh to the Kanban board.</p>"
+      "description": ""
+    },
+    {
+      "id": "cf7587da-ac18-40bf-8d9b-266776438b9f",
+      "name": "cf7587da-ac18-40bf-8d9b-266776438b9f",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "43549ff8-7090-47f3-99f6-6a12bb6ae799",
+      "name": "43549ff8-7090-47f3-99f6-6a12bb6ae799",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "d7aba0d4-cb98-405b-9ee7-b30c7171a78e",
+      "name": "d7aba0d4-cb98-405b-9ee7-b30c7171a78e",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "95800439-22aa-4eb4-9921-7c9055630bb0",
+      "name": "95800439-22aa-4eb4-9921-7c9055630bb0",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "6df7f688-88bc-47b6-8118-2f3139468639",
+      "name": "6df7f688-88bc-47b6-8118-2f3139468639",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "50150c72-3289-4ef7-89a0-037766407f19",
+      "name": "50150c72-3289-4ef7-89a0-037766407f19",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "85e858d8-6274-4a22-8352-a83d6f9edfa0",
+      "name": "85e858d8-6274-4a22-8352-a83d6f9edfa0",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "110afcd0-34b2-4c40-a611-bc95197f1ab2",
+      "name": "110afcd0-34b2-4c40-a611-bc95197f1ab2",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "019bf913-7405-777f-a717-2bbc756c62e4",
+      "name": "019bf913-7405-777f-a717-2bbc756c62e4",
+      "status": "todo",
+      "description": ""
+    },
+    {
+      "id": "019bf911-0684-777f-a716-79720a119659",
+      "name": "019bf911-0684-777f-a716-79720a119659",
+      "status": "todo",
+      "description": ""
     }
   ]
 }

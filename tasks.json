@@ -1,4 +1,26 @@
 {
-  "updatedAt": "2026-01-27T17:55:16.718Z",
-  "tasks": []
+  "updatedAt": "2026-01-27T18:41:55.042Z",
+  "tasks": [
+    {
+      "id": "b10909be-3ec1-4e76-a3e6-3afd0a958517",
+      "name": "CineSynth: Connect Database",
+      "status": "todo",
+      "description": "[01/27/2026 14:16] 📥 Task created\n\nConnect CineSynth to PostgreSQL and enable persistence.\\n\\n**Steps:**\\n1. Add DATABASE_URL to .env.local (Neon/Supabase)\\n2. Run npx prisma db push to create tables\\n3. Replace in-memory auth with Prisma queries\\n4. Wire frontend to save projects\\n\\n**Reference:** brain/projects/cinesynth-roadmap.md",
+      "created": "2026-01-27T18:16:37.000000Z"
+    },
+    {
+      "id": "47b42834-2d64-4e6a-bb62-262e113d4040",
+      "name": "HeartCap Phase 1: Setup Stripe Products",
+      "status": "todo",
+      "description": "[01/27/2026 14:16] 📥 Task created\n\nCreate Stripe products and prices for HeartCap-Recruiter tiers.\\n\\n**Products to create:**\\n- Starter: /mo, /yr (10 users, 100 interviews)\\n- Professional: /mo, ,430/yr (50 users, 500 interviews)\\n- Enterprise: /mo, ,790/yr (unlimited)\\n\\n**Reference:** brain/projects/heartcap-deployment-prep.md",
+      "created": "2026-01-27T18:16:32.000000Z"
+    },
+    {
+      "id": "024e4534-7b75-4c39-9c90-b3c67054cdf1",
+      "name": "HeartCap Phase 1: Create Supabase Project",
+      "status": "todo",
+      "description": "[01/27/2026 14:16] 📥 Task created\n\nCreate production Supabase project for HeartCap-Recruiter.\\n\\n**Steps:**\\n1. Go to supabase.com, create new project\\n2. Note Project URL, anon key, service role key\\n3. Run the 3 migration SQL files from supabase/migrations/\\n4. Verify tables created with RLS policies\\n\\n**Reference:** brain/projects/heartcap-deployment-prep.md",
+      "created": "2026-01-27T18:16:29.000000Z"
+    }
+  ]
 }

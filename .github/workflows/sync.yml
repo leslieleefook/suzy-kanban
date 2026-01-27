@@ -1,0 +1,32 @@
+name: Sync Kanban Data
+
+on:
+  schedule:
+    # Run every 30 minutes
+    - cron: '*/30 * * * *'
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Sync from Infinity
+        env:
+          INFINITY_API_KEY: ${{ secrets.INFINITY_API_KEY }}
+        run: |
+          node sync.js
+      
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add tasks.json
+          git diff --staged --quiet || git commit -m "Auto-sync tasks from Infinity"
+          git push

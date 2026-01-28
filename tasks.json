@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T11:45:24.429Z",
+  "updatedAt": "2026-01-28T12:54:14.579Z",
   "tasks": [
     {
       "id": "df10ac20-dbc8-4598-92c6-cd6496fe09dd",
@@ -110,7 +110,7 @@
       "id": "cf9b7019-6c3d-4434-b0bf-503a963d2a4d",
       "name": "[FINANCIAL] Digicel Payment Due - Account 242000179248",
       "status": "todo",
-      "description": "[01/28/2026 00:15] 📥 Task created\n\nPayment due notice received Jan 27. Check amount and pay. From: no_reply@digicelgroup.com\n[01/28/2026 00:44] 📧 ORIGINAL EMAIL:\nFROM: Digicel team <no_reply@digicelgroup.com>\nSUBJECT: Digicel+ - Payment due - 242000179248\nDATE: 01/27/2026\n\n(Payment due notice)\n[01/28/2026 00:49] 🔴 OVERDUE: TTD .74 due Jan 27. Risk of  late fee. Pay ASAP.\n[01/28/2026 06:31] OVERDUE REMINDER: Payment of TTD .74 is now overdue (due Jan 27). Risk of  late fee. Draft reminder saved to drafts/digicel-payment-reminder.md\n[01/28/2026 07:31] 7:30 AM proactive cycle: Payment still overdue. Notified Leslie via WhatsApp. Action required ASAP.",
+      "description": "[01/28/2026 00:15] 📥 Task created\n\nPayment due notice received Jan 27. Check amount and pay. From: no_reply@digicelgroup.com\n[01/28/2026 00:44] 📧 ORIGINAL EMAIL:\nFROM: Digicel team <no_reply@digicelgroup.com>\nSUBJECT: Digicel+ - Payment due - 242000179248\nDATE: 01/27/2026\n\n(Payment due notice)\n[01/28/2026 00:49] 🔴 OVERDUE: TTD .74 due Jan 27. Risk of  late fee. Pay ASAP.\n[01/28/2026 06:31] OVERDUE REMINDER: Payment of TTD .74 is now overdue (due Jan 27). Risk of  late fee. Draft reminder saved to drafts/digicel-payment-reminder.md\n[01/28/2026 07:31] 7:30 AM proactive cycle: Payment still overdue. Notified Leslie via WhatsApp. Action required ASAP.\n[01/28/2026 07:46] Digicel payment still OVERDUE (TTD 784.74 due Jan 27). Leslie notified via WhatsApp at 7:32 AM. Risk of 50 late fee. Action required ASAP.\n[01/28/2026 08:16] 8:17 AM proactive check: Payment still OVERDUE. Leslie notified multiple times. Risk: TTD 50 late fee. Action: PAY TODAY via Digicel app/portal.",
       "created": "2026-01-28T04:15:30.000000Z"
     },
     {

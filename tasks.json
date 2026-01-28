@@ -1,11 +1,18 @@
 {
-  "updatedAt": "2026-01-28T09:35:54.981Z",
+  "updatedAt": "2026-01-28T10:30:57.084Z",
   "tasks": [
+    {
+      "id": "c9d54595-8b1e-4d70-a6ee-c0e7733ba67f",
+      "name": "[URGENT] hiratt.com Security - 3 Vulnerabilities Found",
+      "status": "in-progress",
+      "description": "[01/28/2026 06:04] 📥 Task created\n\n🔴 VIRUSDIE ALERT (Jan 28, 2026 5:46 AM)\n\n**Issue:** 3 vulnerabilities detected on hiratt.com (HIRA Spa website)\n**Status:** Cannot be patched automatically - requires manual intervention\n\n**Action Required:**\n1. Log into Virusdie dashboard\n2. View audit report: https://new.virusdie.com/websites#audit_report_663859_undefined\n3. Follow recommended actions to fix vulnerabilities manually\n\n**Why Urgent:** Website security issues can harm business reputation and customer trust.\n\n[01/28/2026 06:05] 📥 Task created from hourly inbox triage\n[01/28/2026 06:15] 🔄 Status → in-progress\n[01/28/2026 06:15] 🤖 Sub-agent spawned (hiratt-security) to research vulnerabilities and create remediation guide",
+      "created": "2026-01-28T10:04:51.000000Z"
+    },
     {
       "id": "df10ac20-dbc8-4598-92c6-cd6496fe09dd",
       "name": "[IDEA] AI Agency Pivot Strategy",
       "status": "in-progress",
-      "description": "[01/28/2026 00:38] 📥 Task created\n\nSelf-sent: Ai agency pivot. Jan 23, 2026. Strategic planning note.\n[01/28/2026 01:46] 🔄 Status → in-progress",
+      "description": "[01/28/2026 00:38] 📥 Task created\n\nSelf-sent: Ai agency pivot. Jan 23, 2026. Strategic planning note.\n[01/28/2026 01:46] 🔄 Status → in-progress\n[01/28/2026 06:02] ✅ Strategic brief reviewed: brain/strategy/ai-agency-pivot.md is comprehensive (12 sections, ~8500 words). Key findings: (1) HYBRID PIVOT APPROVED - 'AI-First Analytics Consultancy' positioning, (2) 3 PILLARS DEFINED - Integration Services, ROI Consulting, Agentic Training, (3) Q1 TARGETS: -200K AI revenue, 3 productized offerings, Fractional CAIO launch, (4) COMPETITIVE MOAT: Caribbean context + enterprise capability + 50-70% cost vs Big 4. 90-day action plan in execution.",
       "created": "2026-01-28T04:38:17.000000Z"
     },
     {
@@ -18,22 +25,15 @@
     {
       "id": "a94fc882-7811-41ee-a08f-fd4f6324ed08",
       "name": "[FINANCIAL] Scotiabank - Incorrect Electronic Transfer",
-      "status": "todo",
-      "description": "[01/28/2026 00:37] 📥 Task created\n\nRE: Incorrect Electronic Transfer from Andrea.Boisselle@scotiabank.com. Jan 19, 2026. Follow up on resolution.\n[01/28/2026 00:43] 📧 ORIGINAL EMAIL:\nFROM: Boisselle, Andrea <Andrea.Boisselle@scotiabank.com>\nSUBJECT: RE: [External] Incorrect Electronic Transfer\nDATE: 01/19/2026\n\n(Banking issue - incorrect electronic transfer follow-up)\n[01/28/2026 05:17] RESEARCH COMPLETE: Leslie made incorrect transfer to Royal Bank on Jan 18. Scotiabank ACH recall initiated Jan 19. 9 days elapsed with no update. Draft follow-up email at drafts/scotiabank-followup.md. Full documentation at brain/finance/scotiabank-transfer-issue.md. Contact: Andrea Boisselle (868-612-6504).",
-      "created": "2026-01-28T04:37:55.000000Z"
-    },
-    {
-      "id": "2e018ebc-45fc-4ed5-9f2c-9baaa960b517",
-      "name": "[BD] BlueNAP - Lee Singh - CDA Conference",
       "status": "in-progress",
-      "description": "[01/28/2026 00:37] 📥 Task created\n\nRE: 3rd-CDA Annual Conference from lsingh@bluenapamericas.com. Jan 18, 2026. Partnership opportunity.\n[01/28/2026 00:43] 📧 ORIGINAL EMAIL:\nFROM: Singh, Lee <lsingh@bluenapamericas.com>\nSUBJECT: Re: 3rd-CDA Annual Conference\nDATE: 01/18/2026\n\n(BlueNAP Americas partnership opportunity)\n[01/28/2026 01:46] 🔄 Status → in-progress",
-      "created": "2026-01-28T04:37:17.000000Z"
+      "description": "[01/28/2026 00:37] 📥 Task created\n\nRE: Incorrect Electronic Transfer from Andrea.Boisselle@scotiabank.com. Jan 19, 2026. Follow up on resolution.\n[01/28/2026 00:43] 📧 ORIGINAL EMAIL:\nFROM: Boisselle, Andrea <Andrea.Boisselle@scotiabank.com>\nSUBJECT: RE: [External] Incorrect Electronic Transfer\nDATE: 01/19/2026\n\n(Banking issue - incorrect electronic transfer follow-up)\n[01/28/2026 05:17] RESEARCH COMPLETE: Leslie made incorrect transfer to Royal Bank on Jan 18. Scotiabank ACH recall initiated Jan 19. 9 days elapsed with no update. Draft follow-up email at drafts/scotiabank-followup.md. Full documentation at brain/finance/scotiabank-transfer-issue.md. Contact: Andrea Boisselle (868-612-6504).\n[01/28/2026 06:15] 🔄 Status → in-progress",
+      "created": "2026-01-28T04:37:55.000000Z"
     },
     {
       "id": "132d5596-1d47-48d6-ad27-a6b4b1da3115",
       "name": "[TEAM] Serah (HeartCap) - Fiji Tender Docs",
       "status": "in-progress",
-      "description": "[01/28/2026 00:37] 📥 Task created\n\nFiji Tender docs from serah@heartcapinc.com. Dec 18, 2025. Review tender documentation.\n[01/28/2026 00:43] 📧 ORIGINAL EMAIL:\nFROM: Serah Radhaykissoon <serah@heartcapinc.com>\nSUBJECT: Fiji Tender docs\nDATE: 12/18/2025\n\n(HeartCap Fiji tender documentation)\n[01/28/2026 01:46] 🔄 Status → in-progress",
+      "description": "[01/28/2026 00:37] 📥 Task created\n\nFiji Tender docs from serah@heartcapinc.com. Dec 18, 2025. Review tender documentation.\n[01/28/2026 00:43] 📧 ORIGINAL EMAIL:\nFROM: Serah Radhaykissoon <serah@heartcapinc.com>\nSUBJECT: Fiji Tender docs\nDATE: 12/18/2025\n\n(HeartCap Fiji tender documentation)\n[01/28/2026 01:46] 🔄 Status → in-progress\n[01/28/2026 06:04] 📋 TENDER REVIEW COMPLETED:\\n\\n❌ DOCUMENTS NOT FOUND in workspace (brain/, attachments/)\\n\\n📧 Email from Serah Radhaykissoon (serah@heartcapinc.com) on Dec 18, 2025 was logged but attachments were never archived.\\n\\n📝 Summary created: brain/team-updates/fiji-tender-review.md\\n\\n✅ NEXT STEPS:\\n1. Search Outlook for original email with attachments\\n2. Contact Serah to confirm tender status and request re-send\\n3. Archive documents properly when received\\n\\n⚠️ 41 days overdue - contact Serah TODAY",
       "created": "2026-01-28T04:37:03.000000Z"
     },
     {
@@ -47,21 +47,14 @@
       "id": "232d0d15-6689-48fb-85a4-a16a84ca0d93",
       "name": "[TEAM] Gennette Clacken (CXC) - Modules 2 and 3 Assignment",
       "status": "in-progress",
-      "description": "[01/28/2026 00:36] 📥 Task created\n\nModules 2 & 3 Assignment and Responses (Dec Cohort) from gclacken@cxc.org. Jan 26, 2026.\n[01/28/2026 00:43] 📧 ORIGINAL EMAIL:\nFROM: Gennette Clacken <gclacken@cxc.org>\nSUBJECT: Modules 2 & 3 Assignment and Responses (Dec Cohort)\nDATE: 01/26/2026\n\n(CXC training assignment follow-up)\n[01/28/2026 01:46] 🔄 Status → in-progress",
+      "description": "[01/28/2026 00:36] 📥 Task created\n\nModules 2 & 3 Assignment and Responses (Dec Cohort) from gclacken@cxc.org. Jan 26, 2026.\n[01/28/2026 00:43] 📧 ORIGINAL EMAIL:\nFROM: Gennette Clacken <gclacken@cxc.org>\nSUBJECT: Modules 2 & 3 Assignment and Responses (Dec Cohort)\nDATE: 01/26/2026\n\n(CXC training assignment follow-up)\n[01/28/2026 01:46] 🔄 Status → in-progress\n[01/28/2026 06:03] 📋 RESEARCH COMPLETED: CXC AI1001 Training Program - AI literacy course for Caribbean educators (Teachers + Administrators). ✅ Attachments confirmed: 10 files in attachments/2026-01/cxc-modules-gennette/ (4 docx assessments, 4 xlsx response files, 2 zip archives). Status note created at brain/team-updates/cxc-modules-status.md. ⚠️ NEEDS CLARIFICATION: What action is required - review, feedback, technical support, or content development?",
       "created": "2026-01-28T04:36:37.000000Z"
-    },
-    {
-      "id": "647dd2cc-b434-4d5f-a8f4-c4bc37535bd8",
-      "name": "[TEAM] Khalil Turner - Video for Socials + Hubs Insurance",
-      "status": "in-progress",
-      "description": "[01/28/2026 00:36] 📥 Task created\n\nTwo emails from Khalil - Video for socials (Jan 20) and Hubs Insurance Updates (Jan 20). Review.\n[01/28/2026 00:43] 📧 ORIGINAL EMAILS:\n1) FROM: Khalil Turner <khalil@incusservices.com>\nSUBJECT: Fw: Video for socials\nDATE: 01/20/2026\n\n2) FROM: Khalil Turner <khalil@incusservices.com>\nSUBJECT: Hubs Insurance Updates\nDATE: 01/20/2026\n\n(Team updates on video content and insurance hub)\n[01/28/2026 01:46] 🔄 Status → in-progress",
-      "created": "2026-01-28T04:36:32.000000Z"
     },
     {
       "id": "8fa69e4d-4c0b-4809-957a-0edd728f174c",
       "name": "[TEAM] Marc Sutton - Odoo Process",
       "status": "in-progress",
-      "description": "[01/28/2026 00:36] 📥 Task created\n\nRE: Odoo Process from Marc. Jan 26, 2026. Review and follow up on Odoo implementation.\n[01/28/2026 00:43] 📧 ORIGINAL EMAIL:\nFROM: Marc Sutton <marc@incusservices.com>\nSUBJECT: Re: Odoo Process\nDATE: 01/26/2026\n\n(Team discussion about Odoo implementation process)\n[01/28/2026 01:46] 🔄 Status → in-progress",
+      "description": "[01/28/2026 00:36] 📥 Task created\n\nRE: Odoo Process from Marc. Jan 26, 2026. Review and follow up on Odoo implementation.\n[01/28/2026 00:43] 📧 ORIGINAL EMAIL:\nFROM: Marc Sutton <marc@incusservices.com>\nSUBJECT: Re: Odoo Process\nDATE: 01/26/2026\n\n(Team discussion about Odoo implementation process)\n[01/28/2026 01:46] 🔄 Status → in-progress\n[01/28/2026 06:02] ✅ Reviewed Odoo implementation. Script (odoo-crm.js) is COMPLETE. Setup guide exists. BLOCKED: Awaiting 4 credentials from Marc: ODOO_URL, ODOO_DB, ODOO_USERNAME, ODOO_API_KEY. Created checklist at brain/team-updates/odoo-implementation-status.md",
       "created": "2026-01-28T04:36:27.000000Z"
     },
     {
@@ -75,21 +68,21 @@
       "id": "509f0e7e-9ec0-44c2-9911-05fb0263ae9a",
       "name": "[CLIENT] Anna Morris (Fiji Airways) - Enneagram + Catchup",
       "status": "in-progress",
-      "description": "[01/28/2026 00:36] 📥 Task created\n\nTwo emails from anna.morris@fijiairways.com - Enneagram Cheat Sheets (Dec 10) and Our catchup (Dec 9). Follow up.\n[01/28/2026 00:43] 📧 ORIGINAL EMAILS:\n1) FROM: Anna Morris <anna.morris@fijiairways.com>\nSUBJECT: Enneagram Cheat Sheets\nDATE: 12/10/2025\n\n2) FROM: Anna Morris <anna.morris@fijiairways.com>\nSUBJECT: Our catchup\nDATE: 12/09/2025\n\n(Client follow-up from Fiji Airways)\n[01/28/2026 01:47] 🔄 Status → in-progress",
+      "description": "[01/28/2026 00:36] 📥 Task created\n\nTwo emails from anna.morris@fijiairways.com - Enneagram Cheat Sheets (Dec 10) and Our catchup (Dec 9). Follow up.\n[01/28/2026 00:43] 📧 ORIGINAL EMAILS:\n1) FROM: Anna Morris <anna.morris@fijiairways.com>\nSUBJECT: Enneagram Cheat Sheets\nDATE: 12/10/2025\n\n2) FROM: Anna Morris <anna.morris@fijiairways.com>\nSUBJECT: Our catchup\nDATE: 12/09/2025\n\n(Client follow-up from Fiji Airways)\n[01/28/2026 01:47] 🔄 Status → in-progress\n[01/28/2026 06:02] 📝 Draft response created at drafts/anna-morris-response.md - friendly reconnection email apologizing for 7-week delay, proposing catchup. Awaiting Leslie's review before sending.",
       "created": "2026-01-28T04:36:01.000000Z"
     },
     {
       "id": "32f61f87-608a-42eb-bae5-727a9605bb36",
       "name": "[OPPTY] SEOGS - Speak at STC 2026 Technical Conference",
       "status": "in-progress",
-      "description": "[01/28/2026 00:35] 📥 Task created\n\nSpeaking invitation from SEOGS (gep-events.com). Dec 10, 2025. Review and respond.\n[01/28/2026 00:43] 📧 ORIGINAL EMAIL:\nFROM: SEOGS <americasmarketing@gep-events.com>\nSUBJECT: Speak at SEOGS Technical Conference (STC 2026)\nDATE: 12/10/2025\n\n(Speaking invitation for energy/oil & gas technical conference)\n[01/28/2026 00:52] 🔄 Status → in-progress\n[01/28/2026 00:52] 🤖 Sub-agent spawned (seogs-research) to research SEOGS conference and draft response\n[01/28/2026 02:16] 🤖 Sub-agent spawned (seogs-response) to research conference and draft response",
+      "description": "[01/28/2026 00:35] 📥 Task created\n\nSpeaking invitation from SEOGS (gep-events.com). Dec 10, 2025. Review and respond.\n[01/28/2026 00:43] 📧 ORIGINAL EMAIL:\nFROM: SEOGS <americasmarketing@gep-events.com>\nSUBJECT: Speak at SEOGS Technical Conference (STC 2026)\nDATE: 12/10/2025\n\n(Speaking invitation for energy/oil & gas technical conference)\n[01/28/2026 00:52] 🔄 Status → in-progress\n[01/28/2026 00:52] 🤖 Sub-agent spawned (seogs-research) to research SEOGS conference and draft response\n[01/28/2026 02:16] 🤖 Sub-agent spawned (seogs-response) to research conference and draft response\n[01/28/2026 06:03] RESEARCH COMPLETE: SEOGS = Suriname Energy, Oil & Gas Summit & Exhibition (6th edition). Dates: June 23-26, 2026 in Paramaribo, Suriname. Hosted by Staatsolie (Suriname national oil company), organized by GEP Events. Event includes strategic summit, technical conference (STC), exhibition, and local content program. Draft speaking proposal created at drafts/seogs-response.md with 3 topic options: AI operational intelligence, data pipeline automation, and enterprise AI readiness. Ready for Leslie's review and customization before sending to americasmarketing@gep-events.com.",
       "created": "2026-01-28T04:35:48.000000Z"
     },
     {
       "id": "9efbc07a-524b-4753-a6be-23742278480e",
       "name": "[FINANCIAL] JMMB Debt Consolidation - Sacha Kim",
-      "status": "todo",
-      "description": "[01/28/2026 00:34] 📥 Task created\n\nRE: Consolidation of Personal Debt from JMMB. Aug 26, 2025. Review if still relevant.\n[01/28/2026 00:44] 📧 ORIGINAL EMAIL:\nFROM: Sacha Kim <sacha_kim@jmmb.com>\nSUBJECT: Consolidation of Personal Debt\nDATE: 08/26/2025\n\n(JMMB banking - debt consolidation inquiry)",
+      "status": "in-progress",
+      "description": "[01/28/2026 00:34] 📥 Task created\n\nRE: Consolidation of Personal Debt from JMMB. Aug 26, 2025. Review if still relevant.\n[01/28/2026 00:44] 📧 ORIGINAL EMAIL:\nFROM: Sacha Kim <sacha_kim@jmmb.com>\nSUBJECT: Consolidation of Personal Debt\nDATE: 08/26/2025\n\n(JMMB banking - debt consolidation inquiry)\n[01/28/2026 05:45] 🤖 Sub-agent spawned (jmmb-review) to assess if 5-month-old debt consolidation inquiry is still relevant\n[01/28/2026 05:45] 🔄 Status → in-progress\n[01/28/2026 05:47] ✅ RESEARCH COMPLETE: 5-month-old inquiry is STALE. Recommend closing or sending courteous closure email. Analysis at brain/finance/jmmb-consolidation-status.md",
       "created": "2026-01-28T04:34:55.000000Z"
     },
     {
@@ -102,29 +95,29 @@
     {
       "id": "8c466769-471c-45e3-8c87-fd80db298075",
       "name": "[LEGAL] Estate Dave Lee Fook - Jonathan Walker Follow-up",
-      "status": "todo",
-      "description": "[01/28/2026 00:34] 📥 Task created\n\nRE: Estate Dave Lee Fook from trinidadlaw.com. Sep 29, 2025. Check if follow-up needed.\n[01/28/2026 00:43] 📧 ORIGINAL EMAIL:\nFROM: Jonathan Walker <Jonathan@trinidadlaw.com>\nSUBJECT: RE: Estate Dave Lee Fook\nDATE: 09/29/2025\n\n(Legal matter - estate proceedings)",
+      "status": "in-progress",
+      "description": "[01/28/2026 00:34] 📥 Task created\n\nRE: Estate Dave Lee Fook from trinidadlaw.com. Sep 29, 2025. Check if follow-up needed.\n[01/28/2026 00:43] 📧 ORIGINAL EMAIL:\nFROM: Jonathan Walker <Jonathan@trinidadlaw.com>\nSUBJECT: RE: Estate Dave Lee Fook\nDATE: 09/29/2025\n\n(Legal matter - estate proceedings)\n[01/28/2026 05:45] 🤖 Sub-agent spawned (estate-review) to research current status and recommend next steps\n[01/28/2026 05:45] 🔄 Status → in-progress\n[01/28/2026 05:47] ✅ RESEARCH COMPLETE: ACTIVE matter - Leslie must respond to Jonathan Walker Sep 29 email. UTC certificate matching issue. Analysis at brain/legal/estate-dave-lee-fook.md",
       "created": "2026-01-28T04:34:45.000000Z"
     },
     {
       "id": "078f8e74-b015-4b26-878e-d74c1db63f5f",
       "name": "[IDEA] Marc Digital Transformation Project",
-      "status": "todo",
-      "description": "[01/28/2026 00:16] 📥 Task created\n\nSelf-sent: Your Digital Transformation Project is Ready - marc! Jan 27 20:15. Follow up with marc.",
+      "status": "in-progress",
+      "description": "[01/28/2026 00:16] 📥 Task created\n\nSelf-sent: Your Digital Transformation Project is Ready - marc! Jan 27 20:15. Follow up with marc.\n[01/28/2026 05:47] 🤖 Sub-agent spawned (marc-dt) to research context and create project brief\n[01/28/2026 05:47] 🔄 Status → in-progress",
       "created": "2026-01-28T04:16:01.000000Z"
     },
     {
       "id": "430613af-abfe-4844-9761-68b50f002e47",
       "name": "[IDEA] Copy BIBA - Reference",
-      "status": "todo",
-      "description": "[01/28/2026 00:15] 📥 Task created\n\nSelf-sent note from Jan 27 18:53. Reference: Copy biba.",
+      "status": "in-progress",
+      "description": "[01/28/2026 00:15] 📥 Task created\n\nSelf-sent note from Jan 27 18:53. Reference: Copy biba.\n[01/28/2026 06:16] 🤖 Sub-agent spawned (biba-research) to research BIBA reference\n[01/28/2026 06:16] 🔄 Status → in-progress",
       "created": "2026-01-28T04:16:00.000000Z"
     },
     {
       "id": "9b75105d-d7ca-4b9f-aa3a-53cc7f51a87c",
       "name": "[IDEA] Explainer Video Concept",
-      "status": "todo",
-      "description": "[01/28/2026 00:15] 📥 Task created\n\nSelf-sent idea from Jan 27 03:19. Explore explainer video creation.",
+      "status": "in-progress",
+      "description": "[01/28/2026 00:15] 📥 Task created\n\nSelf-sent idea from Jan 27 03:19. Explore explainer video creation.\n[01/28/2026 06:16] 🤖 Sub-agent spawned (explainer-video) to research video creation tools\n[01/28/2026 06:16] 🔄 Status → in-progress",
       "created": "2026-01-28T04:15:58.000000Z"
     },
     {
@@ -145,14 +138,14 @@
       "id": "d61bd9de-e5c2-412b-ace5-e9af121f5e52",
       "name": "[TEAM] Kristian Vasquez - Marketing Assets",
       "status": "in-progress",
-      "description": "[01/28/2026 00:15] 📥 Task created\n\nMarketing assets shared Jan 28. Review materials. From Kristian.\n[01/28/2026 00:44] 📧 ORIGINAL EMAIL:\nFROM: Kristian Vasquez <kristian@incusservices.com>\nSUBJECT: Marketing Assets\nDATE: 01/28/2026\n\n(Team marketing materials share)\n[01/28/2026 01:46] 🔄 Status → in-progress",
+      "description": "[01/28/2026 00:15] 📥 Task created\n\nMarketing assets shared Jan 28. Review materials. From Kristian.\n[01/28/2026 00:44] 📧 ORIGINAL EMAIL:\nFROM: Kristian Vasquez <kristian@incusservices.com>\nSUBJECT: Marketing Assets\nDATE: 01/28/2026\n\n(Team marketing materials share)\n[01/28/2026 01:46] 🔄 Status → in-progress\n[01/28/2026 06:16] 🤖 Sub-agent spawned (marketing-assets) to inventory and review marketing materials",
       "created": "2026-01-28T04:15:42.000000Z"
     },
     {
       "id": "d4d001e0-3a58-4bbc-86c4-2c666302f006",
       "name": "[TEAM] Eric Freakley - Heart Capital & Incus Update",
       "status": "in-progress",
-      "description": "[01/28/2026 00:15] 📥 Task created\n\nWeekly update received Jan 27. Review and acknowledge. From Eric Freakley.\n[01/28/2026 00:44] 📧 ORIGINAL EMAIL:\nFROM: Eric Freakley <eric@incusservices.com>\nSUBJECT: Heart Capital & Incus Update - 27/01/2026\nDATE: 01/27/2026\n\n(Weekly team update)\n[01/28/2026 00:55] 🔄 Status → in-progress\n[01/28/2026 00:55] 🤖 Sub-agent spawned (eric-update-review) to summarize weekly update and extract action items",
+      "description": "[01/28/2026 00:15] 📥 Task created\n\nWeekly update received Jan 27. Review and acknowledge. From Eric Freakley.\n[01/28/2026 00:44] 📧 ORIGINAL EMAIL:\nFROM: Eric Freakley <eric@incusservices.com>\nSUBJECT: Heart Capital & Incus Update - 27/01/2026\nDATE: 01/27/2026\n\n(Weekly team update)\n[01/28/2026 00:55] 🔄 Status → in-progress\n[01/28/2026 00:55] 🤖 Sub-agent spawned (eric-update-review) to summarize weekly update and extract action items\n[01/28/2026 06:16] 🤖 Sub-agent spawned (eric-update) to extract action items from weekly update",
       "created": "2026-01-28T04:15:40.000000Z"
     },
     {
@@ -271,7 +264,7 @@
       "id": "d1bb62ba-3f0e-426b-a0d9-79c1607f523d",
       "name": "AI-Align Multi-tenant SaaS",
       "status": "in-progress",
-      "description": "[01/27/2026 16:24] 📥 Task created\n\nStrategic alignment platform - multi-tenant architecture\n[01/27/2026 22:15] 🔄 Status → in-progress\n[01/27/2026 22:15] Sub-agent spawned (ai-align-research) to create project brief with value prop, market analysis, and MVP features\n[01/27/2026 22:31] ✅ Sub-agent completed: Created comprehensive project brief at brain/projects/ai-align-saas.md with value prop, market analysis, MVP features, and competitive landscape\n[01/27/2026 23:15] 🔄 Proactive work: Reviewed project brief + tech spec. Spawned sub-agents: (1) ai-align-prospects - finding 5-10 T&T design partner companies, (2) ai-align-copy - creating landing page copy. Next: scaffold repo structure if all prep complete.\n[01/27/2026 23:30] 🔄 Sub-agents completed: (1) Repo scaffolded at github.com/leslieleefook/AI-Align, (2) 10 T&T prospects identified, (3) Landing page copy created. Now spawning feature development agents.\n[01/27/2026 23:45] 🔄 11:45 PM - Sub-agents completed: OKR page built with 3 company objectives + 9 KRs + mock data, Check-ins page with journal-style UI + confidence tracking, Dashboard with strategy cascade tree + alignment score (73/100), 18 shadcn/ui components installed. All pages functional. Build succeeds.\n[01/28/2026 00:01] 12:00 AM - Midnight proactive work: Committed analytics/settings/teams pages to GitHub. Spawned sub-agent (ai-align-ui) to build landing page, auth UI, and initiatives page. Utilization at 15% - spawning parallel agents to increase.\n[01/28/2026 00:03] 🌙 Midnight Dev Sprint: Spawned 8 sub-agents - playwright-ci, oratorflow-dev, dare-improvements, ai-align-initiatives, ai-align-activity, cinesynth-ui, heartcap-ui, docs-consolidation. Pushing utilization from 15% toward 90% target.\n[01/28/2026 00:16] [01/28/2026 00:15] Proactive work: Verified 9 sub-agents completed. AI-Align now has: landing page, auth UI, dashboard, OKRs, check-ins, initiatives, activity feed, analytics, settings, teams pages. HeartCap UI polished. DARE bugs fixed. Documentation consolidated. HIRA social posts drafted.\n[01/28/2026 00:30] 12:30 AM - Sub-agents completed overnight: Alygn-V2 (123 tests), OratorFlow fixes, DARE improvements, CineSynth UI, HeartCap UI polish, docs consolidated. AI-Align now feature-complete (landing, auth, OKRs, check-ins, initiatives, activity, analytics, settings, teams pages). Utilization at 13% - need to ramp up.\n[01/28/2026 00:49] 🤖 Sub-agent spawned (ai-align-polish) for testing, validation, loading states, error boundaries, mobile polish\n[01/28/2026 00:50] 🔍 12:50 AM - Quick status check: Repo exists at C:\\\\Users\\\\LeslieLeeFook\\\\repos\\\\AI-Align with modified files (landing, auth, activity pages). Dashboard structure in place. Sub-agent review incomplete - manual verification done.\n[01/28/2026 01:24] 🔄 dare-fix agent completed (10m runtime) - may need review for actual changes\n[01/28/2026 05:11] ✅ Test suite created: __tests__/alignment.test.ts for alignment scoring logic",
+      "description": "[01/27/2026 16:24] 📥 Task created\n\nStrategic alignment platform - multi-tenant architecture\n[01/27/2026 22:15] 🔄 Status → in-progress\n[01/27/2026 22:15] Sub-agent spawned (ai-align-research) to create project brief with value prop, market analysis, and MVP features\n[01/27/2026 22:31] ✅ Sub-agent completed: Created comprehensive project brief at brain/projects/ai-align-saas.md with value prop, market analysis, MVP features, and competitive landscape\n[01/27/2026 23:15] 🔄 Proactive work: Reviewed project brief + tech spec. Spawned sub-agents: (1) ai-align-prospects - finding 5-10 T&T design partner companies, (2) ai-align-copy - creating landing page copy. Next: scaffold repo structure if all prep complete.\n[01/27/2026 23:30] 🔄 Sub-agents completed: (1) Repo scaffolded at github.com/leslieleefook/AI-Align, (2) 10 T&T prospects identified, (3) Landing page copy created. Now spawning feature development agents.\n[01/27/2026 23:45] 🔄 11:45 PM - Sub-agents completed: OKR page built with 3 company objectives + 9 KRs + mock data, Check-ins page with journal-style UI + confidence tracking, Dashboard with strategy cascade tree + alignment score (73/100), 18 shadcn/ui components installed. All pages functional. Build succeeds.\n[01/28/2026 00:01] 12:00 AM - Midnight proactive work: Committed analytics/settings/teams pages to GitHub. Spawned sub-agent (ai-align-ui) to build landing page, auth UI, and initiatives page. Utilization at 15% - spawning parallel agents to increase.\n[01/28/2026 00:03] 🌙 Midnight Dev Sprint: Spawned 8 sub-agents - playwright-ci, oratorflow-dev, dare-improvements, ai-align-initiatives, ai-align-activity, cinesynth-ui, heartcap-ui, docs-consolidation. Pushing utilization from 15% toward 90% target.\n[01/28/2026 00:16] [01/28/2026 00:15] Proactive work: Verified 9 sub-agents completed. AI-Align now has: landing page, auth UI, dashboard, OKRs, check-ins, initiatives, activity feed, analytics, settings, teams pages. HeartCap UI polished. DARE bugs fixed. Documentation consolidated. HIRA social posts drafted.\n[01/28/2026 00:30] 12:30 AM - Sub-agents completed overnight: Alygn-V2 (123 tests), OratorFlow fixes, DARE improvements, CineSynth UI, HeartCap UI polish, docs consolidated. AI-Align now feature-complete (landing, auth, OKRs, check-ins, initiatives, activity, analytics, settings, teams pages). Utilization at 13% - need to ramp up.\n[01/28/2026 00:49] 🤖 Sub-agent spawned (ai-align-polish) for testing, validation, loading states, error boundaries, mobile polish\n[01/28/2026 00:50] 🔍 12:50 AM - Quick status check: Repo exists at C:\\\\Users\\\\LeslieLeeFook\\\\repos\\\\AI-Align with modified files (landing, auth, activity pages). Dashboard structure in place. Sub-agent review incomplete - manual verification done.\n[01/28/2026 01:24] 🔄 dare-fix agent completed (10m runtime) - may need review for actual changes\n[01/28/2026 05:11] ✅ Test suite created: __tests__/alignment.test.ts for alignment scoring logic\n[01/28/2026 05:46] 🤖 Sub-agent spawned (ai-align-tests) to run and expand test suite, fix any failures",
       "created": "2026-01-27T20:24:09.000000Z"
     },
     {
@@ -292,7 +285,7 @@
       "id": "47b42834-2d64-4e6a-bb62-262e113d4040",
       "name": "HeartCap Stripe Products",
       "status": "in-progress",
-      "description": "[01/27/2026 14:16] 📥 Task created\n\nCreate Stripe products and prices for HeartCap-Recruiter tiers.\\n\\n**Products to create:**\\n- Starter: /mo, /yr (10 users, 100 interviews)\\n- Professional: /mo, ,430/yr (50 users, 500 interviews)\\n- Enterprise: /mo, ,790/yr (unlimited)\\n\\n**Reference:** brain/projects/heartcap-deployment-prep.md\n[01/27/2026 21:31] 🔄 Status → in-progress\n[01/27/2026 21:31] 🤖 Sub-agent spawned (heartcap-prep) to review deployment requirements\n[01/27/2026 21:32] ✅ Research complete: No Supabase/Stripe credentials exist yet. Created action plan at brain/projects/heartcap-phase1-action-plan.md. ⚠️ Pricing discrepancy: Enterprise is  in task vs  in deployment doc - needs Leslie's confirmation.\n[01/27/2026 22:31] ✅ Sub-agent completed: Action plan at brain/projects/heartcap-phase1-action-plan.md. ⚠️ Pricing discrepancy: Enterprise tier  vs /mo needs Leslie confirmation.\n[01/28/2026 00:49] 🤖 Sub-agent spawned (heartcap-dev) for UI polish: skeleton states, empty states, a11y, mobile responsive\n[01/28/2026 01:02] ✅ heartcap-dev complete: 2 commits, 960 lines. Added skeleton loaders, empty states with CTAs, ARIA accessibility, keyboard nav, mobile responsive. Jobs/Candidates/Interviews pages polished.",
+      "description": "[01/27/2026 14:16] 📥 Task created\n\nCreate Stripe products and prices for HeartCap-Recruiter tiers.\\n\\n**Products to create:**\\n- Starter: /mo, /yr (10 users, 100 interviews)\\n- Professional: /mo, ,430/yr (50 users, 500 interviews)\\n- Enterprise: /mo, ,790/yr (unlimited)\\n\\n**Reference:** brain/projects/heartcap-deployment-prep.md\n[01/27/2026 21:31] 🔄 Status → in-progress\n[01/27/2026 21:31] 🤖 Sub-agent spawned (heartcap-prep) to review deployment requirements\n[01/27/2026 21:32] ✅ Research complete: No Supabase/Stripe credentials exist yet. Created action plan at brain/projects/heartcap-phase1-action-plan.md. ⚠️ Pricing discrepancy: Enterprise is  in task vs  in deployment doc - needs Leslie's confirmation.\n[01/27/2026 22:31] ✅ Sub-agent completed: Action plan at brain/projects/heartcap-phase1-action-plan.md. ⚠️ Pricing discrepancy: Enterprise tier  vs /mo needs Leslie confirmation.\n[01/28/2026 00:49] 🤖 Sub-agent spawned (heartcap-dev) for UI polish: skeleton states, empty states, a11y, mobile responsive\n[01/28/2026 01:02] ✅ heartcap-dev complete: 2 commits, 960 lines. Added skeleton loaders, empty states with CTAs, ARIA accessibility, keyboard nav, mobile responsive. Jobs/Candidates/Interviews pages polished.\n[01/28/2026 05:46] 🤖 Sub-agent spawned (heartcap-verify) to run tests and verify UI polish work",
       "created": "2026-01-27T18:16:32.000000Z"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T01:54:34.154Z",
+  "updatedAt": "2026-01-28T03:46:35.377Z",
   "tasks": [
     {
       "id": "cc578f85-9643-49ef-b3e5-afee5d9088ea",
@@ -7,20 +7,6 @@
       "status": "completed",
       "description": "[01/27/2026 21:38] 📥 Task created\n\nTesting that the Task checklist field is populated correctly\n[01/27/2026 21:39] ✅ Status → completed",
       "created": "2026-01-28T01:38:58.000000Z"
-    },
-    {
-      "id": "a8d684f7-1145-4a06-b11c-f8ae8245ffed",
-      "name": "[IDEA] AI Models for Finance Use Cases",
-      "status": "in-progress",
-      "description": "[01/27/2026 21:30] 📥 Task created\n\n[01/27/2026 21:30] 📥 From self-sent emails\\n\\nResearch AI models for finance use cases. Build content/documentation around this for client opportunities.\n[01/27/2026 21:32] 🔄 Status → in-progress\n[01/27/2026 21:46] Started research on AI models for finance. Gathering industry insights from McKinsey, IBM, and other sources.\n[01/27/2026 21:49] COMPLETED: Created comprehensive documentation at brain/research/ai-finance-models.md covering: (1) 6 AI model categories with use cases - fraud detection, credit scoring, trading, customer service, risk/compliance, document processing (2) Popular models/frameworks including GPT-4, Claude, BloombergGPT, NVIDIA AI, specialized fintech platforms (3) Caribbean-specific implementation considerations - data sovereignty, scale constraints, talent scarcity, multi-currency focus, regulatory fragmentation (4) 5 client pitch angles for Incus: Risk/Compliance Modernization, CX Transformation, Credit Inclusion, Operational Efficiency, AI Readiness Assessment (5) Technical architecture patterns and ROI framework",
-      "created": "2026-01-28T01:30:17.000000Z"
-    },
-    {
-      "id": "d8db3c9c-c0ff-4f41-befc-276c8827ef36",
-      "name": "[IDEA] LinkedIn Growth Skill",
-      "status": "in-progress",
-      "description": "[01/27/2026 21:30] 📥 Task created\n\n[01/27/2026 21:30] 📥 From self-sent email\\n\\nDevelop a skill to increase LinkedIn activity. Could integrate with Late API for posting, plus engagement tracking.\n[01/27/2026 21:32] 🔄 Status → in-progress\n[01/27/2026 21:47] Created LinkedIn Growth Skill: SKILL.md with posting schedule, 7 content templates, engagement tracking approach, Late API integration. Created linkedin-post.js script for automated posting. Set up metrics tracking and content queue files.",
-      "created": "2026-01-28T01:30:15.000000Z"
     },
     {
       "id": "ebd770b4-1bd9-47b5-84c6-767e0b9194e3",
@@ -33,7 +19,7 @@
       "id": "3236378c-cdf3-469b-8903-fc88efb9cfea",
       "name": "[LEAD] Data Analytics 101 Inquiry - Denise Douglas",
       "status": "todo",
-      "description": "[01/27/2026 21:29] 📥 Task created\n\n[01/27/2026 21:30] 📥 From inbox scan\\n\\nDenise R. Douglas (denise.r.douglas@gmail.com) - New Year Greetings and Data Analytics 101 Programme Inquiry. Potential training/consulting opportunity. Follow up within 24h.\n[01/27/2026 21:46] 📧 Found email: Denise R. Douglas (denise.r.douglas@gmail.com) asking about Data Analytics 101 programme for Feb 5-6. She wants to confirm it's happening and requests prep materials. Warm lead - needs reply within 24h. Drafting response for Leslie/Eric.",
+      "description": "[01/27/2026 21:29] 📥 Task created\n\n[01/27/2026 21:30] 📥 From inbox scan\\n\\nDenise R. Douglas (denise.r.douglas@gmail.com) - New Year Greetings and Data Analytics 101 Programme Inquiry. Potential training/consulting opportunity. Follow up within 24h.\n[01/27/2026 21:46] 📧 Found email: Denise R. Douglas (denise.r.douglas@gmail.com) asking about Data Analytics 101 programme for Feb 5-6. She wants to confirm it's happening and requests prep materials. Warm lead - needs reply within 24h. Drafting response for Leslie/Eric.\n[01/27/2026 22:30] 📝 Draft reply ready at drafts/denise-douglas-reply.md - awaiting Leslie approval to send",
       "created": "2026-01-28T01:29:47.000000Z"
     },
     {
@@ -116,29 +102,29 @@
     {
       "id": "d1bb62ba-3f0e-426b-a0d9-79c1607f523d",
       "name": "AI-Align Multi-tenant SaaS",
-      "status": "todo",
-      "description": "[01/27/2026 16:24] 📥 Task created\n\nStrategic alignment platform - multi-tenant architecture",
+      "status": "in-progress",
+      "description": "[01/27/2026 16:24] 📥 Task created\n\nStrategic alignment platform - multi-tenant architecture\n[01/27/2026 22:15] 🔄 Status → in-progress\n[01/27/2026 22:15] Sub-agent spawned (ai-align-research) to create project brief with value prop, market analysis, and MVP features\n[01/27/2026 22:31] ✅ Sub-agent completed: Created comprehensive project brief at brain/projects/ai-align-saas.md with value prop, market analysis, MVP features, and competitive landscape\n[01/27/2026 23:15] 🔄 Proactive work: Reviewed project brief + tech spec. Spawned sub-agents: (1) ai-align-prospects - finding 5-10 T&T design partner companies, (2) ai-align-copy - creating landing page copy. Next: scaffold repo structure if all prep complete.\n[01/27/2026 23:30] 🔄 Sub-agents completed: (1) Repo scaffolded at github.com/leslieleefook/AI-Align, (2) 10 T&T prospects identified, (3) Landing page copy created. Now spawning feature development agents.\n[01/27/2026 23:45] 🔄 11:45 PM - Sub-agents completed: OKR page built with 3 company objectives + 9 KRs + mock data, Check-ins page with journal-style UI + confidence tracking, Dashboard with strategy cascade tree + alignment score (73/100), 18 shadcn/ui components installed. All pages functional. Build succeeds.",
       "created": "2026-01-27T20:24:09.000000Z"
     },
     {
       "id": "7e321f16-4c9d-447b-b0de-b5869801f607",
       "name": "Talent SaaS - Phase 3 Supabase",
-      "status": "todo",
-      "description": "[01/27/2026 16:23] 📥 Task created\n\nIntegrate Supabase backend. Credentials needed: SUPABASE_URL, SUPABASE_ANON_KEY. Schema scaffolded in specs/04-supabase-integration.md",
+      "status": "in-progress",
+      "description": "[01/27/2026 16:23] 📥 Task created\n\nIntegrate Supabase backend. Credentials needed: SUPABASE_URL, SUPABASE_ANON_KEY. Schema scaffolded in specs/04-supabase-integration.md\n[01/27/2026 22:15] Sub-agent spawned (talent-saas-prep) to create DATABASE_SETUP.md and prepare code without credentials\n[01/27/2026 22:15] 🔄 Status → in-progress\n[01/27/2026 22:31] ✅ Sub-agent completed: Created DATABASE_SETUP.md, added missing db helpers, ProtectedRoute component, connected stores. Awaiting Supabase credentials from Leslie.",
       "created": "2026-01-27T20:23:58.000000Z"
     },
     {
       "id": "b10909be-3ec1-4e76-a3e6-3afd0a958517",
       "name": "CineSynth: Connect Database",
       "status": "in-progress",
-      "description": "[01/27/2026 14:16] 📥 Task created\n\nConnect CineSynth to PostgreSQL and enable persistence.\\n\\n**Steps:**\\n1. Add DATABASE_URL to .env.local (Neon/Supabase)\\n2. Run npx prisma db push to create tables\\n3. Replace in-memory auth with Prisma queries\\n4. Wire frontend to save projects\\n\\n**Reference:** brain/projects/cinesynth-roadmap.md\n[01/27/2026 21:31] 🔄 Status → in-progress\n[01/27/2026 21:31] 🤖 Sub-agent spawned (cinesynth-db) to review database connection requirements\n[01/27/2026 21:34] ✅ Research complete: Prisma schema exists (11 models, multi-tenant ready) but no database deployed. Created CineSynth-SaaS/DATABASE_SETUP.md with Neon/Supabase instructions. Ready for db connection when Leslie creates the project.\n[01/27/2026 21:50] Created comprehensive CineSynth roadmap v2.0 at brain/projects/cinesynth-full-roadmap.md. Document includes: current state assessment (70% to MVP), 4-phase plan (Database+Auth, Video Pipeline, Multi-tenant, Stripe), technical architecture decisions, risk register, and success metrics. Codebase located at C:\\Users\\LeslieLeeFook\\repos\\CineSynth.",
+      "description": "[01/27/2026 14:16] 📥 Task created\n\nConnect CineSynth to PostgreSQL and enable persistence.\\n\\n**Steps:**\\n1. Add DATABASE_URL to .env.local (Neon/Supabase)\\n2. Run npx prisma db push to create tables\\n3. Replace in-memory auth with Prisma queries\\n4. Wire frontend to save projects\\n\\n**Reference:** brain/projects/cinesynth-roadmap.md\n[01/27/2026 21:31] 🔄 Status → in-progress\n[01/27/2026 21:31] 🤖 Sub-agent spawned (cinesynth-db) to review database connection requirements\n[01/27/2026 21:34] ✅ Research complete: Prisma schema exists (11 models, multi-tenant ready) but no database deployed. Created CineSynth-SaaS/DATABASE_SETUP.md with Neon/Supabase instructions. Ready for db connection when Leslie creates the project.\n[01/27/2026 21:50] Created comprehensive CineSynth roadmap v2.0 at brain/projects/cinesynth-full-roadmap.md. Document includes: current state assessment (70% to MVP), 4-phase plan (Database+Auth, Video Pipeline, Multi-tenant, Stripe), technical architecture decisions, risk register, and success metrics. Codebase located at C:\\Users\\LeslieLeeFook\\repos\\CineSynth.\n[01/27/2026 22:31] ✅ Sub-agent completed: Created comprehensive roadmap at brain/projects/cinesynth-full-roadmap.md. DATABASE_SETUP.md created. Awaiting Neon/Supabase credentials.",
       "created": "2026-01-27T18:16:37.000000Z"
     },
     {
       "id": "47b42834-2d64-4e6a-bb62-262e113d4040",
-      "name": "ADD THE SUBJECT HERE",
+      "name": "HeartCap Stripe Products",
       "status": "in-progress",
-      "description": "[01/27/2026 14:16] 📥 Task created\n\nCreate Stripe products and prices for HeartCap-Recruiter tiers.\\n\\n**Products to create:**\\n- Starter: /mo, /yr (10 users, 100 interviews)\\n- Professional: /mo, ,430/yr (50 users, 500 interviews)\\n- Enterprise: /mo, ,790/yr (unlimited)\\n\\n**Reference:** brain/projects/heartcap-deployment-prep.md\n[01/27/2026 21:31] 🔄 Status → in-progress\n[01/27/2026 21:31] 🤖 Sub-agent spawned (heartcap-prep) to review deployment requirements\n[01/27/2026 21:32] ✅ Research complete: No Supabase/Stripe credentials exist yet. Created action plan at brain/projects/heartcap-phase1-action-plan.md. ⚠️ Pricing discrepancy: Enterprise is  in task vs  in deployment doc - needs Leslie's confirmation.",
+      "description": "[01/27/2026 14:16] 📥 Task created\n\nCreate Stripe products and prices for HeartCap-Recruiter tiers.\\n\\n**Products to create:**\\n- Starter: /mo, /yr (10 users, 100 interviews)\\n- Professional: /mo, ,430/yr (50 users, 500 interviews)\\n- Enterprise: /mo, ,790/yr (unlimited)\\n\\n**Reference:** brain/projects/heartcap-deployment-prep.md\n[01/27/2026 21:31] 🔄 Status → in-progress\n[01/27/2026 21:31] 🤖 Sub-agent spawned (heartcap-prep) to review deployment requirements\n[01/27/2026 21:32] ✅ Research complete: No Supabase/Stripe credentials exist yet. Created action plan at brain/projects/heartcap-phase1-action-plan.md. ⚠️ Pricing discrepancy: Enterprise is  in task vs  in deployment doc - needs Leslie's confirmation.\n[01/27/2026 22:31] ✅ Sub-agent completed: Action plan at brain/projects/heartcap-phase1-action-plan.md. ⚠️ Pricing discrepancy: Enterprise tier  vs /mo needs Leslie confirmation.",
       "created": "2026-01-27T18:16:32.000000Z"
     },
     {

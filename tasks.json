@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T11:24:39.092Z",
+  "updatedAt": "2026-01-28T11:45:24.429Z",
   "tasks": [
     {
       "id": "df10ac20-dbc8-4598-92c6-cd6496fe09dd",
@@ -26,7 +26,7 @@
       "id": "132d5596-1d47-48d6-ad27-a6b4b1da3115",
       "name": "[TEAM] Serah (HeartCap) - Fiji Tender Docs",
       "status": "in-progress",
-      "description": "[01/28/2026 00:37] 📥 Task created\n\nFiji Tender docs from serah@heartcapinc.com. Dec 18, 2025. Review tender documentation.\n[01/28/2026 00:43] 📧 ORIGINAL EMAIL:\nFROM: Serah Radhaykissoon <serah@heartcapinc.com>\nSUBJECT: Fiji Tender docs\nDATE: 12/18/2025\n\n(HeartCap Fiji tender documentation)\n[01/28/2026 01:46] 🔄 Status → in-progress\n[01/28/2026 06:04] 📋 TENDER REVIEW COMPLETED:\\n\\n❌ DOCUMENTS NOT FOUND in workspace (brain/, attachments/)\\n\\n📧 Email from Serah Radhaykissoon (serah@heartcapinc.com) on Dec 18, 2025 was logged but attachments were never archived.\\n\\n📝 Summary created: brain/team-updates/fiji-tender-review.md\\n\\n✅ NEXT STEPS:\\n1. Search Outlook for original email with attachments\\n2. Contact Serah to confirm tender status and request re-send\\n3. Archive documents properly when received\\n\\n⚠️ 41 days overdue - contact Serah TODAY",
+      "description": "[01/28/2026 00:37] 📥 Task created\n\nFiji Tender docs from serah@heartcapinc.com. Dec 18, 2025. Review tender documentation.\n[01/28/2026 00:43] 📧 ORIGINAL EMAIL:\nFROM: Serah Radhaykissoon <serah@heartcapinc.com>\nSUBJECT: Fiji Tender docs\nDATE: 12/18/2025\n\n(HeartCap Fiji tender documentation)\n[01/28/2026 01:46] 🔄 Status → in-progress\n[01/28/2026 06:04] 📋 TENDER REVIEW COMPLETED:\\n\\n❌ DOCUMENTS NOT FOUND in workspace (brain/, attachments/)\\n\\n📧 Email from Serah Radhaykissoon (serah@heartcapinc.com) on Dec 18, 2025 was logged but attachments were never archived.\\n\\n📝 Summary created: brain/team-updates/fiji-tender-review.md\\n\\n✅ NEXT STEPS:\\n1. Search Outlook for original email with attachments\\n2. Contact Serah to confirm tender status and request re-send\\n3. Archive documents properly when received\\n\\n⚠️ 41 days overdue - contact Serah TODAY\n[01/28/2026 07:32] 🔄 Status → in-progress\n[01/28/2026 07:32] FINDINGS: Email found in Outlook (Dec 18, 2025). 6 attachments recovered and saved to attachments/2025-12/serah-fiji-tender/. Documents: RFP, Functional Requirements, Cyber Assessment, Company Assumptions, Clarifications templates. Draft follow-up email saved to drafts/serah-fiji-tender.md. NEXT: Leslie to review draft and send to Serah asking about tender status.",
       "created": "2026-01-28T04:37:03.000000Z"
     },
     {
@@ -110,7 +110,7 @@
       "id": "cf9b7019-6c3d-4434-b0bf-503a963d2a4d",
       "name": "[FINANCIAL] Digicel Payment Due - Account 242000179248",
       "status": "todo",
-      "description": "[01/28/2026 00:15] 📥 Task created\n\nPayment due notice received Jan 27. Check amount and pay. From: no_reply@digicelgroup.com\n[01/28/2026 00:44] 📧 ORIGINAL EMAIL:\nFROM: Digicel team <no_reply@digicelgroup.com>\nSUBJECT: Digicel+ - Payment due - 242000179248\nDATE: 01/27/2026\n\n(Payment due notice)\n[01/28/2026 00:49] 🔴 OVERDUE: TTD .74 due Jan 27. Risk of  late fee. Pay ASAP.\n[01/28/2026 06:31] OVERDUE REMINDER: Payment of TTD .74 is now overdue (due Jan 27). Risk of  late fee. Draft reminder saved to drafts/digicel-payment-reminder.md",
+      "description": "[01/28/2026 00:15] 📥 Task created\n\nPayment due notice received Jan 27. Check amount and pay. From: no_reply@digicelgroup.com\n[01/28/2026 00:44] 📧 ORIGINAL EMAIL:\nFROM: Digicel team <no_reply@digicelgroup.com>\nSUBJECT: Digicel+ - Payment due - 242000179248\nDATE: 01/27/2026\n\n(Payment due notice)\n[01/28/2026 00:49] 🔴 OVERDUE: TTD .74 due Jan 27. Risk of  late fee. Pay ASAP.\n[01/28/2026 06:31] OVERDUE REMINDER: Payment of TTD .74 is now overdue (due Jan 27). Risk of  late fee. Draft reminder saved to drafts/digicel-payment-reminder.md\n[01/28/2026 07:31] 7:30 AM proactive cycle: Payment still overdue. Notified Leslie via WhatsApp. Action required ASAP.",
       "created": "2026-01-28T04:15:30.000000Z"
     },
     {

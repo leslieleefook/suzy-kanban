@@ -1,6 +1,55 @@
 {
-  "updatedAt": "2026-01-27T23:45:06.292Z",
+  "updatedAt": "2026-01-28T01:54:34.154Z",
   "tasks": [
+    {
+      "id": "cc578f85-9643-49ef-b3e5-afee5d9088ea",
+      "name": "Test: Task field population",
+      "status": "completed",
+      "description": "[01/27/2026 21:38] 📥 Task created\n\nTesting that the Task checklist field is populated correctly\n[01/27/2026 21:39] ✅ Status → completed",
+      "created": "2026-01-28T01:38:58.000000Z"
+    },
+    {
+      "id": "a8d684f7-1145-4a06-b11c-f8ae8245ffed",
+      "name": "[IDEA] AI Models for Finance Use Cases",
+      "status": "in-progress",
+      "description": "[01/27/2026 21:30] 📥 Task created\n\n[01/27/2026 21:30] 📥 From self-sent emails\\n\\nResearch AI models for finance use cases. Build content/documentation around this for client opportunities.\n[01/27/2026 21:32] 🔄 Status → in-progress\n[01/27/2026 21:46] Started research on AI models for finance. Gathering industry insights from McKinsey, IBM, and other sources.\n[01/27/2026 21:49] COMPLETED: Created comprehensive documentation at brain/research/ai-finance-models.md covering: (1) 6 AI model categories with use cases - fraud detection, credit scoring, trading, customer service, risk/compliance, document processing (2) Popular models/frameworks including GPT-4, Claude, BloombergGPT, NVIDIA AI, specialized fintech platforms (3) Caribbean-specific implementation considerations - data sovereignty, scale constraints, talent scarcity, multi-currency focus, regulatory fragmentation (4) 5 client pitch angles for Incus: Risk/Compliance Modernization, CX Transformation, Credit Inclusion, Operational Efficiency, AI Readiness Assessment (5) Technical architecture patterns and ROI framework",
+      "created": "2026-01-28T01:30:17.000000Z"
+    },
+    {
+      "id": "d8db3c9c-c0ff-4f41-befc-276c8827ef36",
+      "name": "[IDEA] LinkedIn Growth Skill",
+      "status": "in-progress",
+      "description": "[01/27/2026 21:30] 📥 Task created\n\n[01/27/2026 21:30] 📥 From self-sent email\\n\\nDevelop a skill to increase LinkedIn activity. Could integrate with Late API for posting, plus engagement tracking.\n[01/27/2026 21:32] 🔄 Status → in-progress\n[01/27/2026 21:47] Created LinkedIn Growth Skill: SKILL.md with posting schedule, 7 content templates, engagement tracking approach, Late API integration. Created linkedin-post.js script for automated posting. Set up metrics tracking and content queue files.",
+      "created": "2026-01-28T01:30:15.000000Z"
+    },
+    {
+      "id": "ebd770b4-1bd9-47b5-84c6-767e0b9194e3",
+      "name": "[CLIENT] Aliv Tableau Server Issues",
+      "status": "completed",
+      "description": "[01/27/2026 21:29] 📥 Task created\n\n[01/27/2026 21:30] 📥 From inbox scan\\n\\nMultiple Tableau Server status change alerts from aliv-tableau. Ashaki Mcphee (CableBahamas) replied about Aliv Tableau Restart. Check if intervention needed.\n[01/27/2026 21:48] ASSESSMENT: No intervention needed. These were routine automated alerts from a PLANNED restart. Timeline: Ashaki Mcphee requested restart → Stacy Johnson (Aliv Director FP&A) approved at 2:24 PM EST → Restart executed ~7:40 PM EST → Status alerts show normal DOWN→UP cycling. Services recovered. Documented in brain/clients/aliv-tableau-status.md. Recommend marking complete.\n[01/27/2026 21:48] ✅ Status → completed",
+      "created": "2026-01-28T01:29:50.000000Z"
+    },
+    {
+      "id": "3236378c-cdf3-469b-8903-fc88efb9cfea",
+      "name": "[LEAD] Data Analytics 101 Inquiry - Denise Douglas",
+      "status": "todo",
+      "description": "[01/27/2026 21:29] 📥 Task created\n\n[01/27/2026 21:30] 📥 From inbox scan\\n\\nDenise R. Douglas (denise.r.douglas@gmail.com) - New Year Greetings and Data Analytics 101 Programme Inquiry. Potential training/consulting opportunity. Follow up within 24h.\n[01/27/2026 21:46] 📧 Found email: Denise R. Douglas (denise.r.douglas@gmail.com) asking about Data Analytics 101 programme for Feb 5-6. She wants to confirm it's happening and requests prep materials. Warm lead - needs reply within 24h. Drafting response for Leslie/Eric.",
+      "created": "2026-01-28T01:29:47.000000Z"
+    },
+    {
+      "id": "25d53a3f-e044-4533-83c7-8688badea139",
+      "name": "[URGENT] AI Workshop Fiji - Jan 28/29",
+      "status": "completed",
+      "description": "[01/27/2026 21:29] 📥 Task created\n\n[01/27/2026 21:30] 📥 From inbox scan\\n\\nSamantha Singh sent invite for AI Intensive Workshop in South Pacific Fiji - happening TOMORROW Jan 28-29! Need immediate review.\n[01/27/2026 21:45] 🔍 Reviewing AI Workshop Fiji urgency - event is Jan 28-29\n[01/27/2026 21:46] ✅ REVIEWED: This is an INTERNAL Incus event (not external). Team already assigned: Sam (dry runs/chat), Tymea (Day 1 help room), Angelique (VIP/Day 2), Eric (tagging/sales), Khalil (founders/email), Jhenique (run sheet/socials). 122 participants from Fiji (Fintel, Fiji Ports, FMF Foods, etc.). Tonight 5PM-12AM AST. Leslie already doing warmup calls (Bharti Shankar email). NO ACTION NEEDED - team has it covered.\n[01/27/2026 21:46] ✅ Status → completed",
+      "created": "2026-01-28T01:29:44.000000Z"
+    },
+    {
+      "id": "b522f5dc-1096-47a8-8f76-409c43ac60b0",
+      "name": "Connect Odoo CRM",
+      "status": "todo",
+      "description": "[01/27/2026 20:44] 📥 Task created\n\nGet Odoo credentials from server and configure integration.\\n\\nNeeded in .secrets:\\n- ODOO_URL\\n- ODOO_DB\\n- ODOO_USERNAME\\n- ODOO_API_KEY\\n\\nScript ready: scripts/odoo-crm.js\\nSkill updated: skills/inbox-to-tasks/SKILL.md",
+      "created": "2026-01-28T00:44:22.000000Z"
+    },
     {
       "id": "f4bbd3bd-4043-4b87-a366-53ba7f3b8a37",
       "name": "Build Kanban board v1",
@@ -16,27 +65,6 @@
       "created": "2026-01-27T20:24:59.000000Z"
     },
     {
-      "id": "f1214f29-63a7-4378-9ce5-d99e0278a684",
-      "name": "HIRA Spa Social Media Management",
-      "status": "in-progress",
-      "description": "[01/27/2026 16:24] 📥 Task created\n\nCrystal's spa. Late API connected for FB/IG. Post regularly.",
-      "created": "2026-01-27T20:24:57.000000Z"
-    },
-    {
-      "id": "58ba53b6-e404-4671-9229-8d7bb8be19d0",
-      "name": "Research project ideas",
-      "status": "in-progress",
-      "description": "[01/27/2026 16:24] 📥 Task created\n\nCaribbean AI/tech ecosystem research. BlueNAP.AI, Crystal Evans Fthen, Swarm Intelligia competitors identified.",
-      "created": "2026-01-27T20:24:48.000000Z"
-    },
-    {
-      "id": "08380c8c-4ed6-49cb-8d42-f13142172e15",
-      "name": "Daily social media scouring",
-      "status": "in-progress",
-      "description": "[01/27/2026 16:24] 📥 Task created\n\nIndustry research scans via Exa. Results saved to brain/inbox/",
-      "created": "2026-01-27T20:24:47.000000Z"
-    },
-    {
       "id": "a7cf7efb-2a9a-4cea-aa19-89668811befd",
       "name": "Set up aggressive automation",
       "status": "completed",
@@ -46,8 +74,8 @@
     {
       "id": "47554526-9ded-4fa9-b8eb-52f773e56b77",
       "name": "Kanban v2 improvements",
-      "status": "in-progress",
-      "description": "[01/27/2026 16:24] 📥 Task created\n\nPriority filters, auto-refresh added. Still need: due dates, progress notes (requires Infinity schema changes)",
+      "status": "completed",
+      "description": "[01/27/2026 16:24] Task created\\n\\n[01/27/2026 20:08] ✅ Kanban v2 done: Due dates and progress notes added!",
       "created": "2026-01-27T20:24:35.000000Z"
     },
     {
@@ -93,20 +121,6 @@
       "created": "2026-01-27T20:24:09.000000Z"
     },
     {
-      "id": "3c554ee7-77c8-48b0-8e2a-c47960ac574e",
-      "name": "Dare Multi-tenant SaaS",
-      "status": "todo",
-      "description": "[01/27/2026 16:24] 📥 Task created\n\nAI Framework - add multi-tenant architecture",
-      "created": "2026-01-27T20:24:08.000000Z"
-    },
-    {
-      "id": "f2bed292-0ae0-43a2-b281-55c36950a77f",
-      "name": "OratorFlow-Sass Multi-tenant SaaS",
-      "status": "todo",
-      "description": "[01/27/2026 16:23] 📥 Task created\n\nSpeaker coaching platform - add multi-tenant architecture",
-      "created": "2026-01-27T20:24:00.000000Z"
-    },
-    {
       "id": "7e321f16-4c9d-447b-b0de-b5869801f607",
       "name": "Talent SaaS - Phase 3 Supabase",
       "status": "todo",
@@ -114,24 +128,17 @@
       "created": "2026-01-27T20:23:58.000000Z"
     },
     {
-      "id": "762af9bd-526d-4343-b0d8-0462a474f998",
-      "name": "Alygn-V2 Multi-tenant SaaS",
-      "status": "todo",
-      "description": "[01/27/2026 16:23] 📥 Task created\n\nEnterprise Performance Intelligence platform - add multi-tenant architecture, auth, billing",
-      "created": "2026-01-27T20:23:56.000000Z"
-    },
-    {
       "id": "b10909be-3ec1-4e76-a3e6-3afd0a958517",
       "name": "CineSynth: Connect Database",
-      "status": "todo",
-      "description": "[01/27/2026 14:16] 📥 Task created\n\nConnect CineSynth to PostgreSQL and enable persistence.\\n\\n**Steps:**\\n1. Add DATABASE_URL to .env.local (Neon/Supabase)\\n2. Run npx prisma db push to create tables\\n3. Replace in-memory auth with Prisma queries\\n4. Wire frontend to save projects\\n\\n**Reference:** brain/projects/cinesynth-roadmap.md",
+      "status": "in-progress",
+      "description": "[01/27/2026 14:16] 📥 Task created\n\nConnect CineSynth to PostgreSQL and enable persistence.\\n\\n**Steps:**\\n1. Add DATABASE_URL to .env.local (Neon/Supabase)\\n2. Run npx prisma db push to create tables\\n3. Replace in-memory auth with Prisma queries\\n4. Wire frontend to save projects\\n\\n**Reference:** brain/projects/cinesynth-roadmap.md\n[01/27/2026 21:31] 🔄 Status → in-progress\n[01/27/2026 21:31] 🤖 Sub-agent spawned (cinesynth-db) to review database connection requirements\n[01/27/2026 21:34] ✅ Research complete: Prisma schema exists (11 models, multi-tenant ready) but no database deployed. Created CineSynth-SaaS/DATABASE_SETUP.md with Neon/Supabase instructions. Ready for db connection when Leslie creates the project.\n[01/27/2026 21:50] Created comprehensive CineSynth roadmap v2.0 at brain/projects/cinesynth-full-roadmap.md. Document includes: current state assessment (70% to MVP), 4-phase plan (Database+Auth, Video Pipeline, Multi-tenant, Stripe), technical architecture decisions, risk register, and success metrics. Codebase located at C:\\Users\\LeslieLeeFook\\repos\\CineSynth.",
       "created": "2026-01-27T18:16:37.000000Z"
     },
     {
       "id": "47b42834-2d64-4e6a-bb62-262e113d4040",
-      "name": "HeartCap Phase 1: Setup Stripe Products",
-      "status": "todo",
-      "description": "[01/27/2026 14:16] 📥 Task created\n\nCreate Stripe products and prices for HeartCap-Recruiter tiers.\\n\\n**Products to create:**\\n- Starter: /mo, /yr (10 users, 100 interviews)\\n- Professional: /mo, ,430/yr (50 users, 500 interviews)\\n- Enterprise: /mo, ,790/yr (unlimited)\\n\\n**Reference:** brain/projects/heartcap-deployment-prep.md",
+      "name": "ADD THE SUBJECT HERE",
+      "status": "in-progress",
+      "description": "[01/27/2026 14:16] 📥 Task created\n\nCreate Stripe products and prices for HeartCap-Recruiter tiers.\\n\\n**Products to create:**\\n- Starter: /mo, /yr (10 users, 100 interviews)\\n- Professional: /mo, ,430/yr (50 users, 500 interviews)\\n- Enterprise: /mo, ,790/yr (unlimited)\\n\\n**Reference:** brain/projects/heartcap-deployment-prep.md\n[01/27/2026 21:31] 🔄 Status → in-progress\n[01/27/2026 21:31] 🤖 Sub-agent spawned (heartcap-prep) to review deployment requirements\n[01/27/2026 21:32] ✅ Research complete: No Supabase/Stripe credentials exist yet. Created action plan at brain/projects/heartcap-phase1-action-plan.md. ⚠️ Pricing discrepancy: Enterprise is  in task vs  in deployment doc - needs Leslie's confirmation.",
       "created": "2026-01-27T18:16:32.000000Z"
     },
     {

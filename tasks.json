@@ -1,20 +1,6 @@
 {
-  "updatedAt": "2026-01-28T08:35:14.210Z",
+  "updatedAt": "2026-01-28T09:35:54.981Z",
   "tasks": [
-    {
-      "id": "eec6ba3e-5c08-4ddf-a6be-f93b61ba4106",
-      "name": "Send sample employee engagement report to Anna at Fiji Airways",
-      "status": "in-progress",
-      "description": "[01/28/2026 01:14] 📥 Task created\n\nFrom Leslie's self-email (01/28 1:08am): Send a sample employee engagement report to Anna from Fiji Airways. Client: Fiji Airways.\n[01/28/2026 01:31] 🤖 Sub-agent spawned (fiji-report) to create sample employee engagement report for Anna\n[01/28/2026 01:31] 🔄 Status → in-progress",
-      "created": "2026-01-28T05:14:55.000000Z"
-    },
-    {
-      "id": "f1292307-18be-4f99-aa25-f6c5fa2120e8",
-      "name": "[IDEA] Future of Incus Strategy",
-      "status": "in-progress",
-      "description": "[01/28/2026 00:38] 📥 Task created\n\nSelf-sent: Future of Incus. Jan 12, 2026. Strategic vision document.\n[01/28/2026 01:46] 🔄 Status → in-progress",
-      "created": "2026-01-28T04:38:18.000000Z"
-    },
     {
       "id": "df10ac20-dbc8-4598-92c6-cd6496fe09dd",
       "name": "[IDEA] AI Agency Pivot Strategy",
@@ -33,22 +19,8 @@
       "id": "a94fc882-7811-41ee-a08f-fd4f6324ed08",
       "name": "[FINANCIAL] Scotiabank - Incorrect Electronic Transfer",
       "status": "todo",
-      "description": "[01/28/2026 00:37] 📥 Task created\n\nRE: Incorrect Electronic Transfer from Andrea.Boisselle@scotiabank.com. Jan 19, 2026. Follow up on resolution.\n[01/28/2026 00:43] 📧 ORIGINAL EMAIL:\nFROM: Boisselle, Andrea <Andrea.Boisselle@scotiabank.com>\nSUBJECT: RE: [External] Incorrect Electronic Transfer\nDATE: 01/19/2026\n\n(Banking issue - incorrect electronic transfer follow-up)",
+      "description": "[01/28/2026 00:37] 📥 Task created\n\nRE: Incorrect Electronic Transfer from Andrea.Boisselle@scotiabank.com. Jan 19, 2026. Follow up on resolution.\n[01/28/2026 00:43] 📧 ORIGINAL EMAIL:\nFROM: Boisselle, Andrea <Andrea.Boisselle@scotiabank.com>\nSUBJECT: RE: [External] Incorrect Electronic Transfer\nDATE: 01/19/2026\n\n(Banking issue - incorrect electronic transfer follow-up)\n[01/28/2026 05:17] RESEARCH COMPLETE: Leslie made incorrect transfer to Royal Bank on Jan 18. Scotiabank ACH recall initiated Jan 19. 9 days elapsed with no update. Draft follow-up email at drafts/scotiabank-followup.md. Full documentation at brain/finance/scotiabank-transfer-issue.md. Contact: Andrea Boisselle (868-612-6504).",
       "created": "2026-01-28T04:37:55.000000Z"
-    },
-    {
-      "id": "970a5471-8d13-464d-8f94-9303e0450947",
-      "name": "[TEAM] BIBA Chatbot Onboarding Survey",
-      "status": "todo",
-      "description": "[01/28/2026 00:37] 📥 Task created\n\nNew task from TeamIncus. Jan 27, 2026. Complete BIBA chatbot onboarding survey.\n[01/28/2026 00:44] 📧 ORIGINAL EMAIL:\nFROM: TeamIncus <teamincus@incusservices.com>\nSUBJECT: New task: BIBA's Chatbot Onboarding Survey\nDATE: 01/27/2026\n\n(Internal task assignment for BIBA chatbot survey)",
-      "created": "2026-01-28T04:37:48.000000Z"
-    },
-    {
-      "id": "22611c5e-2005-41db-af06-d0a73638e61e",
-      "name": "[BD] Zubair Trabzada (Skool) - Message",
-      "status": "todo",
-      "description": "[01/28/2026 00:37] 📥 Task created\n\nMessage via Skool platform. Jan 27, 2026. Check and respond.\n[01/28/2026 00:44] 📧 ORIGINAL EMAIL:\nFROM: Zubair Trabzada via Skool <noreply@skool.com>\nSUBJECT: Zubair Trabzada sent you a message\nDATE: 01/27/2026\n\n(Skool platform direct message)",
-      "created": "2026-01-28T04:37:42.000000Z"
     },
     {
       "id": "2e018ebc-45fc-4ed5-9f2c-9baaa960b517",
@@ -107,13 +79,6 @@
       "created": "2026-01-28T04:36:01.000000Z"
     },
     {
-      "id": "c256d45a-a83a-448b-8523-e2e86a474c7f",
-      "name": "[OPPTY] CANTO HR Conference - Speaking Invitation Feb 4-5",
-      "status": "in-progress",
-      "description": "[01/28/2026 00:35] 📥 Task created\n\nAndrea Lewis-Francis (CANTO) - Invitation to present at HR Conference, Hyatt Regency. Jan 14, 2026.\n[01/28/2026 00:42] 📧 ORIGINAL EMAIL:\nFROM: Andrea Lewis-Francis <alewis@canto.org>\nSUBJECT: Invitation to present- CANTO HR Conference Feb 4-5 2026 Hyatt Regency\nDATE: 01/14/2026\n\nBODY:\nDear Leslie,\nHappy New Year! I hope you have been doing well.\n\nOn behalf of the Secretary General of CANTO, Mrs. Teresa Wankin, I am pleased to invite you to serve as a presenter at the CANTO 2026 Human Resource Leadership Conference, to be held in Trinidad and Tobago from February 4-5, 2026.\n\nWe would be delighted for you to present on the topic:\n'AI and the Future of HR Leadership'\nProposed Date: Wednesday, February 4th, 2026\nProposed Time: 11:15 a.m.\n\nThis session is intended to explore how artificial intelligence is reshaping human resource leadership, including its impact on talent acquisition, workforce analytics, learning and development, and strategic decision-making.\n\nWe would be honoured if you would consider this invitation.\n\nBest regards,\nAndrea Lewis-Francis\nBusiness Support Officer, CANTO\nOffice: 1 (868) 622-3770 ext. 2230\n[01/28/2026 00:46] 🔄 Status → in-progress\n[01/28/2026 00:46] 🔄 URGENT: Sub-agent spawned (canto-presentation) to create presentation outline and confirmation email. Event is Feb 4-5 - less than 1 week away!\n[01/28/2026 01:05] ✅ Created full presentation outline at drafts/canto-presentation.md - 45min session covering: AI landscape, Caribbean context, practical tools, 90-day roadmap, ethics, Q&A prep. Ready for Leslie's review. DEADLINE: Feb 4 @ 11:15 AM\n[01/28/2026 01:27] 🤖 Sub-agent spawned (canto-accept) to draft acceptance email for Feb 4th speaking slot\n[01/28/2026 01:28] ✅ Acceptance email drafted: drafts/canto-acceptance.md. Confirms Feb 4th 11:15 AM. Needs Leslie signature before sending.\n[01/28/2026 02:16] 🤖 Sub-agent spawned (canto-prep) to enhance presentation with Caribbean examples, speaker notes, and LinkedIn announcement",
-      "created": "2026-01-28T04:35:57.000000Z"
-    },
-    {
       "id": "32f61f87-608a-42eb-bae5-727a9605bb36",
       "name": "[OPPTY] SEOGS - Speak at STC 2026 Technical Conference",
       "status": "in-progress",
@@ -121,25 +86,11 @@
       "created": "2026-01-28T04:35:48.000000Z"
     },
     {
-      "id": "ed414c19-ff07-4189-acf6-0178a8019beb",
-      "name": "[OPPTY] Cook Islands Government - AI Services Implementation",
-      "status": "in-progress",
-      "description": "[01/28/2026 00:35] 📥 Task created\n\nMyra Patai (myra.patai@cookislands.gov.ck) - IMPLEMENTATION OF AI SERVICES. Jan 15, 2026. GOVERNMENT OPPORTUNITY - follow up!\n[01/28/2026 00:42] 📧 ORIGINAL EMAIL:\nFROM: Myra Patai <myra.patai@cookislands.gov.ck>\nSUBJECT: IMPLEMENTATION OF AI SERVICES\nDATE: 01/15/2026\n\nBODY:\nKia orana Leslie,\n\nI understand you were recently in the Cook Islands, and I received your contact details from a colleague at Vodafone Cook Islands.\n\nI'm reaching out to see whether you were able to connect with our ICT Support Team based at the Office of the Prime Minister (OPM), as they manage and support the Government's ICT network?\n\nYesterday, my Office participated in a foundational 'AI workshop' facilitated by Tayla Beddoes of Pacific Group AI, where we were introduced to several tools aimed at improving efficiencies, including Fireflies AI, Chat GPT, Claude, Rube, MS Power Automate, Canva and Wisps flow.\n\nMy Team is small (<15 staff) and they are now seeking approval from me to ask OPM to install some of these applications on our work devices.\n\nBefore progressing, I'm interested in understanding the services your organization offers and the associated fees (including for a small Office like mine).\n\nThis email is purely exploratory; I am not committing Government to any engagement at this stage.\n\nMeitaki nui.\n\nMyra Patai\nChief Executive Officer\nOffice of the Public Service Commissioner\nArarua, Rarotonga, Cook Islands\n[01/28/2026 00:46] 🔄 Status → in-progress\n[01/28/2026 00:46] 🔄 HOT LEAD: Sub-agent spawned (cook-islands-lead) to draft professional reply and service brief. Government AI opportunity.\n[01/28/2026 00:49] ✅ Draft reply ready at drafts/cook-islands-reply.md + service brief at brain/proposals/cook-islands-gov-brief.md. Three pricing tiers (.5K-). Ready for Leslie to review and send.",
-      "created": "2026-01-28T04:35:41.000000Z"
-    },
-    {
       "id": "9efbc07a-524b-4753-a6be-23742278480e",
       "name": "[FINANCIAL] JMMB Debt Consolidation - Sacha Kim",
       "status": "todo",
       "description": "[01/28/2026 00:34] 📥 Task created\n\nRE: Consolidation of Personal Debt from JMMB. Aug 26, 2025. Review if still relevant.\n[01/28/2026 00:44] 📧 ORIGINAL EMAIL:\nFROM: Sacha Kim <sacha_kim@jmmb.com>\nSUBJECT: Consolidation of Personal Debt\nDATE: 08/26/2025\n\n(JMMB banking - debt consolidation inquiry)",
       "created": "2026-01-28T04:34:55.000000Z"
-    },
-    {
-      "id": "09e92bab-36e6-4a6f-a0fe-ed7d573b3294",
-      "name": "[FINANCIAL] Queens Park Court Invoice INV-000151",
-      "status": "todo",
-      "description": "[01/28/2026 00:34] 📥 Task created\n\nInvoice from queensparkcourt293 via Zoho Books. Jan 26, 2026. Review and pay.\n[01/28/2026 00:43] 📧 ORIGINAL EMAIL:\nFROM: queensparkcourt293 <message-service@sender.zohobooks.com>\nSUBJECT: Invoice - INV-000151 from Queens Park Court - Sent Using Zoho Books\nDATE: 01/26/2026\n\n(Invoice requiring payment)",
-      "created": "2026-01-28T04:34:52.000000Z"
     },
     {
       "id": "da07caaf-d20f-433d-a6bf-43397f027e56",
@@ -320,7 +271,7 @@
       "id": "d1bb62ba-3f0e-426b-a0d9-79c1607f523d",
       "name": "AI-Align Multi-tenant SaaS",
       "status": "in-progress",
-      "description": "[01/27/2026 16:24] 📥 Task created\n\nStrategic alignment platform - multi-tenant architecture\n[01/27/2026 22:15] 🔄 Status → in-progress\n[01/27/2026 22:15] Sub-agent spawned (ai-align-research) to create project brief with value prop, market analysis, and MVP features\n[01/27/2026 22:31] ✅ Sub-agent completed: Created comprehensive project brief at brain/projects/ai-align-saas.md with value prop, market analysis, MVP features, and competitive landscape\n[01/27/2026 23:15] 🔄 Proactive work: Reviewed project brief + tech spec. Spawned sub-agents: (1) ai-align-prospects - finding 5-10 T&T design partner companies, (2) ai-align-copy - creating landing page copy. Next: scaffold repo structure if all prep complete.\n[01/27/2026 23:30] 🔄 Sub-agents completed: (1) Repo scaffolded at github.com/leslieleefook/AI-Align, (2) 10 T&T prospects identified, (3) Landing page copy created. Now spawning feature development agents.\n[01/27/2026 23:45] 🔄 11:45 PM - Sub-agents completed: OKR page built with 3 company objectives + 9 KRs + mock data, Check-ins page with journal-style UI + confidence tracking, Dashboard with strategy cascade tree + alignment score (73/100), 18 shadcn/ui components installed. All pages functional. Build succeeds.\n[01/28/2026 00:01] 12:00 AM - Midnight proactive work: Committed analytics/settings/teams pages to GitHub. Spawned sub-agent (ai-align-ui) to build landing page, auth UI, and initiatives page. Utilization at 15% - spawning parallel agents to increase.\n[01/28/2026 00:03] 🌙 Midnight Dev Sprint: Spawned 8 sub-agents - playwright-ci, oratorflow-dev, dare-improvements, ai-align-initiatives, ai-align-activity, cinesynth-ui, heartcap-ui, docs-consolidation. Pushing utilization from 15% toward 90% target.\n[01/28/2026 00:16] [01/28/2026 00:15] Proactive work: Verified 9 sub-agents completed. AI-Align now has: landing page, auth UI, dashboard, OKRs, check-ins, initiatives, activity feed, analytics, settings, teams pages. HeartCap UI polished. DARE bugs fixed. Documentation consolidated. HIRA social posts drafted.\n[01/28/2026 00:30] 12:30 AM - Sub-agents completed overnight: Alygn-V2 (123 tests), OratorFlow fixes, DARE improvements, CineSynth UI, HeartCap UI polish, docs consolidated. AI-Align now feature-complete (landing, auth, OKRs, check-ins, initiatives, activity, analytics, settings, teams pages). Utilization at 13% - need to ramp up.\n[01/28/2026 00:49] 🤖 Sub-agent spawned (ai-align-polish) for testing, validation, loading states, error boundaries, mobile polish\n[01/28/2026 00:50] 🔍 12:50 AM - Quick status check: Repo exists at C:\\\\Users\\\\LeslieLeeFook\\\\repos\\\\AI-Align with modified files (landing, auth, activity pages). Dashboard structure in place. Sub-agent review incomplete - manual verification done.\n[01/28/2026 01:24] 🔄 dare-fix agent completed (10m runtime) - may need review for actual changes",
+      "description": "[01/27/2026 16:24] 📥 Task created\n\nStrategic alignment platform - multi-tenant architecture\n[01/27/2026 22:15] 🔄 Status → in-progress\n[01/27/2026 22:15] Sub-agent spawned (ai-align-research) to create project brief with value prop, market analysis, and MVP features\n[01/27/2026 22:31] ✅ Sub-agent completed: Created comprehensive project brief at brain/projects/ai-align-saas.md with value prop, market analysis, MVP features, and competitive landscape\n[01/27/2026 23:15] 🔄 Proactive work: Reviewed project brief + tech spec. Spawned sub-agents: (1) ai-align-prospects - finding 5-10 T&T design partner companies, (2) ai-align-copy - creating landing page copy. Next: scaffold repo structure if all prep complete.\n[01/27/2026 23:30] 🔄 Sub-agents completed: (1) Repo scaffolded at github.com/leslieleefook/AI-Align, (2) 10 T&T prospects identified, (3) Landing page copy created. Now spawning feature development agents.\n[01/27/2026 23:45] 🔄 11:45 PM - Sub-agents completed: OKR page built with 3 company objectives + 9 KRs + mock data, Check-ins page with journal-style UI + confidence tracking, Dashboard with strategy cascade tree + alignment score (73/100), 18 shadcn/ui components installed. All pages functional. Build succeeds.\n[01/28/2026 00:01] 12:00 AM - Midnight proactive work: Committed analytics/settings/teams pages to GitHub. Spawned sub-agent (ai-align-ui) to build landing page, auth UI, and initiatives page. Utilization at 15% - spawning parallel agents to increase.\n[01/28/2026 00:03] 🌙 Midnight Dev Sprint: Spawned 8 sub-agents - playwright-ci, oratorflow-dev, dare-improvements, ai-align-initiatives, ai-align-activity, cinesynth-ui, heartcap-ui, docs-consolidation. Pushing utilization from 15% toward 90% target.\n[01/28/2026 00:16] [01/28/2026 00:15] Proactive work: Verified 9 sub-agents completed. AI-Align now has: landing page, auth UI, dashboard, OKRs, check-ins, initiatives, activity feed, analytics, settings, teams pages. HeartCap UI polished. DARE bugs fixed. Documentation consolidated. HIRA social posts drafted.\n[01/28/2026 00:30] 12:30 AM - Sub-agents completed overnight: Alygn-V2 (123 tests), OratorFlow fixes, DARE improvements, CineSynth UI, HeartCap UI polish, docs consolidated. AI-Align now feature-complete (landing, auth, OKRs, check-ins, initiatives, activity, analytics, settings, teams pages). Utilization at 13% - need to ramp up.\n[01/28/2026 00:49] 🤖 Sub-agent spawned (ai-align-polish) for testing, validation, loading states, error boundaries, mobile polish\n[01/28/2026 00:50] 🔍 12:50 AM - Quick status check: Repo exists at C:\\\\Users\\\\LeslieLeeFook\\\\repos\\\\AI-Align with modified files (landing, auth, activity pages). Dashboard structure in place. Sub-agent review incomplete - manual verification done.\n[01/28/2026 01:24] 🔄 dare-fix agent completed (10m runtime) - may need review for actual changes\n[01/28/2026 05:11] ✅ Test suite created: __tests__/alignment.test.ts for alignment scoring logic",
       "created": "2026-01-27T20:24:09.000000Z"
     },
     {

@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-01-28T04:45:42.158Z",
+  "updatedAt": "2026-01-28T05:29:52.142Z",
   "tasks": [
+    {
+      "id": "eec6ba3e-5c08-4ddf-a6be-f93b61ba4106",
+      "name": "Send sample employee engagement report to Anna at Fiji Airways",
+      "status": "todo",
+      "description": "[01/28/2026 01:14] 📥 Task created\n\nFrom Leslie's self-email (01/28 1:08am): Send a sample employee engagement report to Anna from Fiji Airways. Client: Fiji Airways.",
+      "created": "2026-01-28T05:14:55.000000Z"
+    },
     {
       "id": "f1292307-18be-4f99-aa25-f6c5fa2120e8",
       "name": "[IDEA] Future of Incus Strategy",
@@ -46,8 +53,8 @@
     {
       "id": "d3079650-3dd4-4420-99e1-dbf367ce3fcb",
       "name": "[BD] Matthew Marhue - Job Application",
-      "status": "todo",
-      "description": "[01/28/2026 00:37] 📥 Task created\n\nJob application from matt.marhue@gmail.com. Jan 15, 2026. Review candidate.\n[01/28/2026 00:42] 📧 ORIGINAL EMAIL:\nFROM: Matthew Marhue <matt.marhue@gmail.com>\nSUBJECT: Matthew Marhue - Job Application\nDATE: 01/15/2026\n\nBODY:\nGood day,\n\nMy name is Matthew Marhue, and I would like to apply for a position at Incus that would be relevant to my experience and/or educational trajectory in programming. Below I have attached my resume for your perusal. I look forward to hearing from you soon, thank you!\n\nKind regards,\nMatthew Marhue\n1(868)277-3797",
+      "status": "in-progress",
+      "description": "[01/28/2026 00:37] 📥 Task created\n\nJob application from matt.marhue@gmail.com. Jan 15, 2026. Review candidate.\n[01/28/2026 00:42] 📧 ORIGINAL EMAIL:\nFROM: Matthew Marhue <matt.marhue@gmail.com>\nSUBJECT: Matthew Marhue - Job Application\nDATE: 01/15/2026\n\nBODY:\nGood day,\n\nMy name is Matthew Marhue, and I would like to apply for a position at Incus that would be relevant to my experience and/or educational trajectory in programming. Below I have attached my resume for your perusal. I look forward to hearing from you soon, thank you!\n\nKind regards,\nMatthew Marhue\n1(868)277-3797\n[01/28/2026 00:52] 🔄 Status → in-progress\n[01/28/2026 00:52] 🤖 Sub-agent spawned (job-app-review) to review Matthew Marhue application",
       "created": "2026-01-28T04:37:40.000000Z"
     },
     {
@@ -67,8 +74,8 @@
     {
       "id": "3075e2d4-dd7c-4ad9-8808-92b68ee4fc3d",
       "name": "[TEAM] Janelle Spencer - WR 2604149",
-      "status": "todo",
-      "description": "[01/28/2026 00:36] 📥 Task created\n\nRE: WR 2604149 JANELLE SPENCER from j.spencer@ciftrinidad.com. Jan 26, 2026. Check status.\n[01/28/2026 00:43] 📧 ORIGINAL EMAIL:\nFROM: Janelle Spencer <j.spencer@ciftrinidad.com>\nSUBJECT: Re: WR 2604149 JANELLE SPENCER\nDATE: 01/26/2026\n\n(CIF Trinidad work request follow-up)",
+      "status": "in-progress",
+      "description": "[01/28/2026 00:36] 📥 Task created\n\nRE: WR 2604149 JANELLE SPENCER from j.spencer@ciftrinidad.com. Jan 26, 2026. Check status.\n[01/28/2026 00:43] 📧 ORIGINAL EMAIL:\nFROM: Janelle Spencer <j.spencer@ciftrinidad.com>\nSUBJECT: Re: WR 2604149 JANELLE SPENCER\nDATE: 01/26/2026\n\n(CIF Trinidad work request follow-up)\n[01/28/2026 01:27] 🔄 Status → in-progress\n[01/28/2026 01:28] ✅ Reviewed: Cargo shipping  wrap accepted, loading this week. Follow-ups: confirm payment, track loading, Amazon item pending. Summary at brain/team-updates/janelle-spencer-wr.md",
       "created": "2026-01-28T04:36:59.000000Z"
     },
     {
@@ -95,8 +102,8 @@
     {
       "id": "fc033a46-cd96-44f8-baf5-9e495b2cea75",
       "name": "[CLIENT] Sarah Nell-Rodriguez - Bahamas Customs Tableau Training",
-      "status": "todo",
-      "description": "[01/28/2026 00:36] 📥 Task created\n\nRE: Bahamas Customs Tableau Training from sarah@bedatalit.com. Jan 6, 2026. Check status.\n[01/28/2026 00:42] 📧 ORIGINAL EMAIL:\nFROM: Sarah Nell-Rodriguez <sarah@bedatalit.com>\nSUBJECT: Re: Bahamas Customs Tableau Training\nDATE: 01/06/2026\n\nBODY:\nHey All -\n\nAt the end of 2025, BDL made the difficult position to not do business in 2026. I had the opportunity to run the education team at an AI company, and decided it was the right move for me.\n\nWhat does that mean? I still have the course I built and I am more than happy to share it with you, though I would not be able to deliver due to my new commitment.\n\nLet me know what you think, and how you'd like to move forward. I will say, Leslie, my new company is always looking for new partners 😊\n\nSarah Nell-Rodriguez\nChief Learning Officer\nCalendly: https://calendly.com/sarah_bedatalit/30-minute-catch-up",
+      "status": "in-progress",
+      "description": "[01/28/2026 00:36] 📥 Task created\n\nRE: Bahamas Customs Tableau Training from sarah@bedatalit.com. Jan 6, 2026. Check status.\n[01/28/2026 00:42] 📧 ORIGINAL EMAIL:\nFROM: Sarah Nell-Rodriguez <sarah@bedatalit.com>\nSUBJECT: Re: Bahamas Customs Tableau Training\nDATE: 01/06/2026\n\nBODY:\nHey All -\n\nAt the end of 2025, BDL made the difficult position to not do business in 2026. I had the opportunity to run the education team at an AI company, and decided it was the right move for me.\n\nWhat does that mean? I still have the course I built and I am more than happy to share it with you, though I would not be able to deliver due to my new commitment.\n\nLet me know what you think, and how you'd like to move forward. I will say, Leslie, my new company is always looking for new partners 😊\n\nSarah Nell-Rodriguez\nChief Learning Officer\nCalendly: https://calendly.com/sarah_bedatalit/30-minute-catch-up\n[01/28/2026 00:51] 🤖 Sub-agent spawned (sarah-partnership) to draft partnership response\n[01/28/2026 00:51] 🔄 Status → in-progress\n[01/28/2026 00:53] ✅ Draft complete: drafts/sarah-nell-response.md with 2 options (recommend Option 2: accept course + explore partnership)",
       "created": "2026-01-28T04:36:04.000000Z"
     },
     {
@@ -109,22 +116,22 @@
     {
       "id": "c256d45a-a83a-448b-8523-e2e86a474c7f",
       "name": "[OPPTY] CANTO HR Conference - Speaking Invitation Feb 4-5",
-      "status": "todo",
-      "description": "[01/28/2026 00:35] 📥 Task created\n\nAndrea Lewis-Francis (CANTO) - Invitation to present at HR Conference, Hyatt Regency. Jan 14, 2026.\n[01/28/2026 00:42] 📧 ORIGINAL EMAIL:\nFROM: Andrea Lewis-Francis <alewis@canto.org>\nSUBJECT: Invitation to present- CANTO HR Conference Feb 4-5 2026 Hyatt Regency\nDATE: 01/14/2026\n\nBODY:\nDear Leslie,\nHappy New Year! I hope you have been doing well.\n\nOn behalf of the Secretary General of CANTO, Mrs. Teresa Wankin, I am pleased to invite you to serve as a presenter at the CANTO 2026 Human Resource Leadership Conference, to be held in Trinidad and Tobago from February 4-5, 2026.\n\nWe would be delighted for you to present on the topic:\n'AI and the Future of HR Leadership'\nProposed Date: Wednesday, February 4th, 2026\nProposed Time: 11:15 a.m.\n\nThis session is intended to explore how artificial intelligence is reshaping human resource leadership, including its impact on talent acquisition, workforce analytics, learning and development, and strategic decision-making.\n\nWe would be honoured if you would consider this invitation.\n\nBest regards,\nAndrea Lewis-Francis\nBusiness Support Officer, CANTO\nOffice: 1 (868) 622-3770 ext. 2230",
+      "status": "in-progress",
+      "description": "[01/28/2026 00:35] 📥 Task created\n\nAndrea Lewis-Francis (CANTO) - Invitation to present at HR Conference, Hyatt Regency. Jan 14, 2026.\n[01/28/2026 00:42] 📧 ORIGINAL EMAIL:\nFROM: Andrea Lewis-Francis <alewis@canto.org>\nSUBJECT: Invitation to present- CANTO HR Conference Feb 4-5 2026 Hyatt Regency\nDATE: 01/14/2026\n\nBODY:\nDear Leslie,\nHappy New Year! I hope you have been doing well.\n\nOn behalf of the Secretary General of CANTO, Mrs. Teresa Wankin, I am pleased to invite you to serve as a presenter at the CANTO 2026 Human Resource Leadership Conference, to be held in Trinidad and Tobago from February 4-5, 2026.\n\nWe would be delighted for you to present on the topic:\n'AI and the Future of HR Leadership'\nProposed Date: Wednesday, February 4th, 2026\nProposed Time: 11:15 a.m.\n\nThis session is intended to explore how artificial intelligence is reshaping human resource leadership, including its impact on talent acquisition, workforce analytics, learning and development, and strategic decision-making.\n\nWe would be honoured if you would consider this invitation.\n\nBest regards,\nAndrea Lewis-Francis\nBusiness Support Officer, CANTO\nOffice: 1 (868) 622-3770 ext. 2230\n[01/28/2026 00:46] 🔄 Status → in-progress\n[01/28/2026 00:46] 🔄 URGENT: Sub-agent spawned (canto-presentation) to create presentation outline and confirmation email. Event is Feb 4-5 - less than 1 week away!\n[01/28/2026 01:05] ✅ Created full presentation outline at drafts/canto-presentation.md - 45min session covering: AI landscape, Caribbean context, practical tools, 90-day roadmap, ethics, Q&A prep. Ready for Leslie's review. DEADLINE: Feb 4 @ 11:15 AM\n[01/28/2026 01:27] 🤖 Sub-agent spawned (canto-accept) to draft acceptance email for Feb 4th speaking slot\n[01/28/2026 01:28] ✅ Acceptance email drafted: drafts/canto-acceptance.md. Confirms Feb 4th 11:15 AM. Needs Leslie signature before sending.",
       "created": "2026-01-28T04:35:57.000000Z"
     },
     {
       "id": "32f61f87-608a-42eb-bae5-727a9605bb36",
       "name": "[OPPTY] SEOGS - Speak at STC 2026 Technical Conference",
-      "status": "todo",
-      "description": "[01/28/2026 00:35] 📥 Task created\n\nSpeaking invitation from SEOGS (gep-events.com). Dec 10, 2025. Review and respond.\n[01/28/2026 00:43] 📧 ORIGINAL EMAIL:\nFROM: SEOGS <americasmarketing@gep-events.com>\nSUBJECT: Speak at SEOGS Technical Conference (STC 2026)\nDATE: 12/10/2025\n\n(Speaking invitation for energy/oil & gas technical conference)",
+      "status": "in-progress",
+      "description": "[01/28/2026 00:35] 📥 Task created\n\nSpeaking invitation from SEOGS (gep-events.com). Dec 10, 2025. Review and respond.\n[01/28/2026 00:43] 📧 ORIGINAL EMAIL:\nFROM: SEOGS <americasmarketing@gep-events.com>\nSUBJECT: Speak at SEOGS Technical Conference (STC 2026)\nDATE: 12/10/2025\n\n(Speaking invitation for energy/oil & gas technical conference)\n[01/28/2026 00:52] 🔄 Status → in-progress\n[01/28/2026 00:52] 🤖 Sub-agent spawned (seogs-research) to research SEOGS conference and draft response",
       "created": "2026-01-28T04:35:48.000000Z"
     },
     {
       "id": "ed414c19-ff07-4189-acf6-0178a8019beb",
       "name": "[OPPTY] Cook Islands Government - AI Services Implementation",
-      "status": "todo",
-      "description": "[01/28/2026 00:35] 📥 Task created\n\nMyra Patai (myra.patai@cookislands.gov.ck) - IMPLEMENTATION OF AI SERVICES. Jan 15, 2026. GOVERNMENT OPPORTUNITY - follow up!\n[01/28/2026 00:42] 📧 ORIGINAL EMAIL:\nFROM: Myra Patai <myra.patai@cookislands.gov.ck>\nSUBJECT: IMPLEMENTATION OF AI SERVICES\nDATE: 01/15/2026\n\nBODY:\nKia orana Leslie,\n\nI understand you were recently in the Cook Islands, and I received your contact details from a colleague at Vodafone Cook Islands.\n\nI'm reaching out to see whether you were able to connect with our ICT Support Team based at the Office of the Prime Minister (OPM), as they manage and support the Government's ICT network?\n\nYesterday, my Office participated in a foundational 'AI workshop' facilitated by Tayla Beddoes of Pacific Group AI, where we were introduced to several tools aimed at improving efficiencies, including Fireflies AI, Chat GPT, Claude, Rube, MS Power Automate, Canva and Wisps flow.\n\nMy Team is small (<15 staff) and they are now seeking approval from me to ask OPM to install some of these applications on our work devices.\n\nBefore progressing, I'm interested in understanding the services your organization offers and the associated fees (including for a small Office like mine).\n\nThis email is purely exploratory; I am not committing Government to any engagement at this stage.\n\nMeitaki nui.\n\nMyra Patai\nChief Executive Officer\nOffice of the Public Service Commissioner\nArarua, Rarotonga, Cook Islands",
+      "status": "in-progress",
+      "description": "[01/28/2026 00:35] 📥 Task created\n\nMyra Patai (myra.patai@cookislands.gov.ck) - IMPLEMENTATION OF AI SERVICES. Jan 15, 2026. GOVERNMENT OPPORTUNITY - follow up!\n[01/28/2026 00:42] 📧 ORIGINAL EMAIL:\nFROM: Myra Patai <myra.patai@cookislands.gov.ck>\nSUBJECT: IMPLEMENTATION OF AI SERVICES\nDATE: 01/15/2026\n\nBODY:\nKia orana Leslie,\n\nI understand you were recently in the Cook Islands, and I received your contact details from a colleague at Vodafone Cook Islands.\n\nI'm reaching out to see whether you were able to connect with our ICT Support Team based at the Office of the Prime Minister (OPM), as they manage and support the Government's ICT network?\n\nYesterday, my Office participated in a foundational 'AI workshop' facilitated by Tayla Beddoes of Pacific Group AI, where we were introduced to several tools aimed at improving efficiencies, including Fireflies AI, Chat GPT, Claude, Rube, MS Power Automate, Canva and Wisps flow.\n\nMy Team is small (<15 staff) and they are now seeking approval from me to ask OPM to install some of these applications on our work devices.\n\nBefore progressing, I'm interested in understanding the services your organization offers and the associated fees (including for a small Office like mine).\n\nThis email is purely exploratory; I am not committing Government to any engagement at this stage.\n\nMeitaki nui.\n\nMyra Patai\nChief Executive Officer\nOffice of the Public Service Commissioner\nArarua, Rarotonga, Cook Islands\n[01/28/2026 00:46] 🔄 Status → in-progress\n[01/28/2026 00:46] 🔄 HOT LEAD: Sub-agent spawned (cook-islands-lead) to draft professional reply and service brief. Government AI opportunity.\n[01/28/2026 00:49] ✅ Draft reply ready at drafts/cook-islands-reply.md + service brief at brain/proposals/cook-islands-gov-brief.md. Three pricing tiers (.5K-). Ready for Leslie to review and send.",
       "created": "2026-01-28T04:35:41.000000Z"
     },
     {
@@ -145,7 +152,7 @@
       "id": "da07caaf-d20f-433d-a6bf-43397f027e56",
       "name": "[LEGAL] Delaware State Tax Notices - LegalInc",
       "status": "todo",
-      "description": "[01/28/2026 00:34] 📥 Task created\n\nMultiple Delaware tax notices from LegalInc (Apr, Jul, Aug 2025). Review status and ensure compliance.\n[01/28/2026 00:43] 📧 ORIGINAL EMAILS:\nMultiple notices from LegalInc (atlas-support@service.legalinc.com):\n1) Delaware State Tax Notice - 04/11/2025\n2) Delaware State Tax Notice - 07/18/2025\n3) Annual Report - Notice of Due Date - 08/12/2025\n\n(Incus Services, Inc. Delaware compliance)",
+      "description": "[01/28/2026 00:34] 📥 Task created\n\nMultiple Delaware tax notices from LegalInc (Apr, Jul, Aug 2025). Review status and ensure compliance.\n[01/28/2026 00:43] 📧 ORIGINAL EMAILS:\nMultiple notices from LegalInc (atlas-support@service.legalinc.com):\n1) Delaware State Tax Notice - 04/11/2025\n2) Delaware State Tax Notice - 07/18/2025\n3) Annual Report - Notice of Due Date - 08/12/2025\n\n(Incus Services, Inc. Delaware compliance)\n[01/28/2026 00:49] 🔴 CHECK STATUS: Jan 27 deadline per calendar. Multiple LegalInc notices received. Verify compliance for Incus Services, Inc.",
       "created": "2026-01-28T04:34:47.000000Z"
     },
     {
@@ -200,29 +207,29 @@
     {
       "id": "d4d001e0-3a58-4bbc-86c4-2c666302f006",
       "name": "[TEAM] Eric Freakley - Heart Capital & Incus Update",
-      "status": "todo",
-      "description": "[01/28/2026 00:15] 📥 Task created\n\nWeekly update received Jan 27. Review and acknowledge. From Eric Freakley.\n[01/28/2026 00:44] 📧 ORIGINAL EMAIL:\nFROM: Eric Freakley <eric@incusservices.com>\nSUBJECT: Heart Capital & Incus Update - 27/01/2026\nDATE: 01/27/2026\n\n(Weekly team update)",
+      "status": "in-progress",
+      "description": "[01/28/2026 00:15] 📥 Task created\n\nWeekly update received Jan 27. Review and acknowledge. From Eric Freakley.\n[01/28/2026 00:44] 📧 ORIGINAL EMAIL:\nFROM: Eric Freakley <eric@incusservices.com>\nSUBJECT: Heart Capital & Incus Update - 27/01/2026\nDATE: 01/27/2026\n\n(Weekly team update)\n[01/28/2026 00:55] 🔄 Status → in-progress\n[01/28/2026 00:55] 🤖 Sub-agent spawned (eric-update-review) to summarize weekly update and extract action items",
       "created": "2026-01-28T04:15:40.000000Z"
     },
     {
       "id": "2bd728b5-bf11-4fd1-a447-c7227d83a725",
       "name": "[CLIENT] Bharti Shankar - Personal Audio Follow-up",
-      "status": "todo",
-      "description": "[01/28/2026 00:15] 📥 Task created\n\nRE: personal audio inside - received Jan 27 from bhartis@fmf.com.fj (FMF Fiji). Needs response.\n[01/28/2026 00:44] 📧 ORIGINAL EMAILS:\nFROM: Bharti Shankar <bhartis@fmf.com.fj>\nSUBJECT: RE: personal audio inside\nDATES: 01/27/2026 (2 emails)\n\n(FMF Fiji - client follow-up)",
+      "status": "in-progress",
+      "description": "[01/28/2026 00:15] 📥 Task created\n\nRE: personal audio inside - received Jan 27 from bhartis@fmf.com.fj (FMF Fiji). Needs response.\n[01/28/2026 00:44] 📧 ORIGINAL EMAILS:\nFROM: Bharti Shankar <bhartis@fmf.com.fj>\nSUBJECT: RE: personal audio inside\nDATES: 01/27/2026 (2 emails)\n\n(FMF Fiji - client follow-up)\n[01/28/2026 00:56] 🔄 Status → in-progress\n[01/28/2026 00:56] 🤖 Sub-agent spawned (bharti-response) to draft response to FMF Fiji emails\n[01/28/2026 01:18] ✅ Draft complete: drafts/bharti-shankar-response.md. FMF email blocking issue identified. Includes direct links bypassing email tracking. URGENT: Workshop is Jan 28-29 (tomorrow!)",
       "created": "2026-01-28T04:15:35.000000Z"
     },
     {
       "id": "cf9b7019-6c3d-4434-b0bf-503a963d2a4d",
       "name": "[FINANCIAL] Digicel Payment Due - Account 242000179248",
       "status": "todo",
-      "description": "[01/28/2026 00:15] 📥 Task created\n\nPayment due notice received Jan 27. Check amount and pay. From: no_reply@digicelgroup.com\n[01/28/2026 00:44] 📧 ORIGINAL EMAIL:\nFROM: Digicel team <no_reply@digicelgroup.com>\nSUBJECT: Digicel+ - Payment due - 242000179248\nDATE: 01/27/2026\n\n(Payment due notice)",
+      "description": "[01/28/2026 00:15] 📥 Task created\n\nPayment due notice received Jan 27. Check amount and pay. From: no_reply@digicelgroup.com\n[01/28/2026 00:44] 📧 ORIGINAL EMAIL:\nFROM: Digicel team <no_reply@digicelgroup.com>\nSUBJECT: Digicel+ - Payment due - 242000179248\nDATE: 01/27/2026\n\n(Payment due notice)\n[01/28/2026 00:49] 🔴 OVERDUE: TTD .74 due Jan 27. Risk of  late fee. Pay ASAP.",
       "created": "2026-01-28T04:15:30.000000Z"
     },
     {
       "id": "01329524-df75-43c6-b87f-4fdc6662cfe8",
       "name": "[FINANCIAL] Stripe Payment ,000 from Dion Bethell",
       "status": "todo",
-      "description": "[01/28/2026 00:15] 📥 Task created\n\nPayment received Jan 27. Verify receipt and acknowledge. From: notifications@stripe.com\n[01/28/2026 00:44] 📧 ORIGINAL EMAIL:\nFROM: Stripe <notifications@stripe.com>\nSUBJECT: Payment of US\\,000.00 from Dion Bethell for Incus Services, Inc.\nDATE: 01/27/2026\n\n(Payment received confirmation)",
+      "description": "[01/28/2026 00:15] 📥 Task created\n\nPayment received Jan 27. Verify receipt and acknowledge. From: notifications@stripe.com\n[01/28/2026 00:44] 📧 ORIGINAL EMAIL:\nFROM: Stripe <notifications@stripe.com>\nSUBJECT: Payment of US\\,000.00 from Dion Bethell for Incus Services, Inc.\nDATE: 01/27/2026\n\n(Payment received confirmation)\n[01/28/2026 00:49] ✅ VERIFIED: Payment was ,000 USD (not ,000). Confirmed receipt.",
       "created": "2026-01-28T04:15:27.000000Z"
     },
     {
@@ -242,8 +249,8 @@
     {
       "id": "3236378c-cdf3-469b-8903-fc88efb9cfea",
       "name": "[LEAD] Data Analytics 101 Inquiry - Denise Douglas",
-      "status": "todo",
-      "description": "[01/27/2026 21:29] 📥 Task created\n\n[01/27/2026 21:30] 📥 From inbox scan\\n\\nDenise R. Douglas (denise.r.douglas@gmail.com) - New Year Greetings and Data Analytics 101 Programme Inquiry. Potential training/consulting opportunity. Follow up within 24h.\n[01/27/2026 21:46] 📧 Found email: Denise R. Douglas (denise.r.douglas@gmail.com) asking about Data Analytics 101 programme for Feb 5-6. She wants to confirm it's happening and requests prep materials. Warm lead - needs reply within 24h. Drafting response for Leslie/Eric.\n[01/27/2026 22:30] 📝 Draft reply ready at drafts/denise-douglas-reply.md - awaiting Leslie approval to send",
+      "status": "in-progress",
+      "description": "[01/27/2026 21:29] 📥 Task created\n\n[01/27/2026 21:30] 📥 From inbox scan\\n\\nDenise R. Douglas (denise.r.douglas@gmail.com) - New Year Greetings and Data Analytics 101 Programme Inquiry. Potential training/consulting opportunity. Follow up within 24h.\n[01/27/2026 21:46] 📧 Found email: Denise R. Douglas (denise.r.douglas@gmail.com) asking about Data Analytics 101 programme for Feb 5-6. She wants to confirm it's happening and requests prep materials. Warm lead - needs reply within 24h. Drafting response for Leslie/Eric.\n[01/27/2026 22:30] 📝 Draft reply ready at drafts/denise-douglas-reply.md - awaiting Leslie approval to send\n[01/28/2026 00:51] 🔄 Status → in-progress\n[01/28/2026 00:51] 🤖 Sub-agent spawned (denise-reply) to draft response about Data Analytics 101 (Feb 5-6)\n[01/28/2026 01:14] ✅ Draft complete: drafts/denise-douglas-final.md confirms Feb 5-6 course with prep tips. Ready to send (may need venue details).",
       "created": "2026-01-28T01:29:47.000000Z"
     },
     {
@@ -327,8 +334,36 @@
       "id": "d1bb62ba-3f0e-426b-a0d9-79c1607f523d",
       "name": "AI-Align Multi-tenant SaaS",
       "status": "in-progress",
-      "description": "[01/27/2026 16:24] 📥 Task created\n\nStrategic alignment platform - multi-tenant architecture\n[01/27/2026 22:15] 🔄 Status → in-progress\n[01/27/2026 22:15] Sub-agent spawned (ai-align-research) to create project brief with value prop, market analysis, and MVP features\n[01/27/2026 22:31] ✅ Sub-agent completed: Created comprehensive project brief at brain/projects/ai-align-saas.md with value prop, market analysis, MVP features, and competitive landscape\n[01/27/2026 23:15] 🔄 Proactive work: Reviewed project brief + tech spec. Spawned sub-agents: (1) ai-align-prospects - finding 5-10 T&T design partner companies, (2) ai-align-copy - creating landing page copy. Next: scaffold repo structure if all prep complete.\n[01/27/2026 23:30] 🔄 Sub-agents completed: (1) Repo scaffolded at github.com/leslieleefook/AI-Align, (2) 10 T&T prospects identified, (3) Landing page copy created. Now spawning feature development agents.\n[01/27/2026 23:45] 🔄 11:45 PM - Sub-agents completed: OKR page built with 3 company objectives + 9 KRs + mock data, Check-ins page with journal-style UI + confidence tracking, Dashboard with strategy cascade tree + alignment score (73/100), 18 shadcn/ui components installed. All pages functional. Build succeeds.\n[01/28/2026 00:01] 12:00 AM - Midnight proactive work: Committed analytics/settings/teams pages to GitHub. Spawned sub-agent (ai-align-ui) to build landing page, auth UI, and initiatives page. Utilization at 15% - spawning parallel agents to increase.\n[01/28/2026 00:03] 🌙 Midnight Dev Sprint: Spawned 8 sub-agents - playwright-ci, oratorflow-dev, dare-improvements, ai-align-initiatives, ai-align-activity, cinesynth-ui, heartcap-ui, docs-consolidation. Pushing utilization from 15% toward 90% target.\n[01/28/2026 00:16] [01/28/2026 00:15] Proactive work: Verified 9 sub-agents completed. AI-Align now has: landing page, auth UI, dashboard, OKRs, check-ins, initiatives, activity feed, analytics, settings, teams pages. HeartCap UI polished. DARE bugs fixed. Documentation consolidated. HIRA social posts drafted.\n[01/28/2026 00:30] 12:30 AM - Sub-agents completed overnight: Alygn-V2 (123 tests), OratorFlow fixes, DARE improvements, CineSynth UI, HeartCap UI polish, docs consolidated. AI-Align now feature-complete (landing, auth, OKRs, check-ins, initiatives, activity, analytics, settings, teams pages). Utilization at 13% - need to ramp up.",
+      "description": "[01/27/2026 16:24] 📥 Task created\n\nStrategic alignment platform - multi-tenant architecture\n[01/27/2026 22:15] 🔄 Status → in-progress\n[01/27/2026 22:15] Sub-agent spawned (ai-align-research) to create project brief with value prop, market analysis, and MVP features\n[01/27/2026 22:31] ✅ Sub-agent completed: Created comprehensive project brief at brain/projects/ai-align-saas.md with value prop, market analysis, MVP features, and competitive landscape\n[01/27/2026 23:15] 🔄 Proactive work: Reviewed project brief + tech spec. Spawned sub-agents: (1) ai-align-prospects - finding 5-10 T&T design partner companies, (2) ai-align-copy - creating landing page copy. Next: scaffold repo structure if all prep complete.\n[01/27/2026 23:30] 🔄 Sub-agents completed: (1) Repo scaffolded at github.com/leslieleefook/AI-Align, (2) 10 T&T prospects identified, (3) Landing page copy created. Now spawning feature development agents.\n[01/27/2026 23:45] 🔄 11:45 PM - Sub-agents completed: OKR page built with 3 company objectives + 9 KRs + mock data, Check-ins page with journal-style UI + confidence tracking, Dashboard with strategy cascade tree + alignment score (73/100), 18 shadcn/ui components installed. All pages functional. Build succeeds.\n[01/28/2026 00:01] 12:00 AM - Midnight proactive work: Committed analytics/settings/teams pages to GitHub. Spawned sub-agent (ai-align-ui) to build landing page, auth UI, and initiatives page. Utilization at 15% - spawning parallel agents to increase.\n[01/28/2026 00:03] 🌙 Midnight Dev Sprint: Spawned 8 sub-agents - playwright-ci, oratorflow-dev, dare-improvements, ai-align-initiatives, ai-align-activity, cinesynth-ui, heartcap-ui, docs-consolidation. Pushing utilization from 15% toward 90% target.\n[01/28/2026 00:16] [01/28/2026 00:15] Proactive work: Verified 9 sub-agents completed. AI-Align now has: landing page, auth UI, dashboard, OKRs, check-ins, initiatives, activity feed, analytics, settings, teams pages. HeartCap UI polished. DARE bugs fixed. Documentation consolidated. HIRA social posts drafted.\n[01/28/2026 00:30] 12:30 AM - Sub-agents completed overnight: Alygn-V2 (123 tests), OratorFlow fixes, DARE improvements, CineSynth UI, HeartCap UI polish, docs consolidated. AI-Align now feature-complete (landing, auth, OKRs, check-ins, initiatives, activity, analytics, settings, teams pages). Utilization at 13% - need to ramp up.\n[01/28/2026 00:49] 🤖 Sub-agent spawned (ai-align-polish) for testing, validation, loading states, error boundaries, mobile polish\n[01/28/2026 00:50] 🔍 12:50 AM - Quick status check: Repo exists at C:\\\\Users\\\\LeslieLeeFook\\\\repos\\\\AI-Align with modified files (landing, auth, activity pages). Dashboard structure in place. Sub-agent review incomplete - manual verification done.\n[01/28/2026 01:24] 🔄 dare-fix agent completed (10m runtime) - may need review for actual changes",
       "created": "2026-01-27T20:24:09.000000Z"
+    },
+    {
+      "id": "7e321f16-4c9d-447b-b0de-b5869801f607",
+      "name": "Talent SaaS - Phase 3 Supabase",
+      "status": "in-progress",
+      "description": "[01/27/2026 16:23] 📥 Task created\n\nIntegrate Supabase backend. Credentials needed: SUPABASE_URL, SUPABASE_ANON_KEY. Schema scaffolded in specs/04-supabase-integration.md\n[01/27/2026 22:15] Sub-agent spawned (talent-saas-prep) to create DATABASE_SETUP.md and prepare code without credentials\n[01/27/2026 22:15] 🔄 Status → in-progress\n[01/27/2026 22:31] ✅ Sub-agent completed: Created DATABASE_SETUP.md, added missing db helpers, ProtectedRoute component, connected stores. Awaiting Supabase credentials from Leslie.\n[01/28/2026 00:49] 🤖 Sub-agent spawned (talent-saas-dev) for UI polish: form validation, button states, toasts, mobile fixes\n[01/28/2026 01:05] ✅ talent-saas-dev complete: Form validation hook, dark mode buttons/toasts, mobile responsive (header, layouts, touch targets). 640 insertions committed.",
+      "created": "2026-01-27T20:23:58.000000Z"
+    },
+    {
+      "id": "b10909be-3ec1-4e76-a3e6-3afd0a958517",
+      "name": "CineSynth: Connect Database",
+      "status": "in-progress",
+      "description": "[01/27/2026 14:16] 📥 Task created\n\nConnect CineSynth to PostgreSQL and enable persistence.\\n\\n**Steps:**\\n1. Add DATABASE_URL to .env.local (Neon/Supabase)\\n2. Run npx prisma db push to create tables\\n3. Replace in-memory auth with Prisma queries\\n4. Wire frontend to save projects\\n\\n**Reference:** brain/projects/cinesynth-roadmap.md\n[01/27/2026 21:31] 🔄 Status → in-progress\n[01/27/2026 21:31] 🤖 Sub-agent spawned (cinesynth-db) to review database connection requirements\n[01/27/2026 21:34] ✅ Research complete: Prisma schema exists (11 models, multi-tenant ready) but no database deployed. Created CineSynth-SaaS/DATABASE_SETUP.md with Neon/Supabase instructions. Ready for db connection when Leslie creates the project.\n[01/27/2026 21:50] Created comprehensive CineSynth roadmap v2.0 at brain/projects/cinesynth-full-roadmap.md. Document includes: current state assessment (70% to MVP), 4-phase plan (Database+Auth, Video Pipeline, Multi-tenant, Stripe), technical architecture decisions, risk register, and success metrics. Codebase located at C:\\Users\\LeslieLeeFook\\repos\\CineSynth.\n[01/27/2026 22:31] ✅ Sub-agent completed: Created comprehensive roadmap at brain/projects/cinesynth-full-roadmap.md. DATABASE_SETUP.md created. Awaiting Neon/Supabase credentials.\n[01/28/2026 00:49] 🤖 Sub-agent spawned (cinesynth-ui) for UI: video preview, export modal, project templates",
+      "created": "2026-01-27T18:16:37.000000Z"
+    },
+    {
+      "id": "47b42834-2d64-4e6a-bb62-262e113d4040",
+      "name": "HeartCap Stripe Products",
+      "status": "in-progress",
+      "description": "[01/27/2026 14:16] 📥 Task created\n\nCreate Stripe products and prices for HeartCap-Recruiter tiers.\\n\\n**Products to create:**\\n- Starter: /mo, /yr (10 users, 100 interviews)\\n- Professional: /mo, ,430/yr (50 users, 500 interviews)\\n- Enterprise: /mo, ,790/yr (unlimited)\\n\\n**Reference:** brain/projects/heartcap-deployment-prep.md\n[01/27/2026 21:31] 🔄 Status → in-progress\n[01/27/2026 21:31] 🤖 Sub-agent spawned (heartcap-prep) to review deployment requirements\n[01/27/2026 21:32] ✅ Research complete: No Supabase/Stripe credentials exist yet. Created action plan at brain/projects/heartcap-phase1-action-plan.md. ⚠️ Pricing discrepancy: Enterprise is  in task vs  in deployment doc - needs Leslie's confirmation.\n[01/27/2026 22:31] ✅ Sub-agent completed: Action plan at brain/projects/heartcap-phase1-action-plan.md. ⚠️ Pricing discrepancy: Enterprise tier  vs /mo needs Leslie confirmation.\n[01/28/2026 00:49] 🤖 Sub-agent spawned (heartcap-dev) for UI polish: skeleton states, empty states, a11y, mobile responsive\n[01/28/2026 01:02] ✅ heartcap-dev complete: 2 commits, 960 lines. Added skeleton loaders, empty states with CTAs, ARIA accessibility, keyboard nav, mobile responsive. Jobs/Candidates/Interviews pages polished.",
+      "created": "2026-01-27T18:16:32.000000Z"
+    },
+    {
+      "id": "024e4534-7b75-4c39-9c90-b3c67054cdf1",
+      "name": "HeartCap Phase 1: Create Supabase Project",
+      "status": "todo",
+      "description": "[01/27/2026 14:16] 📥 Task created\n\nCreate production Supabase project for HeartCap-Recruiter.\\n\\n**Steps:**\\n1. Go to supabase.com, create new project\\n2. Note Project URL, anon key, service role key\\n3. Run the 3 migration SQL files from supabase/migrations/\\n4. Verify tables created with RLS policies\\n\\n**Reference:** brain/projects/heartcap-deployment-prep.md",
+      "created": "2026-01-27T18:16:29.000000Z"
     }
   ]
 }

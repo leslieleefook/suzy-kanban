@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-01-29T20:33:11.242Z",
+  "updatedAt": "2026-01-29T21:29:06.968Z",
   "tasks": [
+    {
+      "id": "ab5f6a02-f058-4ae4-a7a9-5d76cf7f09df",
+      "name": "[EMAIL] Marketing Deliverables from TeamIncus",
+      "status": "in-progress",
+      "description": "[01/29/2026 17:18] 📥 Task created\n\nMultiple emails received from TeamIncus with subject 'Your Marketing Deliverables Are Ready Leslie'. These appear to be important deliverables that need review. Times: 12:46pm, 1:04pm (appears multiple times). Need to: open emails, review deliverables, understand what's ready, and determine next steps.\n[01/29/2026 17:18] 🔄 Status → in-progress\n[01/29/2026 17:18] [01/29/2026 17:20] ⏰ TIME-CRITICAL: Moving to in-progress. Links may have already expired (1-hour warning). Need to check ASAP.",
+      "created": "2026-01-29T21:18:18.000000Z"
+    },
+    {
+      "id": "8c78a25f-5b2a-48f7-82f5-c88ebd449d5c",
+      "name": "[DEAL] Rockline  Proforma Invoice Review",
+      "status": "in-progress",
+      "description": "[01/29/2026 17:13] 📥 Task created\n\nForwarded from Natashia Wilson. Contains 5 PDF proforma invoices for Rockline. Need to: review terms, verify scope, prepare next steps, and respond. Attachments in: attachments/2026-01/Natashia Wilson-Fw_ 20k USD/\n[01/29/2026 17:15] Spawned sub-agent (agent:main:subagent:89810b9f) to analyze proforma invoices via image analysis",
+      "created": "2026-01-29T21:13:51.000000Z"
+    },
     {
       "id": "d1b2c9d4-b895-4903-85b7-704a08aa339a",
       "name": "AI Ethics Framework created for Incus Services",
@@ -186,8 +200,8 @@
     {
       "id": "20349e74-dae4-4083-bbc6-2fef10c11c25",
       "name": "[URGENT] Re-scan hiratt.com with Virusdie and verify fixes",
-      "status": "todo",
-      "description": "[01/29/2026 12:25] 📥 Task created\n\nAfter all remediations: 1) Run new Virusdie scan to confirm vulnerabilities are resolved, 2) Test all site functionality, 3) Check Google Search Console for security issues, 4) Submit for review if site was blacklisted, 5) Document resolution log in brain/urgent/hiratt-security.md\n[01/29/2026 12:55] 📝 Status → todo",
+      "status": "in-progress",
+      "description": "[01/29/2026 12:25] 📥 Task created\n\nAfter all remediations: 1) Run new Virusdie scan to confirm vulnerabilities are resolved, 2) Test all site functionality, 3) Check Google Search Console for security issues, 4) Submit for review if site was blacklisted, 5) Document resolution log in brain/urgent/hiratt-security.md\n[01/29/2026 12:55] 📝 Status → todo\n[01/29/2026 17:25] 🔄 Status → in-progress\n[01/29/2026 17:25] Attempted to spawn sub-agent for post-remediation verification scan. Gateway timeout encountered.",
       "created": "2026-01-29T16:25:30.000000Z"
     },
     {
@@ -200,15 +214,15 @@
     {
       "id": "67fd969c-b081-4c96-93a3-95eaa96efd43",
       "name": "[URGENT] Apply security remediations to hiratt.com",
-      "status": "todo",
-      "description": "[01/29/2026 12:25] 📥 Task created\n\nBased on vulnerability categories, apply fixes: 1) Update outdated plugins/themes (check for breaking changes first), 2) Fix file permissions (755 for dirs, 644 for files, 600 for wp-config.php), 3) Remove malware from theme/plugin files, 4) Clean database injections if present, 5) Secure .htaccess with proper rules. Follow guide at brain/urgent/hiratt-security.md\n[01/29/2026 12:54] 📝 Status → todo",
+      "status": "in-progress",
+      "description": "[01/29/2026 12:25] 📥 Task created\n\nBased on vulnerability categories, apply fixes: 1) Update outdated plugins/themes (check for breaking changes first), 2) Fix file permissions (755 for dirs, 644 for files, 600 for wp-config.php), 3) Remove malware from theme/plugin files, 4) Clean database injections if present, 5) Secure .htaccess with proper rules. Follow guide at brain/urgent/hiratt-security.md\n[01/29/2026 12:54] 📝 Status → todo\n[01/29/2026 17:25] 🔄 Status → in-progress\n[01/29/2026 17:25] Attempted to spawn sub-agent for security hardening. Gateway timeout encountered.",
       "created": "2026-01-29T16:25:27.000000Z"
     },
     {
       "id": "81b63f00-b337-4072-9683-904efbd520e5",
       "name": "[URGENT] Investigate and categorize the 3 vulnerabilities",
-      "status": "todo",
-      "description": "[01/29/2026 12:25] 📥 Task created\n\nFor each of the 3 vulnerabilities: 1) Identify the category (outdated plugin/theme, file permissions, malware, database injection, .htaccess, PHP version), 2) Check file modification dates with find /path/to/wordpress -mtime -7 -type f, 3) Scan for malware patterns (eval, base64_decode, gzinflate, str_rot13)\n[01/29/2026 12:51] 🔄 Status → in-progress\n[01/29/2026 12:51] [01/29/2026 12:51] 🔍 Starting investigation: Cannot access Virusdie dashboard (browser requires tab attachment). Proceeding with remediation guide analysis and backup plan preparation.\n[01/29/2026 12:54] 📝 Status → todo",
+      "status": "in-progress",
+      "description": "[01/29/2026 12:25] 📥 Task created\n\nFor each of the 3 vulnerabilities: 1) Identify the category (outdated plugin/theme, file permissions, malware, database injection, .htaccess, PHP version), 2) Check file modification dates with find /path/to/wordpress -mtime -7 -type f, 3) Scan for malware patterns (eval, base64_decode, gzinflate, str_rot13)\n[01/29/2026 12:51] 🔄 Status → in-progress\n[01/29/2026 12:51] [01/29/2026 12:51] 🔍 Starting investigation: Cannot access Virusdie dashboard (browser requires tab attachment). Proceeding with remediation guide analysis and backup plan preparation.\n[01/29/2026 12:54] 📝 Status → todo\n[01/29/2026 17:25] 🔄 Status → in-progress\n[01/29/2026 17:25] Attempted to spawn sub-agent for vulnerability investigation. Gateway timeout encountered - may need retry or different approach.\n[01/29/2026 17:28] 🔄 Status → in-progress\n[01/29/2026 17:28] [01/29/2026 17:28] 🔍 Read existing hiratt-security.md guide. Contains comprehensive remediation steps for 3 vulnerabilities: outdated plugins/themes, file permissions, malware in theme/plugin files, database injections, .htaccess issues, and PHP version vulnerabilities.",
       "created": "2026-01-29T16:25:11.000000Z"
     },
     {
@@ -658,20 +672,6 @@
       "status": "todo",
       "description": "[01/29/2026 10:02] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:39:08\n**Subject:** Your Digital Transformation Project is Ready - Elimeleki!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-Staffing, Training, Budget_4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Eli\\DXEngine-Staffing, Training, Budget_4.docx`\n\n---\n**Email Preview:**\n```\nHi Elimeleki Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Here's a detailed critique of the initial survey response followed by an improved, clearer, and more actionable version for each category.\r\n\r\n________________________________\r\n\r\n\r\nCritique of Original Use Case\r\n\r\n\r\n1.\tDepartment/Area of Focus:\r\n\tClear and appropriate ? no changes needed.\r\n\r\n2.\tResponsible Role(s) or Team(s):\r\n\t\"...\n```",
       "created": "2026-01-29T14:02:56.000000Z"
-    },
-    {
-      "id": "dd181459-b34b-47b2-b168-fb7c9d8bde70",
-      "name": "📧 Your Digital Transformation Project is Ready - Sailasa!",
-      "status": "todo",
-      "description": "[01/29/2026 10:02] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:39:23\n**Subject:** Your Digital Transformation Project is Ready - Sailasa!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-Getting in new Business Initiatives_4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Sai\\DXEngine-Getting in new Business Initiatives_4.docx`\n\n---\n**Email Preview:**\n```\nHi Sailasa Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Below is a critique of the survey responses, followed by improved, clearer, and more actionable versions for each category. The aim is to sharpen the use case, clarify ambiguity, and better align responses to enable effective planning and prioritization of this digital transformation initiative.\r\n\r\n________________________________...\n```",
-      "created": "2026-01-29T14:02:55.000000Z"
-    },
-    {
-      "id": "fef81e0b-fb7c-4846-aa46-964870604469",
-      "name": "📧 Your Digital Transformation Project is Ready - epeli!",
-      "status": "todo",
-      "description": "[01/29/2026 10:02] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:39:23\n**Subject:** Your Digital Transformation Project is Ready - epeli!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-safe people culture_4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - epe\\DXEngine-safe people culture_4.docx`\n\n---\n**Email Preview:**\n```\nHi epeli Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Below is a critique followed by an improved and more detailed version of the survey responses to enhance clarity, actionability, and alignment with digital transformation best practices.\r\n\r\n________________________________\r\n\r\n\r\nCritique Summary:\r\n\r\n\r\n*\tDepartment/Area of Focus: Clear and appropriate.\r\n*\tResponsible Role(s) or Team(s...\n```",
-      "created": "2026-01-29T14:02:54.000000Z"
     }
   ]
 }

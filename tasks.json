@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-01-29T22:57:21.202Z",
+  "updatedAt": "2026-01-29T23:34:05.096Z",
   "tasks": [
+    {
+      "id": "c2874421-e51a-4104-a151-254c59674e7b",
+      "name": "Sales Training Playbook Created",
+      "status": "completed",
+      "description": "[01/29/2026 19:29] 📥 Task created\n\nCreated comprehensive sales training playbook for Incus with 8 core modules: (1) Discovery call techniques, (2) Needs assessment methodology, (3) Value-based selling frameworks, (4) Objection handling library, (5) Closing techniques, (6) Account-based sales strategy, (7) Pipeline management, (8) Caribbean business culture in sales. Includes 50+ scripts, 8 training exercises with role plays, email/call templates, meeting agendas, document templates, and checklists. Total 80,000+ words across 3 documents saved in brain/sales/ folder. Ready for team training and onboarding.",
+      "created": "2026-01-29T23:29:09.000000Z"
+    },
     {
       "id": "b32f30ec-25d8-4e4c-9cb2-d0e7b3819983",
       "name": "📧 HSSE - Incident Documentation",
@@ -658,13 +665,6 @@
       "status": "todo",
       "description": "[01/29/2026 10:03] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:36:21\n**Subject:** Your Digital Transformation Project is Ready - Claudia!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-Too many manual processes _4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Cla\\DXEngine-Too many manual processes _4.docx`\n\n---\n**Email Preview:**\n```\nHi Claudia Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Below is a critique of the original survey responses followed by an improved and more structured version for each category. The goal is to clarify, specify, and strengthen the use case so it better supports a practical digital transformation initiative with clear value and actionable insights.\r\n\r\n________________________________\r\n...\n```",
       "created": "2026-01-29T14:03:10.000000Z"
-    },
-    {
-      "id": "477b8843-daf3-47bc-b6cf-aba8b4494eed",
-      "name": "📧 Your Digital Transformation Project is Ready - Darven!",
-      "status": "todo",
-      "description": "[01/29/2026 10:03] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:36:22\n**Subject:** Your Digital Transformation Project is Ready - Darven!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-Budget allocation _4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Dar\\DXEngine-Budget allocation _4.docx`\n\n---\n**Email Preview:**\n```\nHi Darven Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Below is a critique of the original survey response and an improved, more detailed, and structured version for each category. The goal is to enhance clarity, alignment, and capture richer, actionable insights to support a more effective digital transformation initiative.\r\n\r\n________________________________\r\n\r\n\r\nCritique of Original...\n```",
-      "created": "2026-01-29T14:03:09.000000Z"
     }
   ]
 }

@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-01-29T21:29:06.968Z",
+  "updatedAt": "2026-01-29T21:54:00.331Z",
   "tasks": [
+    {
+      "id": "26e9b0a2-5b74-400c-9353-f2e48cd191bc",
+      "name": "Digital Transformation Project - Lorosio (Elimeleki Navula)",
+      "status": "in-progress",
+      "description": "[01/29/2026 17:53] 📥 Task created\n\nProject: Digital Workforce Planning and Training Enhancement Initiative for Fiji Airports\n\nKEY FINDINGS:\n- Budget: ,000 total ( technology,  personnel,  training,  change management)\n- Timeline: 9 months (Jul 2024 - Feb 2025)\n- Team: 8 FTEs (PM, Standards Officer, SAR Specialist, HR Coordinators, Data Analysts, IT Developers, Change Lead)\n- Expected ROI: 56% ( annualized value)\n\nPROJECT SCOPE:\n- Staffing optimization addressing critical understaffing\n- Training enhancement to accelerate certification\n- Safety compliance through proactive resource management\n- Workforce planning aligned with peak demand\n\nKEY DELIVERABLES:\n- Unified data repository with governance framework\n- Predictive workforce forecasting model\n- Digital Training Management System (DTMS)\n- Integrated scheduling & incident management\n- Interactive KPI dashboards and analytics\n- Digitized training curricula and certifications\n\nKPIS:\n- ≥85% user adoption within 3 months\n- ≥90% training completion rate\n- ≥95% workforce forecast accuracy\n- ≥20% reduction in time to fill critical roles\n- ≥10% productivity improvement\n- ≥150% training ROI\n\nIMPLEMENTATION STEPS (9-month timeline):\n1. Project Initiation (Month 1)\n2. Data Governance Setup (Months 1-2)\n3. Solution Design & Development (Months 2-5)\n4. Content Digitization (Months 3-6)\n5. Change Management Planning (Months 2-3)\n6. Pilot Deployment (Months 6-7)\n7. Full Rollout (Months 7-8)\n8. Monitoring & Optimization (Months 8-9)\n\nCHALLENGES:\n- Data quality and integration issues\n- Resource constraints and skill gaps\n- Change management and user adoption resistance\n- Workforce forecasting complexity\n- Budget allocation prioritization\n\nFull summary saved to: memory/lorosio-digital-transformation-summary.md",
+      "created": "2026-01-29T21:53:23.000000Z"
+    },
+    {
+      "id": "d89aade6-ddbe-4e9d-8560-118c9d05f934",
+      "name": "Elimeleki DX Project: Digital Workforce Planning & Training Enhancement",
+      "status": "in-progress",
+      "description": "[01/29/2026 17:52] 📥 Task created\n\nProject Summary:\n- **Name:** Digital Workforce Planning and Training Enhancement Initiative\n- **Department:** Air Traffic Management - Workforce Planning and Training Operations\n- **Focus Areas:** Standards, Search & Rescue, HR Training Coordination, Workforce Planning\n\nPROJECT SCOPE:\nImplement digital solutions for:\n- Staffing optimization and demand forecasting\n- Training acceleration and digitization\n- Certification tracking and compliance management\n- Safety compliance enhancement\n- Real-time analytics and KPI dashboards\n- Cross-functional collaboration platforms\n\nBUDGET: ,000\n- Technology Acquisition (platform development, licenses): ,000\n- Personnel Costs (team salaries, consultants): ,000\n- Training Development & Delivery: ,000\n- Change Management (communications, workshops): ,000\n\nTIMELINE: 9 Months\nPhase 1 (Months 1-2): Requirements, platform selection, content design\nPhase 2 (Months 3-5): Development, integration, pilot testing\nPhase 3 (Months 6-7): Full rollout, feedback collection\nPhase 4 (Months 8-9): Optimization, impact assessment\n\nTEAM (9 people):\n- Project Manager (1)\n- Standards Officer (1)\n- Search & Rescue Specialist (1)\n- HR Training Coordinators (2)\n- Data Analysts (2)\n- IT/Digital Solutions Developers (2)\n- Change Management Lead (1)\n\nKEY DELIVERABLES:\n1. Workforce forecasting model with predictive analytics\n2. Digital Training Management System (DTMS)\n3. Centralized data repository with governance framework\n4. Interactive KPI dashboards (staffing, training, compliance)\n5. Integrated scheduling & incident management module\n6. Change management & user adoption platform\n7. Comprehensive training programs for all roles\n8. Final impact assessment report\n\nKPIs & METRICS:\n1. Platform Adoption: ≥85% adoption rate, ≥3 logins/week/user, ≥99.5% uptime\n2. Training Effectiveness: ≥90% completion, ≥80% pass rate, ≥30% skill gap reduction\n3. Workforce Planning: ≥95% forecast accuracy, ≥20% faster role-filling, ≥15% better skill matching\n4. Change Management: <10% resistance cases, ≥80% user satisfaction\n5. Operational Impact: ≥10% KPI improvement, ≥12% cost savings, 150% ROI\n\nBUSINESS VALUE:\n- ,000+ annual cost optimization (overtime reduction)\n- Enhanced safety compliance and operational readiness\n- Faster certification cycles\n- Better stakeholder confidence (airlines, regulators, passengers)\n- ROI: 56% return within first year (,000 annualized value)\n\nIMPLEMENTATION STEPS:\n1. Initiation: Kickoff, stakeholder alignment, resource allocation (Month 1)\n2. Data Prep: Audit, cleansing, governance framework (Months 2-3)\n3. Design: Forecasting model, digital tools, content digitization (Months 2-5)\n4. Change Management: Plan development, engagement strategies (Months 2-3)\n5. Pilot: Selection, deployment, monitoring, feedback (Months 5-6)\n6. Rollout: Organization-wide deployment and training (Months 7-8)\n7. Monitoring: KPI tracking, continuous improvement (Months 8-9)\n\nSTATUS: Document review complete - ready for stakeholder approval and Phase 1 kickoff",
+      "created": "2026-01-29T21:52:47.000000Z"
+    },
+    {
+      "id": "ed77db96-1e1e-41f5-b9e4-739bb478e85d",
+      "name": "Update projects with Caribbean research and CineSynth review findings",
+      "status": "completed",
+      "description": "[01/29/2026 17:45] 📥 Task created\n\nQ1 2026 Caribbean research complete - 46K char report with actionable recommendations. CineSynth code review complete - found 4 critical bugs (audio format, memory leaks, workspace isolation, base64 validation). Both reports saved to memory and brain/ folders.",
+      "created": "2026-01-29T21:45:48.000000Z"
+    },
+    {
+      "id": "e15068ea-1623-4070-8f18-f6a6cdc57584",
+      "name": "Fix Talent SaaS Test Failures",
+      "status": "in-progress",
+      "description": "[01/29/2026 17:36] 📥 Task created\n\nTalent SaaS has 35+ failing tests across landing page, job board, role navigation, and UI components. Need to investigate test failures, fix issues, and ensure all tests pass before merging optimizations.",
+      "created": "2026-01-29T21:36:21.000000Z"
+    },
+    {
+      "id": "bb7c1e25-abc0-4447-a598-9ad0462b6471",
+      "name": "HeartCap-Recruiter UI Polish",
+      "status": "in-progress",
+      "description": "[01/29/2026 17:35] 📥 Task created\n\nReview HeartCap-Recruiter codebase, identify UI polish work needed, test the application, and provide a list of improvements. Focus on the AI Recruiter features and overall user experience.",
+      "created": "2026-01-29T21:35:10.000000Z"
+    },
+    {
+      "id": "ba37aff3-1002-494c-832d-5a08b5f786ca",
+      "name": "Alygn-V2 Status Review",
+      "status": "in-progress",
+      "description": "[01/29/2026 17:34] 📥 Task created\n\nReview Alygn-V2 project status, roadmap progress, and identify any blocking issues. Check git status, open issues if any exist, and provide a comprehensive status update. Focus on Enterprise Performance Intelligence features.",
+      "created": "2026-01-29T21:34:53.000000Z"
+    },
+    {
+      "id": "b01fb07b-0990-4bfe-9b3c-262890e8b3bc",
+      "name": "CineSynth Code Review",
+      "status": "in-progress",
+      "description": "[01/29/2026 17:34] 📥 Task created\n\nReview CineSynth project codebase for bugs, performance issues, and improvements. Run any existing tests, identify issues, and propose fixes. Focus on long-form video processing and AI integration features.",
+      "created": "2026-01-29T21:34:46.000000Z"
+    },
+    {
+      "id": "389a9747-9643-4655-9040-3171fbbcb3b1",
+      "name": "Q1 2026 Caribbean Tech Trends Research",
+      "status": "in-progress",
+      "description": "[01/29/2026 17:34] 📥 Task created\n\nResearch Q1 2026 Caribbean tech trends and AI startup funding landscape. Focus on venture capital activity, government tech initiatives, and emerging AI companies in the region. Create a research report with actionable insights for Incus Services.",
+      "created": "2026-01-29T21:34:40.000000Z"
+    },
     {
       "id": "ab5f6a02-f058-4ae4-a7a9-5d76cf7f09df",
       "name": "[EMAIL] Marketing Deliverables from TeamIncus",
@@ -464,214 +520,11 @@
       "created": "2026-01-29T16:12:59.000000Z"
     },
     {
-      "id": "83ec8ef5-cfa7-46e0-8c57-eff4db5446a2",
-      "name": "📧 CXC Exam Papers",
-      "status": "todo",
-      "description": "---\n## 📧 Email Task\n\n**Quick Stats:** 🔗 2 URLs | 📎 3 Attachments\n\n**From:** Marc Sutton </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=41D1885422C647C6B7C17A70541F8797-MARC>\n**Date:** 2026-01-29 10:41:56\n**Subject:** CXC Exam Papers\n**Created:** 01/29/2026 12:12\n\n---\n## 🔗 Extracted Links\n\n1. [100555f631cd4db38bb47e83801fbe9a@incusservices.com](https://outlook.office.com/bookwithme/user/100555f631cd4db38bb47e83801fbe9a@incusservices.com?anonymous&ismsaljsauthenabled&ep=bwmEmailSignature)\n2. [100555f631cd4db38bb47e83801fbe9a@incusservices.com](https://outlook.office.com/bookwithme/user/100555f631cd4db38bb47e83801fbe9a@incusservices.com?anonymous&amp;ismsaljsauthenabled&amp;ep=bwmEmailSignature)\n\n---\n## 📎 Attachments\n\n📄 **1.** `TST-CCSLCMath-05134011-PT2013_1.pdf`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Marc Sutton-CXC Exam Papers\\TST-CCSLCMath-05134011-PT2013_1.pdf`\n   🔗 [Open File](file:///C:/Users/LeslieLeeFook/clawd/attachments/2026-01/Marc Sutton-CXC Exam Papers/TST-CCSLCMath-05134011-PT2013_1.pdf)\n\n📄 **2.** `TST-CCSLCMath-05134012-PT2013_1.pdf`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Marc Sutton-CXC Exam Papers\\TST-CCSLCMath-05134012-PT2013_1.pdf`\n   🔗 [Open File](file:///C:/Users/LeslieLeeFook/clawd/attachments/2026-01/Marc Sutton-CXC Exam Papers/TST-CCSLCMath-05134012-PT2013_1.pdf)\n\n🖼️ **3.** `Outlook-lpllzbsv_1.png`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Marc Sutton-CXC Exam Papers\\Outlook-lpllzbsv_1.png`\n   🔗 [Open File](file:///C:/Users/LeslieLeeFook/clawd/attachments/2026-01/Marc Sutton-CXC Exam Papers/Outlook-lpllzbsv_1.png)\n\n---\n## 📝 Email Preview\n\n```\n\r\n\r\nBest Regards,\r\nMarc Sutton\r\nAI Engineer\r\nIncus Services Limited\r\nPhone: +868-265-5965\r\nEmail: marc@incusservices.com\r\n <https://outlook.office.com/bookwithme/user/100555f631cd4db38bb47e83801fbe9a@incusservices.com?anonymous&ismsaljsauthenabled&ep=bwmEmailSignature> \t \tBook time to meet with me <https://outlook.office.com/bookwithme/user/100555f631cd4db38bb47e83801fbe9a@incusservices.com?anonymous&ismsaljsauthenabled&ep=bwmEmailSignature> \r\n\t\n```\n---\n\n*Task auto-generated from Outlook email*",
-      "created": "2026-01-29T16:12:57.000000Z"
-    },
-    {
       "id": "d823aa96-6a9d-4e34-a1a6-9652f3acaefa",
       "name": "Track Praneel - Digital Transformation Relationship",
       "status": "todo",
       "description": "[01/29/2026 10:58] 📥 Task created\n\nFollow up on Digital Transformation project delivered to Praneel. Check on progress, offer implementation support, explore AI/analytics cross-sell opportunities. Email draft saved to memory/drafts/dt-followup-praneel.md",
       "created": "2026-01-29T14:58:04.000000Z"
-    },
-    {
-      "id": "83e720d3-f640-4f95-a14c-f6273fbd16b8",
-      "name": "Track Sanjil - Digital Transformation Relationship",
-      "status": "todo",
-      "description": "[01/29/2026 10:58] 📥 Task created\n\nFollow up on Digital Transformation project delivered to Sanjil. Check on progress, offer implementation support, explore AI/analytics cross-sell opportunities. Email draft saved to memory/drafts/dt-followup-sanjil.md",
-      "created": "2026-01-29T14:58:02.000000Z"
-    },
-    {
-      "id": "f5cecc9f-a670-49b3-a3c0-40d7f413a688",
-      "name": "Track Kudruvi - Digital Transformation Relationship",
-      "status": "todo",
-      "description": "[01/29/2026 10:57] 📥 Task created\n\nFollow up on Digital Transformation project delivered to Kudruvi. Check on progress, offer implementation support, explore AI/analytics cross-sell opportunities. Email draft saved to memory/drafts/dt-followup-kudruvi.md",
-      "created": "2026-01-29T14:57:59.000000Z"
-    },
-    {
-      "id": "2c7f29a4-dd69-40e4-9ad5-792fbfdbea18",
-      "name": "Track Luke - Digital Transformation Relationship",
-      "status": "todo",
-      "description": "[01/29/2026 10:57] 📥 Task created\n\nFollow up on Digital Transformation project delivered to Luke. Check on progress, offer implementation support, explore AI/analytics cross-sell opportunities. Email draft saved to memory/drafts/dt-followup-luke.md",
-      "created": "2026-01-29T14:57:56.000000Z"
-    },
-    {
-      "id": "f5d06bd4-13f1-4cfe-a146-4c42642be370",
-      "name": "Track Shamal - Digital Transformation Relationship",
-      "status": "todo",
-      "description": "[01/29/2026 10:57] 📥 Task created\n\nFollow up on Digital Transformation project delivered to Shamal. Check on progress, offer implementation support, explore AI/analytics cross-sell opportunities. Email draft saved to memory/drafts/dt-followup-shamal.md",
-      "created": "2026-01-29T14:57:52.000000Z"
-    },
-    {
-      "id": "e864254b-60dc-4e1a-ab7f-7501b1ce2a9f",
-      "name": "Track Eliki - Digital Transformation Relationship",
-      "status": "todo",
-      "description": "[01/29/2026 10:57] 📥 Task created\n\nFollow up on Digital Transformation project delivered to Eliki. Check on progress, offer implementation support, explore AI/analytics cross-sell opportunities. Email draft saved to memory/drafts/dt-followup-eliki.md",
-      "created": "2026-01-29T14:57:40.000000Z"
-    },
-    {
-      "id": "463e408d-fc78-46f0-8808-18aedbf39466",
-      "name": "📧 RE: Invoice and Banking Details",
-      "status": "todo",
-      "description": "[01/29/2026 10:03] 📥 Task created from email\n\n**From:** Amit Chand <AmitC@fijiairports.com.fj>\n**Date:** 2026-01-28 21:30:42\n**Subject:** RE: Invoice and Banking Details\n\n---\n**🔗 Extracted URLs (20):**\n1. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmysig.io%2fr9qen0x9&c=E,1,A0LPimPEOdCK2MLSQ9946wb8FTui563ep9FQcAtNuW8IqX6y5hpSX_sqpMVPsmQo2BSjLSw-qd5X4oewdPkmB0eEN9RWdDz9dhDAbrgoQmMgPyqJ-QfXKkLhPCA,&typo=1\n2. https://www.incusservices.com\n3. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmysig.io%2fP6zR8yv6&c=E,1,jfMmJ1bMU2skn2KJchl_8H4Y6HL2D4st_rX3EBC9OpG1y2kvEwMydKhSitXqeMkXF3uUq9NIS9zINuhJMfcEPV4FXypwXMWoq-Pz0aSg1fZ4jhRg5A,,&typo=1\n4. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmysig.io%2fk6ZPgLQz&c=E,1,aX3z0qhGzpiu42WW4FK139ntJs_tMDLc7iRhVRw9zgHTvcmiFD1oq4JnIXX7uMcpclHJNX0uAPMCgN1Rw69_ZyU5ldJNnOovqbxo5eDFyXDTRsLkn_24i6I,&typo=1\n5. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmysig.io%2fEADgkYDO&c=E,1,_a5ZeeRhNOP573Sl94n6brwiYBMbzF3_LSOnfE21bZNzH5bUQojHKvkKmdvpwgWlpy79G8JTwo_bhp_9B9k96967JfsP5Cx1LhEumoMTTaHl2ZP3UZ0EkA,,&typo=1\n6. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmysig.io%2fEdEANk7d&c=E,1,-lHK6MGglCi6Vpl8U3Dm_3-sskU9Y500uYCsWU33qFLFmiZA3L0zPk8ysoWefogIpluDntBm8xGLAS8GewBDzS6MBUKaXTgbFa8gdA97MoY,&typo=1\n7. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmysig.io%2f0GQX4DEo&c=E,1,4UKCk_4V7mGYAoUGDBVy_O0TkU0V5-g0lV-TH4cWu2F_o3x7eP1GJeJ2h4DXLTcJdLhup8FXB7XvXeYNCe13MZaNlErLKu8NsqCXQ0pJknD8RH19HPxxKKenoA,,&typo=1\n8. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmysig.io%2fr9qen0x9&amp;c=E,1,A0LPimPEOdCK2MLSQ9946wb8FTui563ep9FQcAtNuW8IqX6y5hpSX_sqpMVPsmQo2BSjLSw-qd5X4oewdPkmB0eEN9RWdDz9dhDAbrgoQmMgPyqJ-QfXKkLhPCA,&amp;typo=1\n9. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmysig.io%2fP6zR8yv6&amp;c=E,1,jfMmJ1bMU2skn2KJchl_8H4Y6HL2D4st_rX3EBC9OpG1y2kvEwMydKhSitXqeMkXF3uUq9NIS9zINuhJMfcEPV4FXypwXMWoq-Pz0aSg1fZ4jhRg5A,,&amp;typo=1\n10. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmysig.io%2fk6ZPgLQz&amp;c=E,1,aX3z0qhGzpiu42WW4FK139ntJs_tMDLc7iRhVRw9zgHTvcmiFD1oq4JnIXX7uMcpclHJNX0uAPMCgN1Rw69_ZyU5ldJNnOovqbxo5eDFyXDTRsLkn_24i6I,&amp;typo=1\n11. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmysig.io%2fEADgkYDO&amp;c=E,1,_a5ZeeRhNOP573Sl94n6brwiYBMbzF3_LSOnfE21bZNzH5bUQojHKvkKmdvpwgWlpy79G8JTwo_bhp_9B9k96967JfsP5Cx1LhEumoMTTaHl2ZP3UZ0EkA,,&amp;typo=1\n12. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmysig.io%2fEdEANk7d&amp;c=E,1,-lHK6MGglCi6Vpl8U3Dm_3-sskU9Y500uYCsWU33qFLFmiZA3L0zPk8ysoWefogIpluDntBm8xGLAS8GewBDzS6MBUKaXTgbFa8gdA97MoY,&amp;typo=1\n13. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmysig.io%2f0GQX4DEo&amp;c=E,1,4UKCk_4V7mGYAoUGDBVy_O0TkU0V5-g0lV-TH4cWu2F_o3x7eP1GJeJ2h4DXLTcJdLhup8FXB7XvXeYNCe13MZaNlErLKu8NsqCXQ0pJknD8RH19HPxxKKenoA,,&amp;typo=1\n14. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fimg.mysignature.io%2fp%2f0%2f9%2f1%2f091f3b0e-abbe-5af8-a94a-0d28ad196e2a.png%3ftime%3d1682426773&amp;c=E,1,UrHlFh19YjrIsXf5QL2_CBdBYp3QkCgaBO9FNQbpzOaKudAPNWAzX5bTjqbwbPSidpiqxeUZ9jC6zV4tDVRDf9ugc2QTldA_TwwQyuKgYcVCo_zlb2E,&amp;typo=1\n15. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fimg.mysignature.io%2fs%2f6%2f6%2f9%2f6693b397-3708-5488-bdcd-a20ac2c5bedc.png%3fuid%3d552815&amp;c=E,1,kYcxh1lkSr89eSp2oskFfmpMqumWHtmKoUcIeXoCwMxNxVqXDBxO3HHG8H6vPyzHzvXFv8KgWa2oszog8r0rO3oN5XVQnKDNGXYwsxP--6DIDFsQ95BvkAU,&amp;typo=1\n16. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fimg.mysignature.io%2fs%2f6%2f8%2f1%2f6811b7c0-699b-548f-b7ab-c1f9bda2b9cb.png%3fuid%3d552815&amp;c=E,1,t7pVmRmpR7UwypurIWHUlb8WdSucIuWMIP4YjrZRaQ2YWmIt7JLbI2kvXHEhVNjA3dfeVHulOLviNNP3J8R6vRC_pOx85ikSKHUeclq5fJ7zLsME6w,,&amp;typo=1\n17. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fimg.mysignature.io%2fs%2f0%2fb%2fc%2f0bc4c91a-b5b1-5773-a7e7-b53637b6aeb3.png%3fuid%3d552815&amp;c=E,1,S6GKNuVKtcHFxbYnySOVEM7MN6ZUumsxxHI5g82e8QrP_48NQ66ZfZfMZiy6D4zf-mCrmh5GYfSumUT5Ci318JCPceVzCVj0RovLA2-XDfbY&amp;typo=1\n18. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fimg.mysignature.io%2fs%2f6%2f0%2f6%2f6060ec67-3387-5b40-988f-60c1a323ec12.png%3fuid%3d552815&amp;c=E,1,vsKywSY4G06eInlH-ni1sEQ6ql7KblnSeMrWW4XBNAm3WY-RwGYLg1y8GKMWPfO4Fmr4zgUBe8tYsanAqwybrqAtaHGUpQbRk9R4q3v8aFFc75w,&amp;typo=1\n19. http://schemas.microsoft.com/office/2004/12/omml\n20. http://www.w3.org/TR/REC-html40\n\n---\n**📎 Saved Attachments (2):**\n1. `Fiji Airports - Inv SI-0000320_4.pdf`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Amit Chand-RE_ Invoice and Banking Details\\Fiji Airports - Inv SI-0000320_4.pdf`\n2. `Incus US Wire Transfer_9.pdf`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Amit Chand-RE_ Invoice and Banking Details\\Incus US Wire Transfer_9.pdf`\n\n---\n**Email Preview:**\n```\nHi\r\n\r\n \r\n\r\nKindly note the full details is not mentioned on the invoice.\r\n\r\n \r\n\r\n\r\n\r\nFrom: Eric Freakley <eric@incusservices.com> \r\nSent: Thursday, 29 January 2026 1:18 PM\r\nTo: Amit Chand <AmitC@fijiairports.com.fj>\r\nCc: Leslie Lee Fook <leslie@incusservices.com>\r\nSubject: Invoice and Banking Details\r\n\r\n \r\n\r\nBula Amit,\r\n\r\n \r\n\r\nI had sent these to Kudruvi but here's the invoice and banking details.\r\n\r\n \r\n\r\nLet me know if you need anything else.\r\n\r\n \r\n\r\nKind regards,\r\n\r\nEric\r\n\r\n \r\n\r\n <https://link...\n```",
-      "created": "2026-01-29T14:03:22.000000Z"
-    },
-    {
-      "id": "efa0d82d-79a8-462d-8023-579b431affe6",
-      "name": "📧 RE: Invoice and Banking Details",
-      "status": "todo",
-      "description": "[01/29/2026 10:03] 📥 Task created from email\n\n**From:** Amit Chand <AmitC@fijiairports.com.fj>\n**Date:** 2026-01-28 22:25:18\n**Subject:** RE: Invoice and Banking Details\n\n---\n**🔗 Extracted URLs (20):**\n1. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmysig.io%2fr9qen0x9&c=E,1,A0LPimPEOdCK2MLSQ9946wb8FTui563ep9FQcAtNuW8IqX6y5hpSX_sqpMVPsmQo2BSjLSw-qd5X4oewdPkmB0eEN9RWdDz9dhDAbrgoQmMgPyqJ-QfXKkLhPCA,&typo=1\n2. https://www.incusservices.com\n3. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmysig.io%2fP6zR8yv6&c=E,1,jfMmJ1bMU2skn2KJchl_8H4Y6HL2D4st_rX3EBC9OpG1y2kvEwMydKhSitXqeMkXF3uUq9NIS9zINuhJMfcEPV4FXypwXMWoq-Pz0aSg1fZ4jhRg5A,,&typo=1\n4. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmysig.io%2fk6ZPgLQz&c=E,1,aX3z0qhGzpiu42WW4FK139ntJs_tMDLc7iRhVRw9zgHTvcmiFD1oq4JnIXX7uMcpclHJNX0uAPMCgN1Rw69_ZyU5ldJNnOovqbxo5eDFyXDTRsLkn_24i6I,&typo=1\n5. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmysig.io%2fEADgkYDO&c=E,1,_a5ZeeRhNOP573Sl94n6brwiYBMbzF3_LSOnfE21bZNzH5bUQojHKvkKmdvpwgWlpy79G8JTwo_bhp_9B9k96967JfsP5Cx1LhEumoMTTaHl2ZP3UZ0EkA,,&typo=1\n6. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmysig.io%2fEdEANk7d&c=E,1,-lHK6MGglCi6Vpl8U3Dm_3-sskU9Y500uYCsWU33qFLFmiZA3L0zPk8ysoWefogIpluDntBm8xGLAS8GewBDzS6MBUKaXTgbFa8gdA97MoY,&typo=1\n7. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmysig.io%2f0GQX4DEo&c=E,1,4UKCk_4V7mGYAoUGDBVy_O0TkU0V5-g0lV-TH4cWu2F_o3x7eP1GJeJ2h4DXLTcJdLhup8FXB7XvXeYNCe13MZaNlErLKu8NsqCXQ0pJknD8RH19HPxxKKenoA,,&typo=1\n8. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmysig.io%2fr9qen0x9&amp;c=E,1,A0LPimPEOdCK2MLSQ9946wb8FTui563ep9FQcAtNuW8IqX6y5hpSX_sqpMVPsmQo2BSjLSw-qd5X4oewdPkmB0eEN9RWdDz9dhDAbrgoQmMgPyqJ-QfXKkLhPCA,&amp;typo=1\n9. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmysig.io%2fP6zR8yv6&amp;c=E,1,jfMmJ1bMU2skn2KJchl_8H4Y6HL2D4st_rX3EBC9OpG1y2kvEwMydKhSitXqeMkXF3uUq9NIS9zINuhJMfcEPV4FXypwXMWoq-Pz0aSg1fZ4jhRg5A,,&amp;typo=1\n10. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmysig.io%2fk6ZPgLQz&amp;c=E,1,aX3z0qhGzpiu42WW4FK139ntJs_tMDLc7iRhVRw9zgHTvcmiFD1oq4JnIXX7uMcpclHJNX0uAPMCgN1Rw69_ZyU5ldJNnOovqbxo5eDFyXDTRsLkn_24i6I,&amp;typo=1\n11. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmysig.io%2fEADgkYDO&amp;c=E,1,_a5ZeeRhNOP573Sl94n6brwiYBMbzF3_LSOnfE21bZNzH5bUQojHKvkKmdvpwgWlpy79G8JTwo_bhp_9B9k96967JfsP5Cx1LhEumoMTTaHl2ZP3UZ0EkA,,&amp;typo=1\n12. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmysig.io%2fEdEANk7d&amp;c=E,1,-lHK6MGglCi6Vpl8U3Dm_3-sskU9Y500uYCsWU33qFLFmiZA3L0zPk8ysoWefogIpluDntBm8xGLAS8GewBDzS6MBUKaXTgbFa8gdA97MoY,&amp;typo=1\n13. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmysig.io%2f0GQX4DEo&amp;c=E,1,4UKCk_4V7mGYAoUGDBVy_O0TkU0V5-g0lV-TH4cWu2F_o3x7eP1GJeJ2h4DXLTcJdLhup8FXB7XvXeYNCe13MZaNlErLKu8NsqCXQ0pJknD8RH19HPxxKKenoA,,&amp;typo=1\n14. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fimg.mysignature.io%2fp%2f0%2f9%2f1%2f091f3b0e-abbe-5af8-a94a-0d28ad196e2a.png%3ftime%3d1682426773&amp;c=E,1,UrHlFh19YjrIsXf5QL2_CBdBYp3QkCgaBO9FNQbpzOaKudAPNWAzX5bTjqbwbPSidpiqxeUZ9jC6zV4tDVRDf9ugc2QTldA_TwwQyuKgYcVCo_zlb2E,&amp;typo=1\n15. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fimg.mysignature.io%2fs%2f6%2f6%2f9%2f6693b397-3708-5488-bdcd-a20ac2c5bedc.png%3fuid%3d552815&amp;c=E,1,kYcxh1lkSr89eSp2oskFfmpMqumWHtmKoUcIeXoCwMxNxVqXDBxO3HHG8H6vPyzHzvXFv8KgWa2oszog8r0rO3oN5XVQnKDNGXYwsxP--6DIDFsQ95BvkAU,&amp;typo=1\n16. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fimg.mysignature.io%2fs%2f6%2f8%2f1%2f6811b7c0-699b-548f-b7ab-c1f9bda2b9cb.png%3fuid%3d552815&amp;c=E,1,t7pVmRmpR7UwypurIWHUlb8WdSucIuWMIP4YjrZRaQ2YWmIt7JLbI2kvXHEhVNjA3dfeVHulOLviNNP3J8R6vRC_pOx85ikSKHUeclq5fJ7zLsME6w,,&amp;typo=1\n17. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fimg.mysignature.io%2fs%2f0%2fb%2fc%2f0bc4c91a-b5b1-5773-a7e7-b53637b6aeb3.png%3fuid%3d552815&amp;c=E,1,S6GKNuVKtcHFxbYnySOVEM7MN6ZUumsxxHI5g82e8QrP_48NQ66ZfZfMZiy6D4zf-mCrmh5GYfSumUT5Ci318JCPceVzCVj0RovLA2-XDfbY&amp;typo=1\n18. https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fimg.mysignature.io%2fs%2f6%2f0%2f6%2f6060ec67-3387-5b40-988f-60c1a323ec12.png%3fuid%3d552815&amp;c=E,1,vsKywSY4G06eInlH-ni1sEQ6ql7KblnSeMrWW4XBNAm3WY-RwGYLg1y8GKMWPfO4Fmr4zgUBe8tYsanAqwybrqAtaHGUpQbRk9R4q3v8aFFc75w,&amp;typo=1\n19. http://schemas.microsoft.com/office/2004/12/omml\n20. http://www.w3.org/TR/REC-html40\n\n---\n**📎 Saved Attachments (1):**\n1. `Incus US Wire Transfer_8.pdf`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Amit Chand-RE_ Invoice and Banking Details\\Incus US Wire Transfer_8.pdf`\n\n---\n**Email Preview:**\n```\nBula\r\n\r\n \r\n\r\nKindly note am after the bank name, Swift Code and BSB number.\r\n\r\n \r\n\r\n\r\n\r\nFrom: Eric Freakley <eric@incusservices.com> \r\nSent: Thursday, 29 January 2026 2:03 PM\r\nTo: Amit Chand <AmitC@fijiairports.com.fj>\r\nCc: Leslie Lee Fook <leslie@incusservices.com>; Kudruvi Tuitubou <kudruvit@fijiairports.com.fj>\r\nSubject: Re: Invoice and Banking Details\r\n\r\n \r\n\r\nBula Amit,\r\n\r\n \r\n\r\nThe bank details are in the second document attached named Incus US Wire Transfer.\r\n\r\n \r\n\r\nLet me know if that work...\n```",
-      "created": "2026-01-29T14:03:21.000000Z"
-    },
-    {
-      "id": "19998b03-65e4-491f-8c24-a030cd954648",
-      "name": "📧 Your Digital Transformation Project is Ready - Priya!",
-      "status": "todo",
-      "description": "[01/29/2026 10:03] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:33:47\n**Subject:** Your Digital Transformation Project is Ready - Priya!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-Product quality _4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Pri\\DXEngine-Product quality _4.docx`\n\n---\n**Email Preview:**\n```\nHi Priya Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Below is a critique of the original survey responses followed by an improved, refined version for each category. The goal is to make the use case clearer, more detailed, and actionable, ensuring it effectively supports digital transformation planning and execution.\r\n\r\n________________________________\r\n\r\n\r\nCritique of Original Respon...\n```",
-      "created": "2026-01-29T14:03:20.000000Z"
-    },
-    {
-      "id": "127746d7-1ea6-43db-b2ad-532ab3685004",
-      "name": "📧 Your Digital Transformation Project is Ready - Ashnit!",
-      "status": "todo",
-      "description": "[01/29/2026 10:03] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:34:16\n**Subject:** Your Digital Transformation Project is Ready - Ashnit!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-Data analysis _4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Ash\\DXEngine-Data analysis _4.docx`\n\n---\n**Email Preview:**\n```\nHi Ashnit Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Below is a critique of the original survey response followed by an improved and more focused version for each category. The goal is to ensure clarity, alignment with strategic objectives, measurable outcomes, and practical considerations for successful digital transformation initiatives.\r\n\r\n________________________________\r\n\r\n\r\nCri...\n```",
-      "created": "2026-01-29T14:03:19.000000Z"
-    },
-    {
-      "id": "989b997a-98a5-4e68-9eb2-dd09905a8a44",
-      "name": "📧 Your Digital Transformation Project is Ready - Eliki!",
-      "status": "todo",
-      "description": "[01/29/2026 10:03] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:35:39\n**Subject:** Your Digital Transformation Project is Ready - Eliki!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-Arrears from tenants_4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Eli\\DXEngine-Arrears from tenants_4.docx`\n\n---\n**Email Preview:**\n```\nHi Eliki Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Here is a critique of the original survey response followed by an improved, clarified, and more comprehensive version for each category.\r\n\r\n________________________________\r\n\r\n\r\nCritique of Original Survey Response\r\n\r\n\r\n*\tDepartment/Area of Focus: Clear and appropriate.\r\n*\tResponsible Role(s) or Team(s): Good specification but could...\n```",
-      "created": "2026-01-29T14:03:18.000000Z"
-    },
-    {
-      "id": "e7154c2b-800d-4362-978a-b9a4df124da8",
-      "name": "📧 Your Digital Transformation Project is Ready - Shamal!",
-      "status": "todo",
-      "description": "[01/29/2026 10:03] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:35:39\n**Subject:** Your Digital Transformation Project is Ready - Shamal!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-Getting attendance data. Usage history. efficiency _4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Sha\\DXEngine-Getting attendance data. Usage history. efficiency _4.docx`\n\n---\n**Email Preview:**\n```\nHi Shamal Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Below is a critique of the original survey response followed by an improved, clearer, and more actionable version for each category.\r\n\r\n________________________________\r\n\r\n\r\nCritique of Original Survey Response\r\n\r\n\r\n*\tDepartment/Area of Focus: Clear and appropriate.\r\n*\tResponsible Role(s) or Team(s): Specific, but could be expanded...\n```",
-      "created": "2026-01-29T14:03:17.000000Z"
-    },
-    {
-      "id": "ab4fdde9-1327-4f87-bf5d-7721b9056aae",
-      "name": "📧 Your Digital Transformation Project is Ready - Luke!",
-      "status": "todo",
-      "description": "[01/29/2026 10:03] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:35:42\n**Subject:** Your Digital Transformation Project is Ready - Luke!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-To digital transformed the company with all systems integrated , and central data lake_4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Luk\\DXEngine-To digital transformed the company with all systems integrated , and central data lake_4.docx`\n\n---\n**Email Preview:**\n```\nHi Luke Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Below is my critique followed by an improved and clarified version of the survey response based on best practices for digital transformation planning.\r\n\r\n________________________________\r\n\r\n\r\nCritique of Original Survey Response:\r\n\r\n\r\n*\tDepartment/Area of Focus: Clear, but could be expanded to specify if focus is on infrastructure, a...\n```",
-      "created": "2026-01-29T14:03:16.000000Z"
-    },
-    {
-      "id": "850b5281-2e7a-4d3e-b7f2-bf6ccf59524d",
-      "name": "📧 Your Digital Transformation Project is Ready - Kudruvi!",
-      "status": "todo",
-      "description": "[01/29/2026 10:03] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:35:43\n**Subject:** Your Digital Transformation Project is Ready - Kudruvi!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-Review of policy_4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Kud\\DXEngine-Review of policy_4.docx`\n\n---\n**Email Preview:**\n```\nHi Kudruvi Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Here?s an assessment and improved version of the survey responses for the digital transformation business case shared by the Learning and Development Coordinator:\r\n\r\n________________________________\r\n\r\n\r\nOriginal Response Critique and Improved Version\r\n\r\n\r\nDepartment/Area of Focus\r\nOriginal: Human Resource\r\nCritique: Clear and app...\n```",
-      "created": "2026-01-29T14:03:13.000000Z"
-    },
-    {
-      "id": "93f807bf-320f-4dc6-b1d3-b8cb58f6b76e",
-      "name": "📧 Your Digital Transformation Project is Ready - Sanjil!",
-      "status": "todo",
-      "description": "[01/29/2026 10:03] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:35:59\n**Subject:** Your Digital Transformation Project is Ready - Sanjil!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-Promise of quality_4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - San\\DXEngine-Promise of quality_4.docx`\n\n---\n**Email Preview:**\n```\nHi Sanjil Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Below is a critique of the provided survey responses, followed by an improved, refined version of each category to ensure clearer, more actionable, and comprehensive input that can better guide digital transformation initiatives.\r\n\r\n________________________________\r\n\r\n\r\nCritique of Original Responses:\r\n\r\n\r\n1. Department/Area of Foc...\n```",
-      "created": "2026-01-29T14:03:12.000000Z"
-    },
-    {
-      "id": "1488b49d-f98f-47ea-9b9a-d0c597bfa817",
-      "name": "📧 Your Digital Transformation Project is Ready - Faizal!",
-      "status": "todo",
-      "description": "[01/29/2026 10:03] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:36:08\n**Subject:** Your Digital Transformation Project is Ready - Faizal!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-Change Management_4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Fai\\DXEngine-Change Management_4.docx`\n\n---\n**Email Preview:**\n```\nHi Faizal Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Below is a detailed critique of the original survey response, highlighting areas for improvement, followed by an improved version of each category to ensure clearer, more actionable, and comprehensive input for digital transformation planning:\r\n\r\n________________________________\r\n\r\n\r\nCritique of Original Survey Response:\r\n\r\n\r\n*\tDep...\n```",
-      "created": "2026-01-29T14:03:11.000000Z"
-    },
-    {
-      "id": "0e669d47-aa32-45dd-8586-4e48f5778c31",
-      "name": "📧 Your Digital Transformation Project is Ready - Claudia!",
-      "status": "todo",
-      "description": "[01/29/2026 10:03] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:36:21\n**Subject:** Your Digital Transformation Project is Ready - Claudia!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-Too many manual processes _4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Cla\\DXEngine-Too many manual processes _4.docx`\n\n---\n**Email Preview:**\n```\nHi Claudia Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Below is a critique of the original survey responses followed by an improved and more structured version for each category. The goal is to clarify, specify, and strengthen the use case so it better supports a practical digital transformation initiative with clear value and actionable insights.\r\n\r\n________________________________\r\n...\n```",
-      "created": "2026-01-29T14:03:10.000000Z"
-    },
-    {
-      "id": "477b8843-daf3-47bc-b6cf-aba8b4494eed",
-      "name": "📧 Your Digital Transformation Project is Ready - Darven!",
-      "status": "todo",
-      "description": "[01/29/2026 10:03] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:36:22\n**Subject:** Your Digital Transformation Project is Ready - Darven!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-Budget allocation _4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Dar\\DXEngine-Budget allocation _4.docx`\n\n---\n**Email Preview:**\n```\nHi Darven Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Below is a critique of the original survey response and an improved, more detailed, and structured version for each category. The goal is to enhance clarity, alignment, and capture richer, actionable insights to support a more effective digital transformation initiative.\r\n\r\n________________________________\r\n\r\n\r\nCritique of Original...\n```",
-      "created": "2026-01-29T14:03:09.000000Z"
-    },
-    {
-      "id": "b4fc1c06-a496-4f1d-b26a-ab8fcc4282c4",
-      "name": "📧 Your Digital Transformation Project is Ready - Nikita!",
-      "status": "todo",
-      "description": "[01/29/2026 10:03] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:37:18\n**Subject:** Your Digital Transformation Project is Ready - Nikita!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-Data gathering and analytics with limited tools _4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Nik\\DXEngine-Data gathering and analytics with limited tools _4.docx`\n\n---\n**Email Preview:**\n```\nHi Nikita Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Below is a critique of the original survey responses followed by an improved, clearer, and more actionable version for each category. The goal is to sharpen the insight, remove ambiguities, and ensure alignment with digital transformation best practices.\r\n\r\n________________________________\r\n\r\n\r\nCritique and Recommendations\r\n\r\n\r\n1.\t...\n```",
-      "created": "2026-01-29T14:03:08.000000Z"
-    },
-    {
-      "id": "4b8d756a-f96a-47f6-b743-cc67b8b79a44",
-      "name": "📧 Your Digital Transformation Project is Ready - Praneel!",
-      "status": "todo",
-      "description": "[01/29/2026 10:03] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:37:29\n**Subject:** Your Digital Transformation Project is Ready - Praneel!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-Timely delivery of projects_4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Pra\\DXEngine-Timely delivery of projects_4.docx`\n\n---\n**Email Preview:**\n```\nHi Praneel Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Here is a critique followed by an improved, more structured and detailed version of the survey response for the digital transformation use case from the Technical Engineer in the Building & Civil Works department:\r\n\r\n________________________________\r\n\r\n\r\nCritique of Original Response\r\n\r\n\r\n*\tMain Business Challenge: \"Due to the lac...\n```",
-      "created": "2026-01-29T14:03:07.000000Z"
-    },
-    {
-      "id": "089145ca-451e-4aa2-ab7e-6678fc8db205",
-      "name": "📧 Your Digital Transformation Project is Ready - Patrick!",
-      "status": "todo",
-      "description": "[01/29/2026 10:03] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:37:30\n**Subject:** Your Digital Transformation Project is Ready - Patrick!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-Reporting, Compliance, self advertisement _4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Pat\\DXEngine-Reporting, Compliance, self advertisement _4.docx`\n\n---\n**Email Preview:**\n```\nHi Patrick Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Below is a critique of the original survey response followed by an improved and more structured version of each category. The aim is to make the use case clearer, more actionable, and aligned with a robust digital transformation initiative.\r\n\r\n________________________________\r\n\r\n\r\nCritique of Original Response\r\n\r\n\r\n*\tMain Business...\n```",
-      "created": "2026-01-29T14:03:06.000000Z"
-    },
-    {
-      "id": "e1947ce1-5116-44bc-b0ec-67c62b663e3f",
-      "name": "📧 Your Digital Transformation Project is Ready - Ashnil!",
-      "status": "todo",
-      "description": "[01/29/2026 10:03] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:37:34\n**Subject:** Your Digital Transformation Project is Ready - Ashnil!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-Targets_4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Ash\\DXEngine-Targets_4.docx`\n\n---\n**Email Preview:**\n```\nHi Ashnil Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Below is a critique of the original survey response along with an improved and clarified version for each category. This will help Snax - Noodles better define the digital transformation use case and increase the chances of successful implementation and adoption.\r\n\r\n________________________________\r\n\r\n\r\n1. Department/Area of Focus\r...\n```",
-      "created": "2026-01-29T14:03:04.000000Z"
-    },
-    {
-      "id": "e0da35dc-7078-456f-8cab-747f1b0bbfc2",
-      "name": "📧 Your Digital Transformation Project is Ready - Vowase!",
-      "status": "todo",
-      "description": "[01/29/2026 10:03] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:37:53\n**Subject:** Your Digital Transformation Project is Ready - Vowase!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-Transforming people to new vision_4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Vow\\DXEngine-Transforming people to new vision_4.docx`\n\n---\n**Email Preview:**\n```\nHi Vowase Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Below is a critique of the original survey response, followed by an improved, clearer, and more structured version for each category. The goal is to ensure the responses are actionable, specific, and aligned with best practices in digital transformation for Airport Rescue Fire Service (ARFS).\r\n\r\n________________________________\r\n\r\n...\n```",
-      "created": "2026-01-29T14:03:03.000000Z"
-    },
-    {
-      "id": "a94aec75-58cf-49d3-9b62-7aae6f480ce4",
-      "name": "📧 Your Digital Transformation Project is Ready - Mohammed!",
-      "status": "todo",
-      "description": "[01/29/2026 10:03] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:38:13\n**Subject:** Your Digital Transformation Project is Ready - Mohammed!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-Loading efficiency _4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Moh\\DXEngine-Loading efficiency _4.docx`\n\n---\n**Email Preview:**\n```\nHi Mohammed Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Below is a critique of the original survey response followed by an improved, refined version for each category to ensure clarity, completeness, and actionable insight for digital transformation planning in the warehouse context.\r\n\r\n________________________________\r\n\r\n\r\nCritique of Original Responses:\r\n\r\n\r\n*\tDepartment/Area of Foc...\n```",
-      "created": "2026-01-29T14:03:02.000000Z"
-    },
-    {
-      "id": "4d83dbac-c763-47f4-bed7-ed44d94d3e06",
-      "name": "📧 Your Digital Transformation Project is Ready - John!",
-      "status": "todo",
-      "description": "[01/29/2026 10:03] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:38:13\n**Subject:** Your Digital Transformation Project is Ready - John!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-Skills, communication with Managers_9.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Joh\\DXEngine-Skills, communication with Managers_9.docx`\n\n---\n**Email Preview:**\n```\nHi John Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Below is a critique of the original survey response followed by an improved, more precise and actionable version for each category. This improved version will better guide digital transformation planning and execution in the Audit department, addressing gaps and ambiguities.\r\n\r\n________________________________\r\n\r\n\r\nOriginal vs. Criti...\n```",
-      "created": "2026-01-29T14:03:01.000000Z"
-    },
-    {
-      "id": "49a7ebab-401a-42f4-8fce-04a1e456e796",
-      "name": "📧 Your Digital Transformation Project is Ready - Rupeni!",
-      "status": "todo",
-      "description": "[01/29/2026 10:02] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:38:21\n**Subject:** Your Digital Transformation Project is Ready - Rupeni!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-lack of training_4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Rup\\DXEngine-lack of training_4.docx`\n\n---\n**Email Preview:**\n```\nHi Rupeni Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Below is a critique of the original survey response followed by an improved, polished version for each category. The goal is to make the information clearer, more actionable, and aligned with best practices in digital transformation planning for Airside Operations.\r\n\r\n________________________________\r\n\r\n\r\nCritique of the Original R...\n```",
-      "created": "2026-01-29T14:03:00.000000Z"
-    },
-    {
-      "id": "ff4f81b4-4463-4767-b5db-94dfa29bbce2",
-      "name": "📧 Your Digital Transformation Project is Ready - Payal!",
-      "status": "todo",
-      "description": "[01/29/2026 10:02] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:38:50\n**Subject:** Your Digital Transformation Project is Ready - Payal!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-Consistent product quality, maintaining standards _4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Pay\\DXEngine-Consistent product quality, maintaining standards _4.docx`\n\n---\n**Email Preview:**\n```\nHi Payal Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Below is a critique of the initial survey response followed by an improved, more detailed and actionable version for each category. The goal is to enhance clarity, alignment with strategic goals, resource evaluation, and risk mitigation to facilitate a strong digital transformation business case.\r\n\r\n________________________________\r...\n```",
-      "created": "2026-01-29T14:02:59.000000Z"
-    },
-    {
-      "id": "c1dbd8ed-2d6e-4957-bc1c-641259da779a",
-      "name": "📧 Your Digital Transformation Project is Ready - Lorosio!",
-      "status": "todo",
-      "description": "[01/29/2026 10:02] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:38:58\n**Subject:** Your Digital Transformation Project is Ready - Lorosio!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-Spares procecument_4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Lor\\DXEngine-Spares procecument_4.docx`\n\n---\n**Email Preview:**\n```\nHi Lorosio Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Here's a critique of the original survey response followed by an improved, clearer, and more actionable version for each category. The critique highlights gaps, ambiguities, and areas that could be more specific or structured.\r\n\r\n________________________________\r\n\r\n\r\nCritique of Original Survey Response\r\n\r\n\r\nDepartment/Area of Foc...\n```",
-      "created": "2026-01-29T14:02:57.000000Z"
-    },
-    {
-      "id": "6e5d97ec-d303-4657-bd18-92c70f6a133a",
-      "name": "📧 Your Digital Transformation Project is Ready - Elimeleki!",
-      "status": "todo",
-      "description": "[01/29/2026 10:02] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:39:08\n**Subject:** Your Digital Transformation Project is Ready - Elimeleki!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-Staffing, Training, Budget_4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Eli\\DXEngine-Staffing, Training, Budget_4.docx`\n\n---\n**Email Preview:**\n```\nHi Elimeleki Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Here's a detailed critique of the initial survey response followed by an improved, clearer, and more actionable version for each category.\r\n\r\n________________________________\r\n\r\n\r\nCritique of Original Use Case\r\n\r\n\r\n1.\tDepartment/Area of Focus:\r\n\tClear and appropriate ? no changes needed.\r\n\r\n2.\tResponsible Role(s) or Team(s):\r\n\t\"...\n```",
-      "created": "2026-01-29T14:02:56.000000Z"
     }
   ]
 }

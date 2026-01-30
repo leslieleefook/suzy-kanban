@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-30T14:48:00.037Z",
+  "updatedAt": "2026-01-30T15:36:53.605Z",
   "tasks": [
     {
       "id": "c4f9d075-7863-457c-9189-7d32b1e6df98",
@@ -396,8 +396,8 @@
     {
       "id": "8fb83803-7981-481e-863b-2b5516f2eed3",
       "name": "📧 [leslieleefook/suzy-kanban] Run failed: Sync Kanban Data - master (6f68ab6)",
-      "status": "todo",
-      "description": "---\n## 📧 Email Task\n\n**Quick Stats:** 🔗 8 URLs\n\n**From:** leslieleefook <notifications@github.com>\n**Date:** 2026-01-30 05:40:50\n**Subject:** [leslieleefook/suzy-kanban] Run failed: Sync Kanban Data - master (6f68ab6)\n**Created:** 01/30/2026 05:54\n\n---\n## 🔗 Extracted Links\n\n1. [Octocat logo 805b5c3e249f](https://github.githubassets.com/assets/octocat-logo-805b5c3e249f.png)\n   _Code Repository_\n2. [Actions 1cc0c3ccfe18](https://github.githubassets.com/assets/actions-1cc0c3ccfe18.png)\n   _Code Repository_\n3. [21511330759](https://github.com/leslieleefook/suzy-kanban/actions/runs/21511330759)\n   _Code Repository_\n4. [X circle fill red 153d16960fc8](https://github.githubassets.com/assets/x-circle-fill-red-153d16960fc8.png)\n   _Code Repository_\n5. [Notifications](https://github.com/settings/notifications)\n   _Code Repository_\n6. [Report gray d5f2721544ee](https://github.githubassets.com/assets/report-gray-d5f2721544ee.png)\n   _Code Repository_\n7. [Xhtml1 transitional](http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd)\n8. [Xhtml](http://www.w3.org/1999/xhtml)\n\n---\n## 📝 Email Preview\n\n```\n \t \r\n <https://github.githubassets.com/assets/octocat-logo-805b5c3e249f.png> \r\n\r\n[leslieleefook/suzy-kanban] Sync Kanban Data workflow run \r\n\r\n \t \r\n <https://github.githubassets.com/assets/actions-1cc0c3ccfe18.png> \r\n \t \r\n\r\nSync Kanban Data: All jobs have failed\r\n\r\n \t \r\nView workflow run <https://github.com/leslieleefook/suzy-kanban/actions/runs/21511330759>  \t\r\n \t \r\n\t <https://github.githubassets.com/assets/x-circle-fill-red-153d16960fc8.png> \tSync Kanban Data / sync \r\nFailed in 5 seconds \r\n\r\n ...\n```\n---\n\n*Task auto-generated from Outlook email*",
+      "status": "in-progress",
+      "description": "---\n## 📧 Email Task\n\n**Quick Stats:** 🔗 8 URLs\n\n**From:** leslieleefook <notifications@github.com>\n**Date:** 2026-01-30 05:40:50\n**Subject:** [leslieleefook/suzy-kanban] Run failed: Sync Kanban Data - master (6f68ab6)\n**Created:** 01/30/2026 05:54\n\n---\n## 🔗 Extracted Links\n\n1. [Octocat logo 805b5c3e249f](https://github.githubassets.com/assets/octocat-logo-805b5c3e249f.png)\n   _Code Repository_\n2. [Actions 1cc0c3ccfe18](https://github.githubassets.com/assets/actions-1cc0c3ccfe18.png)\n   _Code Repository_\n3. [21511330759](https://github.com/leslieleefook/suzy-kanban/actions/runs/21511330759)\n   _Code Repository_\n4. [X circle fill red 153d16960fc8](https://github.githubassets.com/assets/x-circle-fill-red-153d16960fc8.png)\n   _Code Repository_\n5. [Notifications](https://github.com/settings/notifications)\n   _Code Repository_\n6. [Report gray d5f2721544ee](https://github.githubassets.com/assets/report-gray-d5f2721544ee.png)\n   _Code Repository_\n7. [Xhtml1 transitional](http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd)\n8. [Xhtml](http://www.w3.org/1999/xhtml)\n\n---\n## 📝 Email Preview\n\n```\n \t \r\n <https://github.githubassets.com/assets/octocat-logo-805b5c3e249f.png> \r\n\r\n[leslieleefook/suzy-kanban] Sync Kanban Data workflow run \r\n\r\n \t \r\n <https://github.githubassets.com/assets/actions-1cc0c3ccfe18.png> \r\n \t \r\n\r\nSync Kanban Data: All jobs have failed\r\n\r\n \t \r\nView workflow run <https://github.com/leslieleefook/suzy-kanban/actions/runs/21511330759>  \t\r\n \t \r\n\t <https://github.githubassets.com/assets/x-circle-fill-red-153d16960fc8.png> \tSync Kanban Data / sync \r\nFailed in 5 seconds \r\n\r\n ...\n```\n---\n\n*Task auto-generated from Outlook email*\n[01/30/2026 11:05] 🔄 Status → in-progress\n[01/30/2026 11:06] [01/30/2026 11:05] 🔍 Investigating GitHub CI failure for suzy-kanban Sync Kanban Data workflow...\n[01/30/2026 11:09] [01/30/2026 11:10] ⚠️ Cannot view full sync.js content via gh/Invoke-WebRequest due to encoding/truncation. File appears to have encoding issues preventing proper reading. GitHub Actions error: 'All jobs have failed'. Recommend: 1) Use web browser to view https://github.com/leslieleefook/suzy-kanban/blob/master/sync.js directly, 2) Check for Node.js syntax errors, 3) Verify if any API keys/secrets are missing in GitHub Actions config.",
       "created": "2026-01-30T09:54:32.000000Z"
     },
     {
@@ -627,8 +627,8 @@
     {
       "id": "defd216b-a9e3-4199-ace4-40ca21aa3353",
       "name": "Respond to Marian - FY 2021-22 ending balances request",
-      "status": "todo",
-      "description": "[01/29/2026 13:52] 📥 Task created\n\nMarian requested ending balances for all accounts for FY 2021-2022 to use as beginning balances for FY 2022-2023. Tried reaching via WhatsApp/phone without success. Draft response ready for review.",
+      "status": "in-progress",
+      "description": "[01/29/2026 13:52] 📥 Task created\n\nMarian requested ending balances for all accounts for FY 2021-2022 to use as beginning balances for FY 2022-2023. Tried reaching via WhatsApp/phone without success. Draft response ready for review.\n[01/30/2026 11:09] 🔄 Status → in-progress",
       "created": "2026-01-29T17:52:23.000000Z"
     },
     {

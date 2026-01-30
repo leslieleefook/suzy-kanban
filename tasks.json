@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-01-30T06:52:59.347Z",
+  "updatedAt": "2026-01-30T07:41:28.609Z",
   "tasks": [
+    {
+      "id": "eed138ac-3320-4187-9833-e18398757210",
+      "name": "📧 CXC Exam Papers",
+      "status": "todo",
+      "description": "---\n## 📧 Email Task\n\n**Quick Stats:** 🔗 2 URLs | 📎 3 Attachments\n\n**From:** Marc Sutton </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=41D1885422C647C6B7C17A70541F8797-MARC>\n**Date:** 2026-01-29 10:41:56\n**Subject:** CXC Exam Papers\n**Created:** 01/30/2026 03:14\n\n---\n## 🔗 Extracted Links\n\n1. [100555f631cd4db38bb47e83801fbe9a@incusservices.com](https://outlook.office.com/bookwithme/user/100555f631cd4db38bb47e83801fbe9a@incusservices.com?anonymous&ismsaljsauthenabled&ep=bwmEmailSignature)\n2. [100555f631cd4db38bb47e83801fbe9a@incusservices.com](https://outlook.office.com/bookwithme/user/100555f631cd4db38bb47e83801fbe9a@incusservices.com?anonymous&amp;ismsaljsauthenabled&amp;ep=bwmEmailSignature)\n\n---\n## 📎 Attachments\n\n📄 **1.** `TST-CCSLCMath-05134011-PT2013_7.pdf`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Marc Sutton-CXC Exam Papers\\TST-CCSLCMath-05134011-PT2013_7.pdf`\n   🔗 [Open File](file:///C:/Users/LeslieLeeFook/clawd/attachments/2026-01/Marc Sutton-CXC Exam Papers/TST-CCSLCMath-05134011-PT2013_7.pdf)\n\n📄 **2.** `TST-CCSLCMath-05134012-PT2013_7.pdf`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Marc Sutton-CXC Exam Papers\\TST-CCSLCMath-05134012-PT2013_7.pdf`\n   🔗 [Open File](file:///C:/Users/LeslieLeeFook/clawd/attachments/2026-01/Marc Sutton-CXC Exam Papers/TST-CCSLCMath-05134012-PT2013_7.pdf)\n\n🖼️ **3.** `Outlook-lpllzbsv_7.png`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Marc Sutton-CXC Exam Papers\\Outlook-lpllzbsv_7.png`\n   🔗 [Open File](file:///C:/Users/LeslieLeeFook/clawd/attachments/2026-01/Marc Sutton-CXC Exam Papers/Outlook-lpllzbsv_7.png)\n\n---\n## 📝 Email Preview\n\n```\n\r\n\r\nBest Regards,\r\nMarc Sutton\r\nAI Engineer\r\nIncus Services Limited\r\nPhone: +868-265-5965\r\nEmail: marc@incusservices.com\r\n <https://outlook.office.com/bookwithme/user/100555f631cd4db38bb47e83801fbe9a@incusservices.com?anonymous&ismsaljsauthenabled&ep=bwmEmailSignature> \t \tBook time to meet with me <https://outlook.office.com/bookwithme/user/100555f631cd4db38bb47e83801fbe9a@incusservices.com?anonymous&ismsaljsauthenabled&ep=bwmEmailSignature> \r\n\t\n```\n---\n\n*Task auto-generated from Outlook email*",
+      "created": "2026-01-30T07:14:55.000000Z"
+    },
+    {
+      "id": "a449a9d7-b38d-4333-bd2b-6c4f3753cd3b",
+      "name": "📧 HSSE - Incident Documentation",
+      "status": "todo",
+      "description": "---\n## 📧 Email Task\n\n**Quick Stats:** 📎 1 Attachment\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-29 22:26:09\n**Subject:** HSSE - Incident Documentation\n**Created:** 01/30/2026 03:14\n\n---\n## 📎 Attachments\n\n📝 **1.** `Incident_31.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-HSSE - Incident Documentation\\Incident_31.docx`\n   🔗 [Open File](file:///C:/Users/LeslieLeeFook/clawd/attachments/2026-01/Leslie Lee Fook-HSSE - Incident Documentation/Incident_31.docx)\n\n---\n## 📝 Email Preview\n\n```\n\r\nScene Analysis\r\n\r\n\r\nImage quality and context\r\n\r\n*\tClarity: High. Lighting is adequate and key elements are visible (injured worker on floor, coworker calling for help, forklift in close proximity, warehouse racking and boxes).\r\n*\tLimitations: Single angle; the exact contact point, floor condition (spills/debris/unevenness), pedestrian walkway markings, and forklift motion status are not clearly confirmed. No visibility of footwear type (steel-toe), exact PPE compliance for the injured worker?...\n```\n---\n\n*Task auto-generated from Outlook email*",
+      "created": "2026-01-30T07:14:53.000000Z"
+    },
     {
       "id": "89504100-695e-479b-a98e-aa653f2d07f7",
       "name": "📧 CXC Exam Papers",
@@ -651,20 +665,6 @@
       "status": "completed",
       "description": "[01/29/2026 10:03] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:33:47\n**Subject:** Your Digital Transformation Project is Ready - Priya!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-Product quality _4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Pri\\DXEngine-Product quality _4.docx`\n\n---\n**Email Preview:**\n```\nHi Priya Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Below is a critique of the original survey responses followed by an improved, refined version for each category. The goal is to make the use case clearer, more detailed, and actionable, ensuring it effectively supports digital transformation planning and execution.\r\n\r\n________________________________\r\n\r\n\r\nCritique of Original Respon...\n```\n[01/29/2026 21:50] ✅ Status → completed",
       "created": "2026-01-29T14:03:20.000000Z"
-    },
-    {
-      "id": "127746d7-1ea6-43db-b2ad-532ab3685004",
-      "name": "📧 Your Digital Transformation Project is Ready - Ashnit!",
-      "status": "todo",
-      "description": "[01/29/2026 10:03] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:34:16\n**Subject:** Your Digital Transformation Project is Ready - Ashnit!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-Data analysis _4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Ash\\DXEngine-Data analysis _4.docx`\n\n---\n**Email Preview:**\n```\nHi Ashnit Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Below is a critique of the original survey response followed by an improved and more focused version for each category. The goal is to ensure clarity, alignment with strategic objectives, measurable outcomes, and practical considerations for successful digital transformation initiatives.\r\n\r\n________________________________\r\n\r\n\r\nCri...\n```",
-      "created": "2026-01-29T14:03:19.000000Z"
-    },
-    {
-      "id": "989b997a-98a5-4e68-9eb2-dd09905a8a44",
-      "name": "📧 Your Digital Transformation Project is Ready - Eliki!",
-      "status": "todo",
-      "description": "[01/29/2026 10:03] 📥 Task created from email\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:35:39\n**Subject:** Your Digital Transformation Project is Ready - Eliki!\n\n---\n**📎 Saved Attachments (1):**\n1. `DXEngine-Arrears from tenants_4.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Eli\\DXEngine-Arrears from tenants_4.docx`\n\n---\n**Email Preview:**\n```\nHi Eliki Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Here is a critique of the original survey response followed by an improved, clarified, and more comprehensive version for each category.\r\n\r\n________________________________\r\n\r\n\r\nCritique of Original Survey Response\r\n\r\n\r\n*\tDepartment/Area of Focus: Clear and appropriate.\r\n*\tResponsible Role(s) or Team(s): Good specification but could...\n```",
-      "created": "2026-01-29T14:03:18.000000Z"
     }
   ]
 }

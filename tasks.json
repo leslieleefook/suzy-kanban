@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-01-30T11:54:09.311Z",
+  "updatedAt": "2026-01-30T12:59:08.041Z",
   "tasks": [
+    {
+      "id": "ebf9f030-a223-4571-a95e-46cf34f596ec",
+      "name": "Complete HIRA Spa site optimization for SEO",
+      "status": "in-progress",
+      "description": "[01/30/2026 07:54] 📥 Task created\n\n[01/30/2026 07:54] 📥 Task from proactive-work queue\n\n**Website:** hiratt.com\n**Focus:** Local SEO for Trinidad & Tobago beauty/spa market\n\n**Scope:**\n1. On-page SEO audit (meta tags, headings, images, links)\n2. Local SEO (Google Business Profile, location keywords, schema markup)\n3. Technical SEO (page speed, SSL, broken links, sitemap, robots.txt)\n4. Content optimization (service pages, testimonials, location pages)\n\n**Sub-Agent:** hira-seo-optimization (running)\n\n[01/30/2026 07:54] 🔄 Sub-agent spawned and working",
+      "created": "2026-01-30T11:54:13.000000Z"
+    },
     {
       "id": "c2b92d0e-2741-4dc9-b382-7a4582109e79",
       "name": "Review Khalil's Tableau license quote",
@@ -651,13 +658,6 @@
       "status": "todo",
       "description": "---\n## 📧 Email Task\n\n**Quick Stats:** 📎 1 Attachment\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:38:21\n**Subject:** Your Digital Transformation Project is Ready - Rupeni!\n**Created:** 01/29/2026 13:31\n\n---\n## 📎 Attachments\n\n📝 **1.** `DXEngine-lack of training_8.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Rup\\DXEngine-lack of training_8.docx`\n   🔗 [Open File](file:///C:/Users/LeslieLeeFook/clawd/attachments/2026-01/Leslie Lee Fook-Your Digital Transformation Project is Ready - Rup/DXEngine-lack of training_8.docx)\n\n---\n## 📝 Email Preview\n\n```\nHi Rupeni Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Below is a critique of the original survey response followed by an improved, polished version for each category. The goal is to make the information clearer, more actionable, and aligned with best practices in digital transformation planning for Airside Operations.\r\n\r\n________________________________\r\n\r\n\r\nCritique of the Original R...\n```\n---\n\n*Task auto-generated from Outlook email*",
       "created": "2026-01-29T17:31:04.000000Z"
-    },
-    {
-      "id": "622c43cf-b651-44a1-9876-d8122d253172",
-      "name": "📧 Your Digital Transformation Project is Ready - Payal!",
-      "status": "completed",
-      "description": "---\n## 📧 Email Task\n\n**Quick Stats:** 📎 1 Attachment\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-28 22:38:50\n**Subject:** Your Digital Transformation Project is Ready - Payal!\n**Created:** 01/29/2026 13:31\n\n---\n## 📎 Attachments\n\n📝 **1.** `DXEngine-Consistent product quality, maintaining standards _8.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-Your Digital Transformation Project is Ready - Pay\\DXEngine-Consistent product quality, maintaining standards _8.docx`\n   🔗 [Open File](file:///C:/Users/LeslieLeeFook/clawd/attachments/2026-01/Leslie Lee Fook-Your Digital Transformation Project is Ready - Pay/DXEngine-Consistent product quality, maintaining standards _8.docx)\n\n---\n## 📝 Email Preview\n\n```\nHi Payal Please see the attached your Digital Transformation Project in which the robot army created and prepared for you????????! \r\n\r\nExpertRevision\r\n\r\n\r\nCertainly! Below is a critique of the initial survey response followed by an improved, more detailed and actionable version for each category. The goal is to enhance clarity, alignment with strategic goals, resource evaluation, and risk mitigation to facilitate a strong digital transformation business case.\r\n\r\n________________________________\r...\n```\n---\n\n*Task auto-generated from Outlook email*\n[01/29/2026 21:48] ✅ Status → completed",
-      "created": "2026-01-29T17:31:03.000000Z"
     }
   ]
 }

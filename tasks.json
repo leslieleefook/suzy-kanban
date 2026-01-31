@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-01-31T04:15:16.223Z",
+  "updatedAt": "2026-01-31T05:23:00.230Z",
   "tasks": [
+    {
+      "id": "30e605fa-bf22-475c-8c95-5f46923cb789",
+      "name": "📧 Cancellation of subscription",
+      "status": "todo",
+      "description": "---\n## 📧 Email Task\n\n**Quick Stats:** 🔗 1 URL | 📎 1 Attachment\n\n**From:** Kesha Osford <kosford@rmco.com>\n**Date:** 2026-01-30 18:06:50\n**Subject:** Cancellation of subscription\n**Created:** 01/31/2026 00:19\n\n---\n## 🔗 Extracted Links\n\n1. [Rmco](https://rmco.com)\n\n---\n## 📎 Attachments\n\n🖼️ **1.** `Outlook-nqggd2ok_1.jpg`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Kesha Osford-Cancellation of subscription\\Outlook-nqggd2ok_1.jpg`\n   🔗 [Open File](file:///C:/Users/LeslieLeeFook/clawd/attachments/2026-01/Kesha Osford-Cancellation of subscription/Outlook-nqggd2ok_1.jpg)\n\n---\n## 📝 Email Preview\n\n```\nGood Afternoon Leslie\r\n\r\nWe would like to discontinue our subscription with immediate effect.\r\n\r\nReason: the staff no longer uses the platform.\r\n\r\nI appreciate your attention to this matter\r\n\r\nBest regards,\r\n\r\nKesha Osford\r\nChief Financial Officer\r\nRoberts Manufacturing Company Ltd.\r\nLower Estate, St. Michael\r\nBarbados BB 11000\r\nEmail: kosford@rmco.com\r\nPhone:246-429-2131 / Website: https://rmco.com\r\n\r\n\n```\n---\n\n*Task auto-generated from Outlook email*",
+      "created": "2026-01-31T04:19:20.000000Z"
+    },
     {
       "id": "d3e57c3b-ae07-4b8c-9743-06706f850c50",
       "name": "📧 Cancellation of subscription",
@@ -595,13 +602,6 @@
       "status": "completed",
       "description": "---\n## 📧 Email Task\n\n**Quick Stats:** 🔗 2 URLs | 📎 3 Attachments\n\n**From:** Marc Sutton </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=41D1885422C647C6B7C17A70541F8797-MARC>\n**Date:** 2026-01-29 10:41:56\n**Subject:** CXC Exam Papers\n**Created:** 01/30/2026 02:26\n\n---\n## 🔗 Extracted Links\n\n1. [100555f631cd4db38bb47e83801fbe9a@incusservices.com](https://outlook.office.com/bookwithme/user/100555f631cd4db38bb47e83801fbe9a@incusservices.com?anonymous&ismsaljsauthenabled&ep=bwmEmailSignature)\n2. [100555f631cd4db38bb47e83801fbe9a@incusservices.com](https://outlook.office.com/bookwithme/user/100555f631cd4db38bb47e83801fbe9a@incusservices.com?anonymous&amp;ismsaljsauthenabled&amp;ep=bwmEmailSignature)\n\n---\n## 📎 Attachments\n\n📄 **1.** `TST-CCSLCMath-05134011-PT2013_6.pdf`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Marc Sutton-CXC Exam Papers\\TST-CCSLCMath-05134011-PT2013_6.pdf`\n   🔗 [Open File](file:///C:/Users/LeslieLeeFook/clawd/attachments/2026-01/Marc Sutton-CXC Exam Papers/TST-CCSLCMath-05134011-PT2013_6.pdf)\n\n📄 **2.** `TST-CCSLCMath-05134012-PT2013_6.pdf`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Marc Sutton-CXC Exam Papers\\TST-CCSLCMath-05134012-PT2013_6.pdf`\n   🔗 [Open File](file:///C:/Users/LeslieLeeFook/clawd/attachments/2026-01/Marc Sutton-CXC Exam Papers/TST-CCSLCMath-05134012-PT2013_6.pdf)\n\n🖼️ **3.** `Outlook-lpllzbsv_6.png`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Marc Sutton-CXC Exam Papers\\Outlook-lpllzbsv_6.png`\n   🔗 [Open File](file:///C:/Users/LeslieLeeFook/clawd/attachments/2026-01/Marc Sutton-CXC Exam Papers/Outlook-lpllzbsv_6.png)\n\n---\n## 📝 Email Preview\n\n```\n\r\n\r\nBest Regards,\r\nMarc Sutton\r\nAI Engineer\r\nIncus Services Limited\r\nPhone: +868-265-5965\r\nEmail: marc@incusservices.com\r\n <https://outlook.office.com/bookwithme/user/100555f631cd4db38bb47e83801fbe9a@incusservices.com?anonymous&ismsaljsauthenabled&ep=bwmEmailSignature> \t \tBook time to meet with me <https://outlook.office.com/bookwithme/user/100555f631cd4db38bb47e83801fbe9a@incusservices.com?anonymous&ismsaljsauthenabled&ep=bwmEmailSignature> \r\n\t\n```\n---\n\n*Task auto-generated from Outlook email*\n[01/30/2026 14:18] ✅ Auto-completed: Duplicate/forwarded email - no action required",
       "created": "2026-01-30T06:26:14.000000Z"
-    },
-    {
-      "id": "8a13c592-6fc2-49b5-bb2c-bab5eccbc76b",
-      "name": "📧 HSSE - Incident Documentation",
-      "status": "todo",
-      "description": "---\n## 📧 Email Task\n\n**Quick Stats:** 📎 1 Attachment\n\n**From:** Leslie Lee Fook </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C7B240FDE5AC40FF8B665A16B6ACC2A1-LESLIE>\n**Date:** 2026-01-29 22:26:09\n**Subject:** HSSE - Incident Documentation\n**Created:** 01/30/2026 02:26\n\n---\n## 📎 Attachments\n\n📝 **1.** `Incident_30.docx`\n   Path: `C:\\Users\\LeslieLeeFook\\clawd\\attachments\\2026-01\\Leslie Lee Fook-HSSE - Incident Documentation\\Incident_30.docx`\n   🔗 [Open File](file:///C:/Users/LeslieLeeFook/clawd/attachments/2026-01/Leslie Lee Fook-HSSE - Incident Documentation/Incident_30.docx)\n\n---\n## 📝 Email Preview\n\n```\n\r\nScene Analysis\r\n\r\n\r\nImage quality and context\r\n\r\n*\tClarity: High. Lighting is adequate and key elements are visible (injured worker on floor, coworker calling for help, forklift in close proximity, warehouse racking and boxes).\r\n*\tLimitations: Single angle; the exact contact point, floor condition (spills/debris/unevenness), pedestrian walkway markings, and forklift motion status are not clearly confirmed. No visibility of footwear type (steel-toe), exact PPE compliance for the injured worker?...\n```\n---\n\n*Task auto-generated from Outlook email*",
-      "created": "2026-01-30T06:26:13.000000Z"
     }
   ]
 }
